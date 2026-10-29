@@ -1,36 +1,5 @@
 [
   {
-    "id": "auto-665413a36fdfca",
-    "sourceId": "gd-party-36",
-    "institution": "深圳市委党校",
-    "region": "广东",
-    "city": "深圳",
-    "type": "党校",
-    "kind": "postdoc",
-    "title": "2026-04-01 中共深圳市委党校博士后招收公告",
-    "url": "https://www.szps.gov.cn/shenzhen/news/ggl/content/post_1667163.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:13:41+08:00",
-    "lastSeenAt": "2026-10-29T12:13:41+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "马克思主义哲学、党史党建、经济学、政治学、社会学、公共管理学、法学等学科。",
-      "在规定报名时间内，将报名材料的电子版和原件的扫描件发送至luoc@szps.gov.cn，邮件标题注明：应聘博士后+专业+本人姓名。"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "dfe6dbb7c76d49a054de0ec41f210842f327088337e62496527c08107caee006",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实"
-  },
-  {
     "id": "auto-57db2f6addea78",
     "sourceId": "gd-gz-party",
     "institution": "中共广州市委党校",
@@ -252,43 +221,6 @@
     ],
     "verificationIssues": [],
     "contentHash": "07076bef947758bf035c26d0162563ba18995b3cf26e1231998443090aa890f8",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实"
-  },
-  {
-    "id": "auto-cfb1ebd1170f97",
-    "sourceId": "gd-sz-gm",
-    "institution": "单位详见原公告",
-    "region": "广东",
-    "city": "深圳",
-    "type": "综合招聘平台",
-    "kind": "postdoc",
-    "title": "-中共深圳市光明区委党校2026年博士后招聘公告",
-    "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:14:37+08:00",
-    "lastSeenAt": "2026-10-29T12:14:37+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "1 | 综合研究分析 | 从事教学研究和政府决策咨询。 | 若干 | 35 | 理论经济学（A0201）\n应用经济学（A0202）\n生物学（A0710）\n电子科学与技术（A0809）\n信息与通信工程（A0810）\n计算机科学与技术（A0812）\n软件工程（A0835）\n网络空间安全（A0839）\n电子信息（A0840)\n材料科学与工程（A0805）\n生物工程（A0836）\n生物与医药（A0845）\n管理科学与工程（A1201）\n工商管理（A1202）\n公共管理（A1204）\n交叉学科（A14）\n生物医学工程（A0831）\n食品科学与工程（A0832）\n生物化工(A081703)\n制药工程硕士（专业硕士）\n(A081707)\n医学（A10） | 1.具有良好的政治素质和道德修养，遵纪守法，无不良记录；\n2.具有扎实的理论和文字功底、出色的分析和解决问题的能力，了解涉国家产业发展趋势及政策，并对特定产业或行业有深入了解和研究经验；\n3.有较强的表达能力，良好的沟通及交际能力；工作认真踏实，具有团队协作精神，责任心强；\n4.需全职在岗工作2年，男女不限。 | ",
-      "2 | 产业研究 | 1.负责研究区域生命健康相关的产业布局规划、产业集群规划，制定涉及产业方向的研究、分析和预测；\n2.对行业、产业链进行调研分析，形成相关报告并提出建议方案；\n3.研究重点企业的发展规划和战略布局，围绕企业各项需求问题，制定解决方案。 | 若干 | 35 | 工学（A08）\n理学（A07）\n经济学（A02）\n管理学（A12）\n医学（A10） | 1.具有良好的政治素质和道德修养，遵纪守法，无不良记录；\n2.具有扎实的理论和文字功底、出色的分析和解决问题的能力，了解涉国家产业发展趋势及政策，并对特定产业或行业有深入了解和研究经验；\n3.有较强的表达能力，良好的沟通及交际能力；工作认真踏实，具有团队协作精神，责任心强；\n4.独立科研能力较强，从事过相关课题研究，作为独立作者或第一作者、第二作者（博士生导师作为第一作者）在核心期刊发表过1篇以上论文；\n5.需全职在岗工作2年，男女不限。 | ",
-      "3 | 产业研究 | 1.负责研究区域产业布局规划、产业集群规划，制定涉及产业方向的研究、分析和预测；\n2.对行业、产业链进行调研分析，形成相关报告并提出建议方案；\n3.研究重点企业的发展规划和战略布局，围绕企业各项需求问题，制定解决方案。 | 若干 | 35 | 经济学（A02）\n法学（A0301）\n工学（A08）\n管理科学与工程（A1201）\n工商管理（A1202） | 1.具有扎实的理论和文字功底、出色的分析和解决问题的能力，了解涉国家产业发展趋势及政策，并对特定产业或行业有深入了解和研究经验；\n2.有较强的表达能力，良好的沟通及交际能力；工作认真踏实，具有团队协作精神，责任心强；\n3.需全职在岗工作2年，男女不限。 | "
-    ],
-    "attachments": [
-      {
-        "label": "附件2.博士后招聘岗位表.xlsx",
-        "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
-      }
-    ],
-    "verificationIssues": [],
-    "contentHash": "339e982c69dee5c11ce9140fb2484f47abb5fbaca4754040425d681a18ee63ee",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实"
   },

@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T13:00:30+08:00",
+  "generatedAt": "2026-10-29T13:16:58+08:00",
   "lastScanStartedAt": "2026-10-29T12:13:21+08:00",
   "lastScanCompletedAt": "2026-10-29T12:17:02+08:00",
-  "lastVerifiedAt": "2026-10-29T12:26:19+08:00",
+  "lastVerifiedAt": "2026-10-29T13:16:58+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
-    "configured": 76,
+    "configured": 79,
     "attempted": 76,
     "ok": 37,
     "partial": 9,
     "failed": 30,
-    "unattempted": 0
+    "unattempted": 3
   },
   "coverageNote": "来源状态只反映本次已配置入口扫描；不代表四地所有单位或所有历史页已穷尽。自动线索不计入已核验岗位。",
   "jobs": [
@@ -486,9 +486,13 @@
         {
           "note": "嘉兴人才网转载列岗位1：区域经济学、产业经济学，博士，1人，滚动报名至12月31日；未据此直接判为当前在招。",
           "url": "https://www.573job.com/Index/ShowArticle.aspx?NewsID=13540"
+        },
+        {
+          "note": "10月29日重查官网仍可见7月14日招聘及10月25日部分岗位后续公告；原文详情访问受限，保留为线索。",
+          "url": "https://www.zjhcgbxy.com/"
         }
       ],
-      "summary": "官网公告栏可见2026年招聘通知，转载列教师岗1招经济学博士1人。原文详情及当前名额尚未完成核验，保留为重点线索。",
+      "summary": "转载岗位表列区域经济学、产业经济学教师1名，报名至12月31日。官网7月招聘公告及10月后续公告可见，但详情本次仍不可访问；经济学岗位的当前名额及原文条件待确认。",
       "sourceId": "zj-jx-party",
       "urlType": "listing",
       "affiliation": "省委组织部与嘉兴市委共同管理、以嘉兴市委为主的事业单位"
@@ -743,35 +747,328 @@
       ]
     },
     {
-      "id": "auto-665413a36fdfca",
-      "sourceId": "gd-party-36",
-      "institution": "深圳市委党校",
+      "id": "nj-party-econ-2026",
+      "institution": "中共南京市委党校",
+      "region": "江苏",
+      "city": "南京",
+      "title": "教师 · 经济学（科技创新、人文经济方向）",
+      "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/t20260206_5788860.html",
+      "sourceId": "js-nj-party",
+      "majors": [
+        "经济学（科技创新、人文经济相关方向）"
+      ],
+      "publishedAt": "2026-02-06",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "requirements": {
+        "education": "博士研究生，须取得相应学位",
+        "ageLimit": 38,
+        "ageText": "38周岁以下，1987年2月7日以后出生；特别优秀或亟需紧缺人才可适当放宽",
+        "freshGraduate": "2026年应届博士学历学位证书取得期限为2026年12月31日",
+        "overseas": "国（境）外毕业人员须于2026年12月31日前完成留服学历认证；专业方向由单位审核",
+        "research": "经济学须为科技创新、人文经济相关方向；考核包含专业能力评价、试讲和综合考评",
+        "employment": "全额拨款事业编制"
+      },
+      "evidence": [
+        {
+          "note": "官方岗位表同一教师岗位面向7类专业方向，合计计划5人，其中包括经济学；不将5人全算为经济学人数。",
+          "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/P020260206547242915184.xls"
+        },
+        {
+          "note": "未招满岗位报名有效期至2026年12月31日，招满即止。",
+          "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/t20260206_5788860.html"
+        },
+        {
+          "note": "7月13日已发布拟聘公示，附件列4名拟聘人员；这不足以确认当前剩余经济学名额。",
+          "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202607/t20260713_5875752.html"
+        }
+      ],
+      "attachments": [
+        {
+          "label": "官方岗位表（XLS）",
+          "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/P020260206547242915184.xls"
+        }
+      ],
+      "summary": "经济学博士可按科技创新、人文经济相关方向申报，年度滚动招聘至年底。7月已有拟聘公示，须先核实该方向是否继续接收；5人为跨专业共享计划，经济学人数未单列。",
+      "affiliation": "南京市委直属党校",
+      "type": "党校",
+      "kind": "faculty",
+      "headcount": null,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T13:16:58+08:00",
+      "firstSeenAt": "2026-10-29T13:16:58+08:00",
+      "remainingVacancies": "未核实，请向招聘单位确认当前名额"
+    },
+    {
+      "id": "yiwu-party-econ-2026",
+      "institution": "中共义乌市委党校",
+      "region": "浙江",
+      "city": "义乌",
+      "title": "学科带头人 · 经济学类",
+      "url": "https://www.zjdx.gov.cn/col/col1229656576/art/2025/art_a96cf7e1b13e42c69ff2b5368ac5e060.html",
+      "sourceId": "zj-party",
+      "majors": [
+        "经济学类"
+      ],
+      "headcount": 1,
+      "publishedAt": "2025-12-04",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "requirements": {
+        "education": "博士研究生学历及相应学位",
+        "party": "required",
+        "partyText": "中共党员，含预备党员",
+        "ageText": "1986年1月1日以后出生，以身份证为准",
+        "freshGraduate": "须于2026年12月31日前取得相应学历学位及所需认证",
+        "overseas": "国（境）外学历须提供留服认证；报名材料从本科起逐阶段提交",
+        "research": "须具有岗位所需研究能力和学术发展潜力，提交教研咨成果及获奖证明；学科带头人具体适配需由单位审核",
+        "employment": "财政全额拨款事业编制"
+      },
+      "evidence": [
+        {
+          "note": "省委党校官网转载的原单位公告明确经济学类学科带头人1名、博士及党员要求。原公告落款为2025年12月4日，官网刊载日期为12月10日。",
+          "url": "https://www.zjdx.gov.cn/col/col1229656576/art/2025/art_a96cf7e1b13e42c69ff2b5368ac5e060.html"
+        },
+        {
+          "note": "报名至2026年12月31日，招满可提前公告截止；当前实际剩余名额尚未确认。",
+          "url": "https://www.zjdx.gov.cn/col/col1229656576/art/2025/art_a96cf7e1b13e42c69ff2b5368ac5e060.html"
+        }
+      ],
+      "summary": "经济学类事业编制岗位1名，要求党员（含预备党员），原公告滚动至2026年底。属于2026年度招聘，不应将刊载年份或“学科带头人”名称直接当作应届不符合的依据；实际名额和成果适配须确认。",
+      "affiliation": "义乌市委党校，财政全额拨款事业单位",
+      "type": "党校",
+      "kind": "faculty",
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T13:16:58+08:00",
+      "firstSeenAt": "2026-10-29T13:16:58+08:00",
+      "remainingVacancies": "未核实，请向招聘单位确认当前名额"
+    },
+    {
+      "id": "gm-party-postdoc-comprehensive",
+      "institution": "中共深圳市光明区委党校",
       "region": "广东",
       "city": "深圳",
-      "type": "党校",
       "kind": "postdoc",
-      "title": "2026-04-01 中共深圳市委党校博士后招收公告",
-      "url": "https://www.szps.gov.cn/shenzhen/news/ggl/content/post_1667163.html",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:13:41+08:00",
-      "lastSeenAt": "2026-10-29T12:13:41+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "马克思主义哲学、党史党建、经济学、政治学、社会学、公共管理学、法学等学科。",
-        "在规定报名时间内，将报名材料的电子版和原件的扫描件发送至luoc@szps.gov.cn，邮件标题注明：应聘博士后+专业+本人姓名。"
+      "title": "博士后 · 综合研究分析",
+      "positionCode": "1",
+      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html",
+      "sourceId": "gd-gm-recruit",
+      "majors": [
+        "理论经济学（A0201）",
+        "应用经济学（A0202）"
       ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "dfe6dbb7c76d49a054de0ec41f210842f327088337e62496527c08107caee006",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实"
+      "publishedAt": "2026-07-14",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "requirements": {
+        "education": "取得博士学位三年内或2026年应届博士研究生",
+        "ageLimit": 35,
+        "ageText": "35周岁及以下，年龄及时间节点以系统申请博士后入站时间为准",
+        "freshGraduate": "明确接受2026年应届博士；未发证者按公告提供培养单位证明",
+        "overseas": "港澳博士学历认证及合作招收单位进站要求须另行核对",
+        "research": "关注政府决策咨询与相关产业政策，需扎实文字分析能力及产业研究经验。",
+        "employment": "全职在岗2年的博士后，不等于事业编制教师；公告列生活补贴每年36万元，含单位及深圳市补贴，按最新政策执行"
+      },
+      "evidence": [
+        {
+          "note": "官方岗位表序号1列明对应经济学专业，拟聘人数为若干，无法据此给出确切人数。",
+          "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
+        },
+        {
+          "note": "7月14日公告明确本年内有效、视报名情况组织面试，并接受2026年应届博士。",
+          "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html"
+        }
+      ],
+      "attachments": [
+        {
+          "label": "官方博士后岗位表（XLSX）",
+          "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
+        }
+      ],
+      "summary": "关注政府决策咨询与相关产业政策，需扎实文字分析能力及产业研究经验。 官方公告本年内有效，各方向招若干人；需确认当前名额和进站手续，单独按博士后统计。",
+      "affiliation": "深圳市光明区委党校博士后创新实践基地",
+      "type": "党校",
+      "headcount": null,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T13:16:58+08:00",
+      "firstSeenAt": "2026-10-29T13:16:58+08:00",
+      "remainingVacancies": "未核实，请向招聘单位确认当前名额"
+    },
+    {
+      "id": "gm-party-postdoc-health-industry",
+      "institution": "中共深圳市光明区委党校",
+      "region": "广东",
+      "city": "深圳",
+      "kind": "postdoc",
+      "title": "博士后 · 产业研究 · 生命健康产业",
+      "positionCode": "2",
+      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html",
+      "sourceId": "gd-gm-recruit",
+      "majors": [
+        "经济学（A02）"
+      ],
+      "publishedAt": "2026-07-14",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "requirements": {
+        "education": "取得博士学位三年内或2026年应届博士研究生",
+        "ageLimit": 35,
+        "ageText": "35周岁及以下，年龄及时间节点以系统申请博士后入站时间为准",
+        "freshGraduate": "明确接受2026年应届博士；未发证者按公告提供培养单位证明",
+        "overseas": "港澳博士学历认证及合作招收单位进站要求须另行核对",
+        "research": "围绕生命健康产业布局和产业链开展研究；须有相关课题经历及至少1篇规定作者顺序的核心论文。",
+        "employment": "全职在岗2年的博士后，不等于事业编制教师；公告列生活补贴每年36万元，含单位及深圳市补贴，按最新政策执行"
+      },
+      "evidence": [
+        {
+          "note": "官方岗位表序号2列明对应经济学专业，拟聘人数为若干，无法据此给出确切人数。",
+          "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
+        },
+        {
+          "note": "7月14日公告明确本年内有效、视报名情况组织面试，并接受2026年应届博士。",
+          "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html"
+        }
+      ],
+      "attachments": [
+        {
+          "label": "官方博士后岗位表（XLSX）",
+          "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
+        }
+      ],
+      "summary": "围绕生命健康产业布局和产业链开展研究；须有相关课题经历及至少1篇规定作者顺序的核心论文。 官方公告本年内有效，各方向招若干人；需确认当前名额和进站手续，单独按博士后统计。",
+      "affiliation": "深圳市光明区委党校博士后创新实践基地",
+      "type": "党校",
+      "headcount": null,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T13:16:58+08:00",
+      "firstSeenAt": "2026-10-29T13:16:58+08:00",
+      "remainingVacancies": "未核实，请向招聘单位确认当前名额"
+    },
+    {
+      "id": "gm-party-postdoc-industry",
+      "institution": "中共深圳市光明区委党校",
+      "region": "广东",
+      "city": "深圳",
+      "kind": "postdoc",
+      "title": "博士后 · 产业研究 · 区域产业布局",
+      "positionCode": "3",
+      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html",
+      "sourceId": "gd-gm-recruit",
+      "majors": [
+        "经济学（A02）"
+      ],
+      "publishedAt": "2026-07-14",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "requirements": {
+        "education": "取得博士学位三年内或2026年应届博士研究生",
+        "ageLimit": 35,
+        "ageText": "35周岁及以下，年龄及时间节点以系统申请博士后入站时间为准",
+        "freshGraduate": "明确接受2026年应届博士；未发证者按公告提供培养单位证明",
+        "overseas": "港澳博士学历认证及合作招收单位进站要求须另行核对",
+        "research": "围绕区域产业布局、产业链和企业战略开展研究，需相关产业研究能力。",
+        "employment": "全职在岗2年的博士后，不等于事业编制教师；公告列生活补贴每年36万元，含单位及深圳市补贴，按最新政策执行"
+      },
+      "evidence": [
+        {
+          "note": "官方岗位表序号3列明对应经济学专业，拟聘人数为若干，无法据此给出确切人数。",
+          "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
+        },
+        {
+          "note": "7月14日公告明确本年内有效、视报名情况组织面试，并接受2026年应届博士。",
+          "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html"
+        }
+      ],
+      "attachments": [
+        {
+          "label": "官方博士后岗位表（XLSX）",
+          "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
+        }
+      ],
+      "summary": "围绕区域产业布局、产业链和企业战略开展研究，需相关产业研究能力。 官方公告本年内有效，各方向招若干人；需确认当前名额和进站手续，单独按博士后统计。",
+      "affiliation": "深圳市光明区委党校博士后创新实践基地",
+      "type": "党校",
+      "headcount": null,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T13:16:58+08:00",
+      "firstSeenAt": "2026-10-29T13:16:58+08:00",
+      "remainingVacancies": "未核实，请向招聘单位确认当前名额"
+    },
+    {
+      "id": "sx-party-2026-batch2-lead",
+      "institution": "中共绍兴市委党校",
+      "region": "浙江",
+      "city": "绍兴",
+      "title": "第二批教师招聘 · 经济学对应岗位待核",
+      "url": "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html",
+      "sourceId": "zj-sx-party",
+      "verifiedLevel": "announcement",
+      "majors": [
+        "具体经济学专业及岗位代码待岗位表核验"
+      ],
+      "publishedAt": "2026-07-27",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "requirements": {
+        "party": "required",
+        "partyText": "中共党员，含预备党员",
+        "ageLimit": 40,
+        "ageText": "40周岁及以下，1985年7月25日及以后出生",
+        "overseas": "国（境）外学历与留服认证取得时限为2026年12月31日，具体专业需单位审核",
+        "employment": "事业编制，最低服务期5年"
+      },
+      "evidence": [
+        {
+          "note": "官方第二批公告为4名教师，滚动报名至12月31日；本次附件下载受限，不能确认其中经济学岗位及人数。",
+          "url": "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html"
+        }
+      ],
+      "summary": "已读第二批官方公告，正文确认滚动招聘至年底，但岗位附件本次下载受限。尚未确认经济学对应岗位，不计入当前已核验教研机会；公告总人数4不作为经济学人数。",
+      "affiliation": "绍兴市委党校（绍兴市行政学院）",
+      "type": "党校",
+      "kind": "faculty",
+      "headcount": null,
+      "verifiedAt": "2026-10-29T13:16:58+08:00",
+      "firstSeenAt": "2026-10-29T13:16:58+08:00",
+      "remainingVacancies": "未核实，请向招聘单位确认当前名额"
+    },
+    {
+      "id": "sz-party-postdoc-2026-closed",
+      "institution": "中共深圳市委党校",
+      "region": "广东",
+      "city": "深圳",
+      "title": "博士后 · 经济学等方向（4月公告，已截止）",
+      "kind": "postdoc",
+      "url": "https://www.szps.gov.cn/shenzhen/news/ggl/content/post_1667163.html",
+      "sourceId": "gd-party-36",
+      "majors": [
+        "经济学"
+      ],
+      "publishedAt": "2026-04-01",
+      "deadline": "2026-05-06",
+      "rolling": false,
+      "closed": true,
+      "requirements": {
+        "education": "2024年7月后毕业或2026年应届博士研究生",
+        "ageLimit": 35,
+        "ageText": "35周岁以下",
+        "research": "提交2篇（部）代表作、研究计划及2位博导推荐信",
+        "employment": "全职博士后"
+      },
+      "evidence": [
+        {
+          "note": "原单位公告明确材料须于2026年5月6日前提交；5人为多学科总计划，不是经济学独立名额。",
+          "url": "https://www.szps.gov.cn/shenzhen/news/ggl/content/post_1667163.html"
+        }
+      ],
+      "summary": "此批博士后招收已于5月6日截止。经济学属于可报学科，但不能把原有多学科5名总额认作当前经济学空额。",
+      "affiliation": "深圳市委党校博士后创新实践基地",
+      "type": "党校",
+      "headcount": null,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T13:16:58+08:00",
+      "firstSeenAt": "2026-10-29T13:16:58+08:00",
+      "remainingVacancies": "未核实，请向招聘单位确认当前名额"
     },
     {
       "id": "auto-57db2f6addea78",
@@ -995,43 +1292,6 @@
       ],
       "verificationIssues": [],
       "contentHash": "07076bef947758bf035c26d0162563ba18995b3cf26e1231998443090aa890f8",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实"
-    },
-    {
-      "id": "auto-cfb1ebd1170f97",
-      "sourceId": "gd-sz-gm",
-      "institution": "单位详见原公告",
-      "region": "广东",
-      "city": "深圳",
-      "type": "综合招聘平台",
-      "kind": "postdoc",
-      "title": "-中共深圳市光明区委党校2026年博士后招聘公告",
-      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:14:37+08:00",
-      "lastSeenAt": "2026-10-29T12:14:37+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "1 | 综合研究分析 | 从事教学研究和政府决策咨询。 | 若干 | 35 | 理论经济学（A0201）\n应用经济学（A0202）\n生物学（A0710）\n电子科学与技术（A0809）\n信息与通信工程（A0810）\n计算机科学与技术（A0812）\n软件工程（A0835）\n网络空间安全（A0839）\n电子信息（A0840)\n材料科学与工程（A0805）\n生物工程（A0836）\n生物与医药（A0845）\n管理科学与工程（A1201）\n工商管理（A1202）\n公共管理（A1204）\n交叉学科（A14）\n生物医学工程（A0831）\n食品科学与工程（A0832）\n生物化工(A081703)\n制药工程硕士（专业硕士）\n(A081707)\n医学（A10） | 1.具有良好的政治素质和道德修养，遵纪守法，无不良记录；\n2.具有扎实的理论和文字功底、出色的分析和解决问题的能力，了解涉国家产业发展趋势及政策，并对特定产业或行业有深入了解和研究经验；\n3.有较强的表达能力，良好的沟通及交际能力；工作认真踏实，具有团队协作精神，责任心强；\n4.需全职在岗工作2年，男女不限。 | ",
-        "2 | 产业研究 | 1.负责研究区域生命健康相关的产业布局规划、产业集群规划，制定涉及产业方向的研究、分析和预测；\n2.对行业、产业链进行调研分析，形成相关报告并提出建议方案；\n3.研究重点企业的发展规划和战略布局，围绕企业各项需求问题，制定解决方案。 | 若干 | 35 | 工学（A08）\n理学（A07）\n经济学（A02）\n管理学（A12）\n医学（A10） | 1.具有良好的政治素质和道德修养，遵纪守法，无不良记录；\n2.具有扎实的理论和文字功底、出色的分析和解决问题的能力，了解涉国家产业发展趋势及政策，并对特定产业或行业有深入了解和研究经验；\n3.有较强的表达能力，良好的沟通及交际能力；工作认真踏实，具有团队协作精神，责任心强；\n4.独立科研能力较强，从事过相关课题研究，作为独立作者或第一作者、第二作者（博士生导师作为第一作者）在核心期刊发表过1篇以上论文；\n5.需全职在岗工作2年，男女不限。 | ",
-        "3 | 产业研究 | 1.负责研究区域产业布局规划、产业集群规划，制定涉及产业方向的研究、分析和预测；\n2.对行业、产业链进行调研分析，形成相关报告并提出建议方案；\n3.研究重点企业的发展规划和战略布局，围绕企业各项需求问题，制定解决方案。 | 若干 | 35 | 经济学（A02）\n法学（A0301）\n工学（A08）\n管理科学与工程（A1201）\n工商管理（A1202） | 1.具有扎实的理论和文字功底、出色的分析和解决问题的能力，了解涉国家产业发展趋势及政策，并对特定产业或行业有深入了解和研究经验；\n2.有较强的表达能力，良好的沟通及交际能力；工作认真踏实，具有团队协作精神，责任心强；\n3.需全职在岗工作2年，男女不限。 | "
-      ],
-      "attachments": [
-        {
-          "label": "附件2.博士后招聘岗位表.xlsx",
-          "url": "https://www.szgm.gov.cn/attachment/1/1731/1731306/12892460.xlsx"
-        }
-      ],
-      "verificationIssues": [],
-      "contentHash": "339e982c69dee5c11ce9140fb2484f47abb5fbaca4754040425d681a18ee63ee",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实"
     },

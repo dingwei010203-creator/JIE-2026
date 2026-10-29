@@ -64,7 +64,7 @@ function renderMetrics(){
   const items=[
     {name:'报名期内 / 滚动岗位',value:s.current,unit:'条',note:`${s.postdoc} 条博士后单独展示`,ico:'briefcase'},
     {name:'广东教研 / 科研',value:s.guangdong,unit:'条',note:'优先关注 · 不含博士后',ico:'location'},
-    {name:'党校与科研机构',value:s.focused,unit:'条',note:'含政府科研院所与社科院',ico:'building'},
+    {name:'党校与科研 · 报名期内',value:s.focused,unit:'条',note:'已核验教研岗位 · 博士后另列',ico:'building'},
     {name:'待核验 / 待复核',value:s.leads,unit:'条',note:'未计入报名期内岗位',ico:'layers'},
   ];
   $('#metrics').innerHTML=items.map(m=>`<div class="metric"><div class="metric-icon">${icon(m.ico)}</div><p class="metric-name">${m.name}</p><div class="metric-value"><b>${m.value}</b><small>${m.unit}</small></div><p class="metric-note">${esc(m.note)}</p></div>`).join('');
@@ -107,7 +107,8 @@ function renderJobs(){
   state.visible=filterJobs(state.feed.jobs,f,state.saved,state.profile);
   $('#listing-count').textContent=state.visible.length;
   $('#listing-title').firstChild.textContent=state.view==='saved'?'我的清单 ':'岗位雷达 ';
-  $('#listing-description').textContent=state.view==='saved'?'收藏与投递进度保存在当前浏览器。':'广东优先，兼顾党校、政策研究与教学机会。';
+  const party=state.feed.jobs.filter(j=>j.type==='党校'),partyStats=statistics(party);
+  $('#listing-description').textContent=state.view==='saved'?'收藏与投递进度保存在当前浏览器。':f.focus==='party'||f.type==='党校'?`四地已收录 ${party.length} 条党校记录：报名期内教研 ${partyStats.current} 条、博士后 ${partyStats.postdoc} 条、待核 ${partyStats.leads} 条。广东优先排序，滚动岗位须确认剩余名额。`:'广东优先，兼顾党校、政策研究与教学机会。';
   const brief=[f.region==='all'?'四地':f.region,f.kind==='formal'?'教研 / 科研':f.kind==='postdoc'?'博士后':'全部岗位',f.status==='current'?'报名期内及滚动招聘':f.status==='closed'?'历史记录':f.status==='review'?'待核验及待复核':'所选状态'].join(' · ');
   $('#active-filters').innerHTML=`<span>${esc(brief)}</span><button id="reset-filters">重置筛选</button>`;
   $('#job-list').innerHTML=state.visible.length?state.visible.map(card).join(''):`<div class="empty">${icon('empty')}<h3>${state.view==='saved'?'清单里还没有这些岗位':'这个筛选下暂无已核验岗位'}</h3><p>${state.view==='saved'?'在岗位卡片上点击书签即可收藏，也可以调整筛选查看其他已收藏记录。':'可以查看待核验线索，或扩大至其他地区。暂无结果不代表当地没有招聘。'}</p><button class="primary-button" data-empty-action="all">查看四地全部记录</button></div>`;
@@ -139,6 +140,7 @@ function renderSources(){
 function render(){if(!state.feed)return;renderHeader();renderMetrics();syncFilters();renderJobs();renderStats();renderSources();}
 
 function setView(view){
+  if(view==='party'){view='jobs';Object.assign(viewFilters.jobs,{...defaultFilters,region:'all',kind:'all',status:'all',focus:'party'});}
   if(!['jobs','saved','stats','sources'].includes(view))view='jobs';
   state.view=view;
   if(view==='jobs'||view==='saved')state.filters=viewFilters[view];
@@ -180,8 +182,8 @@ document.addEventListener('click',e=>{
   const b=e.target.closest('[data-save]');if(b){toggleSave(b.dataset.save);return;}
   const d=e.target.closest('[data-detail]');if(d){renderDetail(d.dataset.detail);$('#job-dialog').showModal();return;}
   if(e.target.closest('.close-dialog')){e.target.closest('dialog').close();return;}
-  const focus=e.target.closest('[data-focus]');if(focus){state.filters.focus=focus.dataset.focus;syncFilters();renderJobs();return;}
-  const shortcut=e.target.closest('[data-shortcut]');if(shortcut){state.filters.focus=shortcut.dataset.shortcut;state.filters.region='广东';state.filters.status='review';state.filters.kind='all';syncFilters();renderJobs();return;}
+  const focus=e.target.closest('[data-focus]');if(focus){if(focus.dataset.focus==='party'){location.hash='party';setView('party');return;}state.filters.focus=focus.dataset.focus;syncFilters();renderJobs();return;}
+  const shortcut=e.target.closest('[data-shortcut]');if(shortcut){if(shortcut.dataset.shortcut==='party'){location.hash='party';setView('party');return;}state.filters.focus=shortcut.dataset.shortcut;state.filters.region='广东';state.filters.status='review';state.filters.kind='all';syncFilters();renderJobs();return;}
   const region=e.target.closest('[data-region-pick]');if(region){location.hash='jobs';setView('jobs');state.filters.region=region.dataset.regionPick;syncFilters();renderJobs();return;}
   const cal=e.target.closest('[data-calendar]');if(cal){download(toICS(state.feed.jobs.filter(j=>j.id===cal.dataset.calendar)),'econ-careers-deadline.ics','text/calendar;charset=utf-8');return;}
   if(e.target.closest('#reset-filters')){Object.assign(state.filters,state.view==='saved'?{...defaultFilters,region:'all',kind:'all',status:'all'}:defaultFilters);syncFilters();renderJobs();return;}

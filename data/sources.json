@@ -792,6 +792,36 @@
       "priority": 99,
       "city": "汕尾",
       "mode": "homepage"
+    },
+    {
+      "id": "js-nj-party",
+      "institution": "中共南京市委党校",
+      "region": "江苏",
+      "city": "南京",
+      "type": "党校",
+      "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/",
+      "priority": 84,
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gm-recruit",
+      "institution": "深圳光明区政府招考招聘（含区委党校）",
+      "region": "广东",
+      "city": "深圳",
+      "type": "综合招聘平台",
+      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/",
+      "priority": 96,
+      "mode": "listing"
+    },
+    {
+      "id": "zj-sx-party",
+      "institution": "中共绍兴市委党校 · 第二批招聘公告",
+      "region": "浙江",
+      "city": "绍兴",
+      "type": "党校",
+      "url": "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html",
+      "priority": 81,
+      "mode": "listing"
     }
   ]
 }
