@@ -1,0 +1,13 @@
+{
+  "name": "econ-phd-careers-2026",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "广东优先的经济学博士招聘信息网站",
+  "scripts": {
+    "test": "node --test tests/core.test.mjs && python -m unittest discover -s tests -p 'test_*.py'",
+    "collect": "python scripts/collect.py",
+    "build": "python scripts/build.py",
+    "check": "node --check app.js && node --check core.js && python scripts/validate.py"
+  }
+}

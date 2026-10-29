@@ -1,0 +1,797 @@
+{
+  "schemaVersion": 1,
+  "scopeNote": "已配置来源清单，不等于四地全部机构穷尽覆盖。首页入口会尝试发现招聘栏目；来源健康页公开每次实际扫描范围。",
+  "officialDomains": [
+    "amr.org.cn",
+    "bass.org.cn",
+    "cass.cn",
+    "chineseafs.org",
+    "drc.gov.cn",
+    "dx.dg.gov.cn",
+    "gdaas.cn",
+    "gdass.org",
+    "gdcp.cn",
+    "gdis.org.cn",
+    "gzass.gd.cn",
+    "jmdx.jiangmen.cn",
+    "jsass.org.cn",
+    "ps.zhaoqing.gov.cn",
+    "stswdx.org.cn",
+    "www.fsswdx.gov.cn",
+    "www.gzswdx.gov.cn",
+    "www.hzdx.gov.cn",
+    "www.jieyang.gd.cn",
+    "www.mzsdx.cn",
+    "www.sgdx.gov.cn",
+    "www.szps.gov.cn",
+    "www.yjswdx.cn",
+    "www.zgczswdx.net",
+    "www.zhswdx.cn",
+    "www.zjswdx.cn",
+    "www.zsswdx.gov.cn",
+    "zjhcgbxy.com",
+    "sdx.js.cn"
+  ],
+  "sources": [
+    {
+      "id": "gd-hrss",
+      "institution": "广东省人社厅事业单位招聘",
+      "region": "广东",
+      "type": "综合招聘平台",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/",
+      "priority": 100,
+      "city": "",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gz-party",
+      "institution": "中共广州市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "https://www.gzswdx.gov.cn/bszn/xyzp/",
+      "priority": 100,
+      "city": "广州",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-sz-gm",
+      "institution": "深圳光明区事业单位招聘",
+      "region": "广东",
+      "type": "综合招聘平台",
+      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/index.html",
+      "priority": 98,
+      "city": "深圳",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gdass",
+      "institution": "广东省社会科学院",
+      "region": "广东",
+      "type": "社科院",
+      "url": "https://www.gdass.org/Tzgg.shtml",
+      "priority": 100,
+      "city": "广州",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gzass",
+      "institution": "广州市社会科学院",
+      "region": "广东",
+      "type": "社科院",
+      "url": "https://www.gzass.gd.cn/",
+      "priority": 96,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-drc",
+      "institution": "广东省人民政府发展研究中心",
+      "region": "广东",
+      "type": "政府科研院所",
+      "url": "https://gdyjzx.gd.gov.cn/",
+      "priority": 100,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-sz-drc",
+      "institution": "深圳市政府发展研究中心",
+      "region": "广东",
+      "type": "政府科研院所",
+      "url": "https://drc.sz.gov.cn/tzgg/",
+      "priority": 100,
+      "city": "深圳",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gdaas",
+      "institution": "广东省农业科学院",
+      "region": "广东",
+      "type": "政府科研院所",
+      "url": "https://www.gdaas.cn/tzggn/rczp/mindex.html",
+      "priority": 98,
+      "city": "广州",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gdaas-econ",
+      "institution": "广东省农科院农业经济与信息研究所",
+      "region": "广东",
+      "type": "政府科研院所",
+      "url": "https://www.gdaas.cn/iard/tzgg/index.html",
+      "priority": 99,
+      "city": "广州",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gdis",
+      "institution": "广东省标准化研究院",
+      "region": "广东",
+      "type": "政府科研院所",
+      "url": "https://www.gdis.org.cn/",
+      "priority": 96,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-36",
+      "institution": "深圳市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.szps.gov.cn/",
+      "priority": 99,
+      "city": "深圳",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-37",
+      "institution": "珠海市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.zhswdx.cn",
+      "priority": 99,
+      "city": "珠海",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-38",
+      "institution": "汕头市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://stswdx.org.cn/",
+      "priority": 99,
+      "city": "汕头",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-39",
+      "institution": "佛山市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.fsswdx.gov.cn/",
+      "priority": 99,
+      "city": "佛山",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-40",
+      "institution": "韶关市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.sgdx.gov.cn/",
+      "priority": 99,
+      "city": "韶关",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-41",
+      "institution": "梅州市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.mzsdx.cn/",
+      "priority": 99,
+      "city": "梅州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-42",
+      "institution": "惠州市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.hzdx.gov.cn/",
+      "priority": 99,
+      "city": "惠州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-44",
+      "institution": "东莞市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://dx.dg.gov.cn/",
+      "priority": 99,
+      "city": "东莞",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-45",
+      "institution": "中山市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.zsswdx.gov.cn/",
+      "priority": 99,
+      "city": "中山",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-46",
+      "institution": "江门市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "https://jmdx.jiangmen.cn/",
+      "priority": 99,
+      "city": "江门",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-47",
+      "institution": "阳江市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.yjswdx.cn/",
+      "priority": 99,
+      "city": "阳江",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-48",
+      "institution": "湛江市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.zjswdx.cn/",
+      "priority": 99,
+      "city": "湛江",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-49",
+      "institution": "肇庆市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://ps.zhaoqing.gov.cn/",
+      "priority": 99,
+      "city": "肇庆",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-50",
+      "institution": "潮州市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.zgczswdx.net/website/index",
+      "priority": 99,
+      "city": "潮州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-51",
+      "institution": "揭阳市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "http://www.jieyang.gd.cn/jyswdx",
+      "priority": 99,
+      "city": "揭阳",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-party-province",
+      "institution": "中共广东省委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "https://www.gddx.gov.cn/",
+      "priority": 100,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gdufe",
+      "institution": "广东财经大学",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://rsc.gdufe.edu.cn/",
+      "priority": 78,
+      "city": "广州 / 佛山",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gduf",
+      "institution": "广东金融学院",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://rsc.gduf.edu.cn/",
+      "priority": 78,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gdufs",
+      "institution": "广东外语外贸大学",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://rsc.gdufs.edu.cn/",
+      "priority": 78,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-jnu",
+      "institution": "暨南大学",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://rsc.jnu.edu.cn/",
+      "priority": 78,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-szu",
+      "institution": "深圳大学",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://hr.szu.edu.cn/",
+      "priority": 78,
+      "city": "深圳",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-scnu",
+      "institution": "华南师范大学",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://rsc.scnu.edu.cn/",
+      "priority": 78,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-wyu",
+      "institution": "五邑大学",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://rsc.wyu.edu.cn/",
+      "priority": 78,
+      "city": "江门",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-zcst",
+      "institution": "珠海科技学院",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://www.zcst.edu.cn/",
+      "priority": 78,
+      "city": "珠海",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-peizheng",
+      "institution": "广东培正学院",
+      "region": "广东",
+      "type": "普通高校",
+      "url": "https://pzrensc.peizheng.edu.cn/zpxx/index.htm",
+      "priority": 78,
+      "city": "广州",
+      "mode": "listing"
+    },
+    {
+      "id": "gd-gdcvi",
+      "institution": "广东建设职业技术学院",
+      "region": "广东",
+      "type": "职业院校",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/index.htm",
+      "priority": 82,
+      "city": "清远 / 广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gdgm",
+      "institution": "广东工贸职业技术学院",
+      "region": "广东",
+      "type": "职业院校",
+      "url": "https://www.gdgm.edu.cn/",
+      "priority": 82,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gdqy",
+      "institution": "广东轻工职业技术大学",
+      "region": "广东",
+      "type": "职业院校",
+      "url": "https://www.gdqy.edu.cn/",
+      "priority": 82,
+      "city": "广州 / 佛山",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-szpu",
+      "institution": "深圳职业技术大学",
+      "region": "广东",
+      "type": "职业院校",
+      "url": "https://www.szpu.edu.cn/",
+      "priority": 82,
+      "city": "深圳",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gdit",
+      "institution": "广东科学技术职业学院",
+      "region": "广东",
+      "type": "职业院校",
+      "url": "https://www.gdit.edu.cn/",
+      "priority": 82,
+      "city": "珠海 / 广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gdcp",
+      "institution": "广东交通职业技术学院",
+      "region": "广东",
+      "type": "职业院校",
+      "url": "https://www.gdcp.cn/",
+      "priority": 82,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-gdppla",
+      "institution": "广东行政职业学院",
+      "region": "广东",
+      "type": "职业院校",
+      "url": "https://www.gdxzzy.edu.cn/",
+      "priority": 82,
+      "city": "广州",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-hrss",
+      "institution": "江苏省人社厅",
+      "region": "江苏",
+      "type": "综合招聘平台",
+      "url": "https://jshrss.jiangsu.gov.cn/",
+      "priority": 58,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-party",
+      "institution": "中共江苏省委党校",
+      "region": "江苏",
+      "type": "党校",
+      "url": "https://www.sdx.js.cn/",
+      "priority": 69,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-nt-party",
+      "institution": "南通党建网高层次招聘",
+      "region": "江苏",
+      "type": "党校",
+      "url": "https://dj.nantong.gov.cn/ntdjw/tzggt/",
+      "priority": 69,
+      "city": "南通",
+      "mode": "listing"
+    },
+    {
+      "id": "js-ass",
+      "institution": "江苏省社会科学院",
+      "region": "江苏",
+      "type": "社科院",
+      "url": "https://www.jsass.org.cn/",
+      "priority": 69,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-nj-ass",
+      "institution": "南京市社会科学院",
+      "region": "江苏",
+      "type": "社科院",
+      "url": "https://ass.nanjing.gov.cn/ggtz/",
+      "priority": 69,
+      "city": "南京",
+      "mode": "listing"
+    },
+    {
+      "id": "js-jaas",
+      "institution": "江苏省农业科学院",
+      "region": "江苏",
+      "type": "政府科研院所",
+      "url": "https://www.jaas.ac.cn/",
+      "priority": 69,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-fgw",
+      "institution": "江苏省发展改革委所属单位招聘",
+      "region": "江苏",
+      "type": "综合招聘平台",
+      "url": "https://fzggw.jiangsu.gov.cn/",
+      "priority": 58,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-njue",
+      "institution": "南京财经大学",
+      "region": "江苏",
+      "type": "普通高校",
+      "url": "https://rsc.njue.edu.cn/",
+      "priority": 58,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-nau",
+      "institution": "南京审计大学",
+      "region": "江苏",
+      "type": "普通高校",
+      "url": "https://renshi.nau.edu.cn/",
+      "priority": 58,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-jvic",
+      "institution": "江苏经贸职业技术学院",
+      "region": "江苏",
+      "type": "职业院校",
+      "url": "https://www.jvic.edu.cn/",
+      "priority": 58,
+      "city": "南京",
+      "mode": "homepage"
+    },
+    {
+      "id": "js-jscc",
+      "institution": "江苏财经职业技术学院",
+      "region": "江苏",
+      "type": "职业院校",
+      "url": "https://www.jscc.edu.cn/",
+      "priority": 58,
+      "city": "淮安",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-hrss",
+      "institution": "浙江省人社厅",
+      "region": "浙江",
+      "type": "综合招聘平台",
+      "url": "https://rlsbt.zj.gov.cn/",
+      "priority": 58,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-party",
+      "institution": "中共浙江省委党校",
+      "region": "浙江",
+      "type": "党校",
+      "url": "https://www.zjdx.gov.cn/",
+      "priority": 69,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-jx-party",
+      "institution": "浙江红船干部学院 / 嘉兴市委党校",
+      "region": "浙江",
+      "type": "党校",
+      "url": "https://www.zjhcgbxy.com/",
+      "priority": 69,
+      "city": "嘉兴",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-ass",
+      "institution": "浙江省社会科学院",
+      "region": "浙江",
+      "type": "社科院",
+      "url": "https://sky.zj.gov.cn/",
+      "priority": 69,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-fgw",
+      "institution": "浙江省发展改革委所属单位招聘",
+      "region": "浙江",
+      "type": "综合招聘平台",
+      "url": "https://fzggw.zj.gov.cn/",
+      "priority": 58,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-zufe",
+      "institution": "浙江财经大学",
+      "region": "浙江",
+      "type": "普通高校",
+      "url": "https://rsc.zufe.edu.cn/",
+      "priority": 58,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-zjgsu",
+      "institution": "浙江工商大学",
+      "region": "浙江",
+      "type": "普通高校",
+      "url": "https://www.zjgsu.edu.cn/",
+      "priority": 58,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-zfc",
+      "institution": "浙江金融职业学院",
+      "region": "浙江",
+      "type": "职业院校",
+      "url": "https://www.zfc.edu.cn/",
+      "priority": 58,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-zjbc",
+      "institution": "浙江商业职业技术学院",
+      "region": "浙江",
+      "type": "职业院校",
+      "url": "https://www.zjbc.edu.cn/",
+      "priority": 58,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "zj-zjtie",
+      "institution": "浙江经济职业技术学院",
+      "region": "浙江",
+      "type": "职业院校",
+      "url": "https://www.zjtie.edu.cn/",
+      "priority": 58,
+      "city": "杭州",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-hrss",
+      "institution": "北京市人社局事业单位招聘",
+      "region": "北京",
+      "type": "综合招聘平台",
+      "url": "https://rsj.beijing.gov.cn/xxgk/xxgkzt/sydwzp/",
+      "priority": 58,
+      "city": "北京",
+      "mode": "listing"
+    },
+    {
+      "id": "bj-party",
+      "institution": "中共北京市委党校",
+      "region": "北京",
+      "type": "党校",
+      "url": "https://www.bai.gov.cn/bai/baixyxw/baitzgg/",
+      "priority": 69,
+      "city": "北京",
+      "mode": "listing"
+    },
+    {
+      "id": "bj-ass",
+      "institution": "北京市社会科学院",
+      "region": "北京",
+      "type": "社科院",
+      "url": "https://www.bass.org.cn/xxgk/gsgg/",
+      "priority": 69,
+      "city": "北京",
+      "mode": "listing"
+    },
+    {
+      "id": "bj-amr",
+      "institution": "中国宏观经济研究院",
+      "region": "北京",
+      "type": "政府科研院所",
+      "url": "https://www.amr.org.cn/",
+      "priority": 69,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-afs",
+      "institution": "中国财政科学研究院",
+      "region": "北京",
+      "type": "政府科研院所",
+      "url": "https://www.chineseafs.org/",
+      "priority": 69,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-drc",
+      "institution": "国务院发展研究中心",
+      "region": "北京",
+      "type": "政府科研院所",
+      "url": "https://www.drc.gov.cn/",
+      "priority": 69,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-cass",
+      "institution": "中国社会科学院",
+      "region": "北京",
+      "type": "社科院",
+      "url": "https://www.cass.cn/",
+      "priority": 69,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-cueb",
+      "institution": "首都经济贸易大学",
+      "region": "北京",
+      "type": "普通高校",
+      "url": "https://renshi.cueb.edu.cn/",
+      "priority": 58,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-btbu",
+      "institution": "北京工商大学",
+      "region": "北京",
+      "type": "普通高校",
+      "url": "https://rsc.btbu.edu.cn/",
+      "priority": 58,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-bwu",
+      "institution": "北京物资学院",
+      "region": "北京",
+      "type": "普通高校",
+      "url": "https://rsc.bwu.edu.cn/",
+      "priority": 58,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-bjczy",
+      "institution": "北京财贸职业学院",
+      "region": "北京",
+      "type": "职业院校",
+      "url": "https://www.bjczy.edu.cn/",
+      "priority": 58,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "bj-biem",
+      "institution": "北京经济管理职业学院",
+      "region": "北京",
+      "type": "职业院校",
+      "url": "https://www.biem.edu.cn/",
+      "priority": 58,
+      "city": "北京",
+      "mode": "homepage"
+    },
+    {
+      "id": "gd-shanwei-party",
+      "institution": "汕尾市委党校",
+      "region": "广东",
+      "type": "党校",
+      "url": "https://gdswdx.gov.cn/p1/index.html",
+      "priority": 99,
+      "city": "汕尾",
+      "mode": "homepage"
+    }
+  ]
+}

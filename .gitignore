@@ -1,0 +1,10 @@
+.cache/
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.zip
+.openai/
+node_modules/
+.env*
+!.env.example

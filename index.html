@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f7f6f2">
+  <meta name="description" content="面向2026届经济学博士的招聘信息观察站。广东优先，关注党校、政府科研院所和社科院，兼顾江苏、浙江与北京。">
+  <title>经职 · 经济学博士招聘雷达</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到主要内容</a>
+  <aside class="sidebar">
+    <a href="#jobs" class="brand"><span class="brand-mark">经</span><span><b>经职</b><small>ECON CAREERS</small></span></a>
+    <div class="workspace-label">2026 博士求职工作台</div>
+    <nav aria-label="主导航" id="main-nav">
+      <a href="#jobs" data-nav="jobs" class="active"><span data-icon="radar"></span>岗位雷达<span class="nav-dot"></span></a>
+      <a href="#saved" data-nav="saved"><span data-icon="bookmark"></span>我的清单<span class="count-badge" id="saved-count">0</span></a>
+      <a href="#stats" data-nav="stats"><span data-icon="chart"></span>地区统计</a>
+      <a href="#sources" data-nav="sources"><span data-icon="layers"></span>来源与更新</a>
+    </nav>
+    <div class="sidebar-priorities"><span class="overline">本轮关注</span><p><i></i> 广东省优先</p><p>党校 · 政府科研院所</p><p>社科院 · 高校 · 职业院校</p></div>
+    <div class="sidebar-bottom">
+      <div class="mini-avatar">博</div><div><b>2026届 · 经济学博士</b><small>港澳学历条件逐项核对</small></div>
+      <button class="icon-button" id="profile-open" aria-label="设置求职条件"><span data-icon="settings"></span></button>
+    </div>
+  </aside>
+  <div class="main-shell">
+    <header class="topbar">
+      <div class="breadcrumb">求职工作台 <span>/</span> <b id="view-title">岗位雷达</b></div>
+      <div class="top-actions"><span class="today" id="today"></span><a id="github-link" class="text-link" target="_blank" rel="noopener noreferrer" hidden><span data-icon="github"></span>GitHub <span>↗</span></a></div>
+    </header>
+    <main id="main" tabindex="-1">
+      <section class="hero">
+        <div class="hero-copy"><div class="eyebrow"><span></span> ECONOMICS · CLASS OF 2026</div><h1>下一站，<em>从这里发现。</em></h1><p>经济学博士招聘雷达<span class="hero-separator">｜</span>广东优先，关注教研与政策研究机会。</p><div class="hero-tags"><span>广东</span><span>江苏</span><span>浙江</span><span>北京</span><b>五类机构，统一追踪</b></div></div>
+        <div class="update-card"><div class="update-label"><span data-icon="refresh"></span>信息更新</div><strong id="verified-date">正在载入</strong><p id="scan-status">读取最近核验与采集记录…</p><a href="#sources">查看来源与更新记录 <span>↗</span></a></div>
+      </section>
+      <div class="notice" id="feed-notice" hidden></div>
+      <section class="metrics" aria-label="全站岗位统计" id="metrics"></section>
+
+      <section id="view-jobs" class="view">
+        <div class="content-grid">
+          <div class="jobs-main">
+            <div class="section-heading"><div><h2 id="listing-title">岗位雷达 <span id="listing-count">—</span></h2><p id="listing-description">按关注方向排序，重要条件一目了然。</p></div><div class="export-menu"><button class="small-button" id="export-csv"><span data-icon="download"></span>导出 CSV</button><button class="small-button" id="export-ics" title="导出当前列表中尚在报名期内的截止日期"><span data-icon="calendar"></span>截止日历</button></div></div>
+            <div class="filter-panel">
+              <label class="searchbox"><span data-icon="search"></span><input id="search" type="search" aria-label="搜索单位、岗位、城市或专业" placeholder="搜索单位、岗位、城市或专业"><kbd>/</kbd></label>
+              <div class="filter-row">
+                <label>地区<select id="region"><option value="all">全部地区</option><option selected>广东</option><option>江苏</option><option>浙江</option><option>北京</option></select></label>
+                <label>机构<select id="type"><option value="all">全部类型</option><option>党校</option><option>政府科研院所</option><option>社科院</option><option>普通高校</option><option>职业院校</option></select></label>
+                <label>岗位<select id="kind"><option value="formal">教研 / 科研</option><option value="postdoc">仅博士后</option><option value="all">全部岗位</option></select></label>
+                <label>状态<select id="status"><option value="current">报名期内 / 滚动招聘</option><option value="open">仅固定报名期</option><option value="review">待核验 / 待复核</option><option value="closed">已截止</option><option value="all">全部状态</option></select></label>
+              </div>
+            </div>
+            <div class="listing-toolbar"><div class="quick-filters" role="group" aria-label="关注方向"><button data-focus="all" class="selected">优先推荐</button><button data-focus="party">党校</button><button data-focus="research">科研院所</button><button data-focus="soon">14天内截止</button></div><label class="sort-label"><span data-icon="sort"></span><select id="sort" aria-label="排序方式"><option value="priority">关注优先</option><option value="newest">最新发布</option><option value="deadline">截止日期</option></select></label></div>
+            <div id="active-filters" class="active-filters"></div>
+            <div id="job-list" class="job-list" aria-live="polite"><div class="loading">正在读取岗位信息…</div></div>
+            <div class="listing-footnote"><span data-icon="info"></span><p>“报名期内”仅表示公告的时间窗口尚未结束，不代表个人资格已获认可。滚动招聘需核实剩余名额；自动发现的线索单独展示。</p></div>
+          </div>
+          <aside class="right-column">
+            <section class="focus-card"><span class="overline">你的关注方向</span><h3>广东，优先一步。</h3><p>重点留意省、市、区县党校，以及政府直属和部门所属的研究机构。</p><div class="focus-chips"><button data-shortcut="party">党校线索 <span>↗</span></button><button data-shortcut="research">科研线索 <span>↗</span></button></div><span class="focus-decoration" aria-hidden="true">GD</span></section>
+            <section class="side-card"><div class="side-title"><h3>四地机会分布</h3><span>教研 / 科研</span></div><div id="region-bars"></div><a class="side-link" href="#stats">查看完整统计 <span>→</span></a></section>
+            <section class="side-card checklist"><div class="side-title"><h3>投递前，先核对</h3><span data-icon="check-square"></span></div><p><span>01</span>经济学二级专业与课程对应</p><p><span>02</span>港澳学历认证取得时限</p><p><span>03</span>党员、年龄与科研成果要求</p><p><span>04</span>滚动岗位是否仍有名额</p><button id="profile-open-2" class="side-link">设置我的求职条件 <span>→</span></button></section>
+            <div class="source-note"><span class="tiny-dot"></span><span id="configured-count">—</span> 个已配置官方入口<p>来源可查 · 条件可核 · 状态可追踪</p></div>
+          </aside>
+        </div>
+      </section>
+      <section id="view-stats" class="view" hidden>
+        <div class="section-heading"><div><h2>机会分布与统计</h2><p>按岗位条目统计；同一公告下不同岗位分别计数。</p></div><button class="small-button" id="stats-export"><span data-icon="download"></span>导出全部记录</button></div>
+        <div class="stats-grid"><section class="panel"><h3>地区分布</h3><div id="stats-regions"></div></section><section class="panel"><h3>机构类型</h3><div id="stats-types"></div></section></div>
+        <section class="panel" id="stats-table"></section><section class="panel methodology"><h3>统计口径</h3><p>默认仅计入已核验到具体经济学博士岗位、且仍处于报名期或滚动招聘期的教研与科研岗位。博士后、未核验线索、已截止记录分别统计。招聘人数为原公告中对应岗位的计划人数，不代表剩余名额；人数不详不作推算。</p><p>高校下设研究院仍归入“普通高校”。“政府科研院所”须有政府直属或部门所属依据；民办智库不会据名称直接归入。单位所在地用于地区分类，中央及地方所属单位均可收录，主管关系在详情中说明。</p></section>
+      </section>
+      <section id="view-sources" class="view" hidden>
+        <div class="section-heading"><div><h2>来源与更新</h2><p>让“已经查过”与“本次没查到”有明确区别。</p></div><a class="small-button" id="actions-link" target="_blank" rel="noopener noreferrer" hidden>查看运行记录 ↗</a></div>
+        <section class="panel update-explanation"><div><span class="overline">DAILY COLLECTION</span><h3>每日 08:37 扫描官方来源</h3><p id="schedule-note">每日流程已配置，部署状态载入中。</p></div><div><span class="overline">VERIFIED OPPORTUNITIES</span><h3>原文、附件与条件交叉核对</h3><p>自动新增项先进入“待核验线索”。核对具体岗位后再进入主列表；入口访问成功不等于完整查遍该单位。</p></div></section>
+        <div id="health-summary" class="health-summary"></div>
+        <div class="source-controls"><label class="searchbox"><span data-icon="search"></span><input id="source-search" type="search" placeholder="查找来源单位" aria-label="查找来源单位"></label><label>地区<select id="source-region"><option value="all">全部地区</option><option>广东</option><option>江苏</option><option>浙江</option><option>北京</option></select></label></div>
+        <div class="panel source-table-wrap"><table class="data-table"><thead><tr><th>官方入口</th><th>地区 / 类型</th><th>本次状态</th><th>扫描情况</th></tr></thead><tbody id="source-rows"></tbody></table></div>
+        <section class="panel"><h3>关键词补查</h3><p class="muted">公开搜索为辅助发现渠道。搜索失败或索引不完整会在这里显示，不能理解为没有岗位。</p><div id="search-health"></div></section>
+        <section class="panel"><h3>相关补充与后续公告</h3><p class="muted">延期、更正、核减与拟聘信息可能影响原岗位，请结合原公告核对。</p><div id="related-updates"></div></section>
+      </section>
+      <footer><span>经职 <b>·</b> ECON CAREERS</span><p>为经济学博士整理下一站的可能。资格与招聘进展以用人单位最新公告为准。</p><a href="#sources">数据来源 ↗</a></footer>
+    </main>
+  </div>
+  <dialog id="job-dialog" aria-labelledby="detail-title"><div id="job-detail"></div></dialog>
+  <dialog id="profile-dialog" aria-labelledby="profile-title"><form id="profile-form" class="profile-form"><div class="dialog-top"><span class="overline">MY PREFERENCES</span><button type="button" class="icon-button close-dialog" aria-label="关闭">×</button></div><h2 id="profile-title">我的求职条件</h2><p>用于提示需要核对的条件，保存在当前浏览器。</p><div class="profile-context">筛选基准：2026届经济学博士，硕博阶段有港澳学习经历。未提供的年龄、党员身份和科研成果不作推断。</div><label>毕业届别<select name="year"><option value="2026">2026届</option><option value="2027">2027届</option></select></label><label>政治面貌<select name="party"><option value="unknown">暂未填写</option><option value="yes">中共党员（含预备党员）</option><option value="no">非中共党员</option></select></label><label>年龄（仅作提示，仍需核对公告基准日）<input name="age" type="number" min="18" max="75" placeholder="暂未填写"></label><label>工作经历<select name="experience"><option value="none">应届，无须依赖工作经历报考</option><option value="some">有全职工作经历</option><option value="unknown">暂不判断</option></select></label><label>学历情况<select name="overseas"><option value="yes">有港澳 / 境外学历，需核对认证</option><option value="no">无境外学历</option></select></label><label class="checkbox-row"><input name="hideBlocked" type="checkbox">在列表中隐藏已明确不符合的条件</label><p class="privacy-note">不根据本科院校名气推断资格；有明确的第一学历要求时会展示。此设置不向网站或 GitHub 上传个人信息。</p><button type="submit" class="primary-button">保存求职条件</button></form></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript>此页面需要 JavaScript 显示和筛选岗位。请启用 JavaScript，或从仓库查看 data/feed.json 中的原始记录。</noscript>
+</body>
+</html>

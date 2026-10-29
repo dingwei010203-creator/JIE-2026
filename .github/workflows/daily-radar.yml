@@ -1,0 +1,84 @@
+name: Daily official recruitment radar
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # UTC 00:37 = Asia/Shanghai 08:37. GitHub scheduling can be delayed.
+    - cron: '37 0 * * *'
+  workflow_dispatch:
+    inputs:
+      collect:
+        description: Scan official sources before publishing
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: econ-phd-careers-publish
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install document readers
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        run: python -m pip install -r requirements.txt
+      - name: Run source collector
+        id: collect
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        continue-on-error: true
+        run: python scripts/collect.py --workers 8 --timeout 12 --max-announcements 6
+      - name: Refresh reviewed data and verify
+        run: |
+          python scripts/collect.py --offline
+          node --check app.js
+          node --test tests/core.test.mjs
+          python -m unittest discover -s tests -p 'test_*.py'
+          python scripts/validate.py
+      - name: Retain daily snapshots
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/feed.json data/candidates.json data/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh recruitment snapshot'
+            git pull --rebase origin main
+            python scripts/collect.py --offline
+            git add data/feed.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'chore: reconcile latest reviewed positions'
+            fi
+            git push origin HEAD:main
+          fi
+      - name: Build deployment files
+        run: |
+          python scripts/validate.py
+          python scripts/build.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Report all-source collection failure
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo '::error::Source collection failed. Previous positions and the visible failure report have been retained and published.'
+          exit 1

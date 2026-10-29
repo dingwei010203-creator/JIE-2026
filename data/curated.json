@@ -1,0 +1,734 @@
+{
+  "schemaVersion": 1,
+  "lastVerifiedAt": "2026-10-29T12:26:19+08:00",
+  "reviewPolicy": "具体岗位依据正文和岗位表；只读到综合计划或转载线索的不提升为已核验具体岗位。",
+  "jobs": [
+    {
+      "id": "gdufe-2026060125",
+      "institution": "广东财经大学",
+      "region": "广东",
+      "city": "广州 / 佛山",
+      "type": "普通高校",
+      "title": "湾区影视产业学院 · 教学科研岗",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html",
+      "majors": [
+        "应用经济学"
+      ],
+      "kind": "faculty",
+      "headcount": 1,
+      "publishedAt": null,
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "研究生学历、博士学位",
+        "freshGraduate": "公告面向2026届毕业生及符合条件的社会人员；具体材料时限见原文",
+        "ageLimit": 38,
+        "ageText": "岗位表列38周岁以下，其他适用说明须结合公告核对",
+        "overseas": "港澳学历及专业名称需按招聘单位要求认证和审核",
+        "research": "近五年独撰或一作B类及以上论文至少1篇，或主持省部级及以上项目至少1项；以学校目录为准",
+        "employment": "按事业单位公开招聘程序办理"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "岗位表代码2026060125，博士，原计划1人；应用经济学。",
+          "url": "https://hrss.gd.gov.cn/attachment/0/618/618267/4916210.xls"
+        },
+        {
+          "note": "首批报名结束后滚动招聘，公告有效期截至2026年12月31日；剩余名额动态发布。",
+          "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html"
+        }
+      ],
+      "summary": "博士教学科研岗位，后续滚动考核。须先核实对应岗位是否仍有名额，再确认专业与科研业绩条件。",
+      "positionCode": "2026060125",
+      "sourceId": "gd-gdufe",
+      "startDate": "2026-07-01",
+      "affiliation": "广东省属公办高校；校内研究院按普通高校归类",
+      "attachments": [
+        {
+          "label": "官方岗位表（XLS）",
+          "url": "https://hrss.gd.gov.cn/attachment/0/618/618267/4916210.xls"
+        }
+      ]
+    },
+    {
+      "id": "gdufe-2026060126",
+      "institution": "广东财经大学",
+      "region": "广东",
+      "city": "广州 / 佛山",
+      "type": "普通高校",
+      "title": "国家安全与发展研究院 · 教学科研岗",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html",
+      "majors": [
+        "应用经济学"
+      ],
+      "kind": "faculty",
+      "headcount": 3,
+      "publishedAt": null,
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "研究生学历、博士学位",
+        "freshGraduate": "公告面向2026届毕业生及符合条件的社会人员；具体材料时限见原文",
+        "ageLimit": 38,
+        "ageText": "岗位表列38周岁以下，其他适用说明须结合公告核对",
+        "overseas": "港澳学历及专业名称需按招聘单位要求认证和审核",
+        "research": "近五年独撰或一作B类及以上论文至少1篇，或主持省部级及以上项目至少1项；以学校目录为准",
+        "employment": "按事业单位公开招聘程序办理"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "岗位表代码2026060126，博士，原计划3人；应用经济学。",
+          "url": "https://hrss.gd.gov.cn/attachment/0/618/618267/4916210.xls"
+        },
+        {
+          "note": "首批报名结束后滚动招聘，公告有效期截至2026年12月31日；剩余名额动态发布。",
+          "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html"
+        }
+      ],
+      "summary": "博士教学科研岗位，后续滚动考核。须先核实对应岗位是否仍有名额，再确认专业与科研业绩条件。",
+      "positionCode": "2026060126",
+      "sourceId": "gd-gdufe",
+      "startDate": "2026-07-01",
+      "affiliation": "广东省属公办高校；校内研究院按普通高校归类",
+      "attachments": [
+        {
+          "label": "官方岗位表（XLS）",
+          "url": "https://hrss.gd.gov.cn/attachment/0/618/618267/4916210.xls"
+        }
+      ]
+    },
+    {
+      "id": "gdufe-2026060131",
+      "institution": "广东财经大学",
+      "region": "广东",
+      "city": "广州 / 佛山",
+      "type": "普通高校",
+      "title": "地理与环境经济学院 · 教学科研岗",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html",
+      "majors": [
+        "人口、资源与环境经济学"
+      ],
+      "kind": "faculty",
+      "headcount": 1,
+      "publishedAt": null,
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "研究生学历、博士学位",
+        "freshGraduate": "公告面向2026届毕业生及符合条件的社会人员；具体材料时限见原文",
+        "ageLimit": 38,
+        "ageText": "岗位表列38周岁以下，其他适用说明须结合公告核对",
+        "overseas": "港澳学历及专业名称需按招聘单位要求认证和审核",
+        "research": "近五年独撰或一作B类及以上论文至少1篇，或主持省部级及以上项目至少1项；以学校目录为准",
+        "employment": "按事业单位公开招聘程序办理"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "岗位表代码2026060131，博士，原计划1人；人口、资源与环境经济学。",
+          "url": "https://hrss.gd.gov.cn/attachment/0/618/618267/4916210.xls"
+        },
+        {
+          "note": "首批报名结束后滚动招聘，公告有效期截至2026年12月31日；剩余名额动态发布。",
+          "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html"
+        }
+      ],
+      "summary": "博士教学科研岗位，后续滚动考核。须先核实对应岗位是否仍有名额，再确认专业与科研业绩条件。",
+      "positionCode": "2026060131",
+      "sourceId": "gd-gdufe",
+      "startDate": "2026-07-01",
+      "affiliation": "广东省属公办高校；校内研究院按普通高校归类",
+      "attachments": [
+        {
+          "label": "官方岗位表（XLS）",
+          "url": "https://hrss.gd.gov.cn/attachment/0/618/618267/4916210.xls"
+        }
+      ]
+    },
+    {
+      "id": "peizheng-digital-econ",
+      "institution": "广东培正学院",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "title": "经济学院数字经济系 · 专任教师",
+      "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1",
+      "majors": [
+        "数字经济（具体博士专业需复核）"
+      ],
+      "kind": "faculty",
+      "headcount": 3,
+      "publishedAt": null,
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "招聘系统列明博士",
+        "freshGraduate": "是否接受尚未取得学位的2026届博士，以单位审核为准",
+        "overseas": "港澳学历认证、博士专业与课程对应关系需核对",
+        "research": "需进一步核对数字经济系对研究方向和科研成果的要求",
+        "employment": "用工方式及具体待遇以学校确认为准"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "学校招聘系统教师系列第10条：经济学院数字经济系，专任教师，博士，3人，职称不限，截止2026.12.31。",
+          "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
+        }
+      ],
+      "summary": "学校招聘系统列明数字经济系博士教师3人，职称不限。是否仍有空额及经济学博士研究方向是否匹配，需向学院确认。",
+      "sourceId": "gd-peizheng",
+      "urlType": "listing",
+      "affiliation": "民办普通本科高校"
+    },
+    {
+      "id": "pku-nsd-2027-assistant",
+      "institution": "北京大学国家发展研究院 / 南南学院",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "title": "2027年入职 · 助理教授通道",
+      "url": "https://nsd.pku.edu.cn/sylm/xw/024418697d1c4c21b09deafb7e90c83e.htm",
+      "majors": [
+        "经济学",
+        "公共政策"
+      ],
+      "kind": "faculty",
+      "headcount": null,
+      "publishedAt": null,
+      "deadline": "2026-11-20",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "入职前取得相关学科博士学位",
+        "freshGraduate": "欢迎应届博士及已获博士学位者；不是仅限2027届",
+        "overseas": "公告接受国内外高校培养的博士，具体学历材料由单位审核",
+        "research": "提交求职论文、代表作和三封推荐信；另需简历及求职信",
+        "employment": "教师各职级招聘中的助理教授通道，具体条件与待遇面议"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "公告明确2027年9月入职，申请截止2026年11月20日（北京时间）；已获学位者亦可申请。",
+          "url": "https://nsd.pku.edu.cn/sylm/xw/024418697d1c4c21b09deafb7e90c83e.htm"
+        }
+      ],
+      "summary": "欢迎已获博士学位或入职前取得学位的申请者，不限2027届。2027年9月入职，按助理教授通道单独记录。",
+      "sourceId": "bj-pku-nsd",
+      "affiliation": "教育部直属高校；北京地区岗位"
+    },
+    {
+      "id": "gdis-postdoc-trade",
+      "institution": "广东省标准化研究院",
+      "region": "广东",
+      "city": "广州",
+      "type": "政府科研院所",
+      "title": "博士后 · 技术性贸易措施方向",
+      "url": "https://career.scnu.edu.cn/detail/online?id=3629754",
+      "majors": [
+        "国际贸易学",
+        "产业经济学",
+        "区域经济学"
+      ],
+      "kind": "postdoc",
+      "headcount": 1,
+      "publishedAt": "2026-10-27",
+      "deadline": "2026-12-01",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
+        "freshGraduate": "即将获博士者按公告证明要求报名",
+        "ageLimit": 40,
+        "ageText": "一般不超过40周岁，以报名截止日计算",
+        "overseas": "境外学历认证、进站手续及相关专业背景需核对",
+        "research": "优先考虑国际经贸、量化分析、产业或相关交叉领域研究经验",
+        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "华南师范大学就业网10月27日转载招收公告；报名截至2026年12月1日。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "研究院属省市场监管局；总计划3人，原则上3个方向各1人，可调剂。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        }
+      ],
+      "summary": "研究院招收驻站博士后，原则上每方向1名、可调剂。独立于正式科研岗位统计，需核对对应研究经历。",
+      "sourceId": "gd-gdis",
+      "sourceAuthority": "university-repost",
+      "affiliation": "广东省市场监督管理局直属公益二类事业单位"
+    },
+    {
+      "id": "gdis-postdoc-ip",
+      "institution": "广东省标准化研究院",
+      "region": "广东",
+      "city": "广州",
+      "type": "政府科研院所",
+      "title": "博士后 · 知识产权方向",
+      "url": "https://career.scnu.edu.cn/detail/online?id=3629754",
+      "majors": [
+        "经济学（需交叉背景）"
+      ],
+      "kind": "postdoc",
+      "headcount": 1,
+      "publishedAt": "2026-10-27",
+      "deadline": "2026-12-01",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
+        "freshGraduate": "即将获博士者按公告证明要求报名",
+        "ageLimit": 40,
+        "ageText": "一般不超过40周岁，以报名截止日计算",
+        "overseas": "境外学历认证、进站手续及相关专业背景需核对",
+        "research": "优先考虑国际经贸、量化分析、产业或相关交叉领域研究经验",
+        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "华南师范大学就业网10月27日转载招收公告；报名截至2026年12月1日。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "研究院属省市场监管局；总计划3人，原则上3个方向各1人，可调剂。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        }
+      ],
+      "summary": "研究院招收驻站博士后，原则上每方向1名、可调剂。独立于正式科研岗位统计，需核对对应研究经历。",
+      "sourceId": "gd-gdis",
+      "sourceAuthority": "university-repost",
+      "affiliation": "广东省市场监督管理局直属公益二类事业单位"
+    },
+    {
+      "id": "gdis-postdoc-standards",
+      "institution": "广东省标准化研究院",
+      "region": "广东",
+      "city": "广州",
+      "type": "政府科研院所",
+      "title": "博士后 · 标准化与专利融合方向",
+      "url": "https://career.scnu.edu.cn/detail/online?id=3629754",
+      "majors": [
+        "经济学（需交叉背景）"
+      ],
+      "kind": "postdoc",
+      "headcount": 1,
+      "publishedAt": "2026-10-27",
+      "deadline": "2026-12-01",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
+        "freshGraduate": "即将获博士者按公告证明要求报名",
+        "ageLimit": 40,
+        "ageText": "一般不超过40周岁，以报名截止日计算",
+        "overseas": "境外学历认证、进站手续及相关专业背景需核对",
+        "research": "优先考虑国际经贸、量化分析、产业或相关交叉领域研究经验",
+        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "华南师范大学就业网10月27日转载招收公告；报名截至2026年12月1日。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "研究院属省市场监管局；总计划3人，原则上3个方向各1人，可调剂。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        }
+      ],
+      "summary": "研究院招收驻站博士后，原则上每方向1名、可调剂。独立于正式科研岗位统计，需核对对应研究经历。",
+      "sourceId": "gd-gdis",
+      "sourceAuthority": "university-repost",
+      "affiliation": "广东省市场监督管理局直属公益二类事业单位"
+    },
+    {
+      "id": "sz-drc-old-postdoc",
+      "institution": "深圳市政府发展研究中心",
+      "region": "广东",
+      "city": "深圳",
+      "type": "政府科研院所",
+      "title": "博士后 · 政策研究（招收状态待确认）",
+      "url": "https://drc.sz.gov.cn/fzlm/sylb/content/post_11987365.html",
+      "majors": [
+        "专业不限，含经济政策研究方向"
+      ],
+      "kind": "postdoc",
+      "headcount": null,
+      "publishedAt": "2025-02-06",
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "announcement",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "ageLimit": 35,
+        "ageText": "原公告为35周岁以下，按入站时间计算",
+        "education": "近年在国内外获博士学位",
+        "overseas": "需核实博士后进站学历认证和招收要求",
+        "employment": "全职博士后"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "原单位官网公告为2025年2月6日发布；不能把后续转载年份当作新的招收年份。",
+          "url": "https://drc.sz.gov.cn/fzlm/sylb/content/post_11987365.html"
+        }
+      ],
+      "summary": "官网现存招收公告发布于2025年，未明确截止日。须核实是否仍接收2026届，不按2026年新岗位或在招名额统计。",
+      "sourceId": "gd-sz-drc",
+      "affiliation": "深圳市政府直属行政管理类事业单位",
+      "alternateUrls": [
+        "https://drc.sz.gov.cn/tzgg/content/post_11987352.html"
+      ]
+    },
+    {
+      "id": "gdaas-fishery-near-major",
+      "institution": "广东省农科院农业经济与信息研究所",
+      "region": "广东",
+      "city": "广州",
+      "type": "政府科研院所",
+      "title": "渔牧经济与信息研究室 · 科研人员（相近专业线索）",
+      "url": "https://www.gdaas.cn/tzggn/rczp/content/post_1331727.html",
+      "majors": [
+        "农业经济管理（A1203）"
+      ],
+      "kind": "faculty",
+      "headcount": 1,
+      "publishedAt": "2026-07-07",
+      "deadline": "2026-12-31T17:00:00+08:00",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "研究生学历、博士学位",
+        "freshGraduate": "2026届可申请，具体专业须审核",
+        "overseas": "2026届港澳及境外毕业生须于2026年12月31日前取得相应证书及认证",
+        "research": "对应“业绩要求一”，需核对官方附件",
+        "employment": "事业单位公开招聘，滚动招满即止"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "代码2026070048只列海洋科学、计算机科学、渔业资源、农业经济管理；普通经济学专业不能直接推定可报。",
+          "url": "http://www.gdaas.cn/attachment/0/15/15873/1331727.xls"
+        }
+      ],
+      "summary": "岗位表列农业经济管理等专业，未直接列理论或应用经济学。经济学博士能否按相近专业报考须先审核，暂不计入匹配岗位。",
+      "sourceId": "gd-gdaas-econ",
+      "positionCode": "2026070048",
+      "affiliation": "广东省农业科学院所属研究所；省农科院为省政府直属事业单位",
+      "attachments": [
+        {
+          "label": "官方岗位表（XLS）",
+          "url": "http://www.gdaas.cn/attachment/0/15/15873/1331727.xls"
+        }
+      ]
+    },
+    {
+      "id": "jx-party-econ-lead",
+      "institution": "浙江红船干部学院 / 中共嘉兴市委党校",
+      "region": "浙江",
+      "city": "嘉兴",
+      "type": "党校",
+      "title": "教师岗位1 · 区域经济 / 产业经济（待原文复核）",
+      "url": "https://www.zjhcgbxy.com/",
+      "majors": [
+        "区域经济学",
+        "产业经济学"
+      ],
+      "kind": "faculty",
+      "headcount": 1,
+      "publishedAt": "2026-07-14",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "education": "转载岗位表为博士研究生",
+        "overseas": "转载要求留服认证，须与原单位复核",
+        "ageLimit": 38,
+        "ageText": "转载显示38周岁及以下，以原公告为准"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "官网公告栏显示7月14日招聘公告；原文详情页面本次访问受限。",
+          "url": "https://www.zjhcgbxy.com/"
+        },
+        {
+          "note": "嘉兴人才网转载列岗位1：区域经济学、产业经济学，博士，1人，滚动报名至12月31日；未据此直接判为当前在招。",
+          "url": "https://www.573job.com/Index/ShowArticle.aspx?NewsID=13540"
+        }
+      ],
+      "summary": "官网公告栏可见2026年招聘通知，转载列教师岗1招经济学博士1人。原文详情及当前名额尚未完成核验，保留为重点线索。",
+      "sourceId": "zj-jx-party",
+      "urlType": "listing",
+      "affiliation": "省委组织部与嘉兴市委共同管理、以嘉兴市委为主的事业单位"
+    },
+    {
+      "id": "zufe-annual-lead",
+      "institution": "浙江财经大学",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "普通高校",
+      "title": "2026年人才引进 · 经济学方向（待岗位表复核）",
+      "url": "https://rsc.zufe.edu.cn/info/1073/3604.htm",
+      "majors": [
+        "应用经济学",
+        "理论经济学"
+      ],
+      "kind": "faculty",
+      "headcount": null,
+      "publishedAt": "2026-03-13",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "announcement",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "overseas": "需核对具体岗位对学历、成果及人才层次的要求"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "原公告全年实施，招满为止；151人为全校计划，并非经济学岗位人数。",
+          "url": "https://rsc.zufe.edu.cn/info/1073/3604.htm"
+        }
+      ],
+      "summary": "全年招聘公告包含理论与应用经济学。全校151人的总计划未分摊为经济学名额，需继续核对具体岗位和人才层次。",
+      "sourceId": "zj-zufe",
+      "affiliation": "浙江省属公办高校"
+    },
+    {
+      "id": "gd-party-J02",
+      "institution": "中共广东省委党校",
+      "region": "广东",
+      "city": "广州",
+      "type": "党校",
+      "title": "经济学教研部教师",
+      "url": "https://www.gdzz.gov.cn/tzgg/content/post_24725.html",
+      "majors": [
+        "世界经济",
+        "区域经济学",
+        "金融学",
+        "产业经济学"
+      ],
+      "kind": "faculty",
+      "headcount": 1,
+      "publishedAt": "2026-03-02",
+      "deadline": "2026-03-16T17:00:00+08:00",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "party": "required",
+        "partyText": "中共党员，含预备党员",
+        "ageLimit": 38,
+        "ageText": "38周岁以下，按公告日期标准",
+        "education": "博士研究生",
+        "freshGraduate": "原公告2026届及规定择业期条件；港澳学历应届认定需单位解释",
+        "research": "近五年规定核心期刊论文至少2篇，作者顺序按公告执行",
+        "overseas": "境外材料中文翻译及专业对应关系按原文审核",
+        "employment": "事业编制"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "官方正文明确报名期为2026年3月6日至3月16日17时，已结束。",
+          "url": "https://www.gdzz.gov.cn/tzgg/content/post_24725.html"
+        }
+      ],
+      "summary": "2026年春季招聘历史记录，报名已于3月16日结束。用于了解专业与成果要求，不计入当前机会。",
+      "sourceId": "gd-party-province",
+      "positionCode": "J02",
+      "closed": true,
+      "affiliation": "广东省委、省政府直属正厅级公益一类事业单位"
+    },
+    {
+      "id": "gd-party-J03",
+      "institution": "中共广东省委党校",
+      "region": "广东",
+      "city": "广州",
+      "type": "党校",
+      "title": "管理学教研部教师（经济学专业）",
+      "url": "https://www.gdzz.gov.cn/tzgg/content/post_24725.html",
+      "majors": [
+        "世界经济",
+        "区域经济学",
+        "金融学",
+        "产业经济学"
+      ],
+      "kind": "faculty",
+      "headcount": 1,
+      "publishedAt": "2026-03-02",
+      "deadline": "2026-03-16T17:00:00+08:00",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "party": "required",
+        "partyText": "中共党员，含预备党员",
+        "ageLimit": 38,
+        "ageText": "38周岁以下，按公告日期标准",
+        "education": "博士研究生",
+        "freshGraduate": "原公告2026届及规定择业期条件；港澳学历应届认定需单位解释",
+        "research": "近五年规定核心期刊论文至少2篇，作者顺序按公告执行",
+        "overseas": "境外材料中文翻译及专业对应关系按原文审核",
+        "employment": "事业编制"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "官方正文明确报名期为2026年3月6日至3月16日17时，已结束。",
+          "url": "https://www.gdzz.gov.cn/tzgg/content/post_24725.html"
+        }
+      ],
+      "summary": "2026年春季招聘历史记录，报名已于3月16日结束。用于了解专业与成果要求，不计入当前机会。",
+      "sourceId": "gd-party-province",
+      "positionCode": "J03",
+      "closed": true,
+      "affiliation": "广东省委、省政府直属正厅级公益一类事业单位"
+    },
+    {
+      "id": "nt-party-econ-02",
+      "institution": "中共南通市委党校",
+      "region": "江苏",
+      "city": "南通",
+      "type": "党校",
+      "title": "讲师 · 经济学方向（02岗）",
+      "url": "https://dj.nantong.gov.cn/ntdjw/tzggt/content/309d0e9a-30f1-4204-87a7-706d645f39aa.html",
+      "majors": [
+        "理论经济学",
+        "应用经济学",
+        "数字经济"
+      ],
+      "kind": "faculty",
+      "headcount": 2,
+      "publishedAt": "2026-04-03",
+      "deadline": "2026-04-30T17:30:00+08:00",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "party": "required",
+        "partyText": "中共党员，含预备党员",
+        "ageLimit": 38,
+        "ageText": "38周岁以下，按原公告基准日",
+        "education": "博士研究生",
+        "overseas": "原公告规定2026年12月31日前完成学历学位认证",
+        "research": "近五年至少3项规定科研成果"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "原单位在南通党建网公布的报名期为4月7日至4月30日17:30；12月31日为取证认证时限。",
+          "url": "https://dj.nantong.gov.cn/ntdjw/tzggt/content/309d0e9a-30f1-4204-87a7-706d645f39aa.html"
+        }
+      ],
+      "summary": "原文报名于4月30日结束。高校就业平台显示的12月31日不能替代公告中的报名截止日。",
+      "sourceId": "js-nt-party",
+      "positionCode": "02",
+      "closed": true,
+      "affiliation": "南通市委、市政府直属党校"
+    },
+    {
+      "id": "gdass-spring-archive",
+      "institution": "广东省社会科学院",
+      "region": "广东",
+      "city": "广州",
+      "type": "社科院",
+      "title": "2026年集中招聘 · 经济学相关科研岗位（历史公告）",
+      "url": "https://www.gdass.org/MessageInfo_10754.shtml",
+      "majors": [
+        "理论经济学",
+        "应用经济学"
+      ],
+      "kind": "faculty",
+      "headcount": null,
+      "publishedAt": "2026-01-30",
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "announcement",
+      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "requirements": {
+        "overseas": "港澳学历应届认定、认证时间及岗位专业以对应公告为准"
+      },
+      "remainingVacancies": "未核实，请以招聘单位最新确认为准",
+      "evidence": [
+        {
+          "note": "5月8日官网已发布本批博士岗位业务考核公告，不能继续作为未结束的报名公告。",
+          "url": "https://www.gdass.org/MessageInfo_10863.shtml"
+        }
+      ],
+      "summary": "春季集中招聘已进入后续业务考核阶段，保留为历史公告。具体经济学岗位与新一轮招聘需分别核实。",
+      "sourceId": "gd-gdass",
+      "closed": true,
+      "affiliation": "广东省委、省政府管理的公益一类科研事业单位"
+    },
+    {
+      "id": "gdxzzy-finance-QNYC2607",
+      "sourceId": "gd-gdppla",
+      "institution": "广东行政职业学院",
+      "region": "广东",
+      "city": "广州",
+      "type": "职业院校",
+      "title": "财政金融学院 · 教学科研人员",
+      "kind": "faculty",
+      "positionCode": "QNYC2607",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4891473.html",
+      "majors": [
+        "财政学（含税收学）",
+        "金融学（含保险学）"
+      ],
+      "headcount": 1,
+      "publishedAt": "2026-04-30",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-29T12:26:19+08:00",
+      "remainingVacancies": "未核实，需查询剩余岗位动态",
+      "affiliation": "广东省属公办高职院校",
+      "summary": "财政金融学院博士岗位，滚动招聘至年底。尤其需先核实港澳学历认证须于“报名首日前”取得的具体认定。",
+      "requirements": {
+        "education": "研究生学历、博士学位；高级职称人员另有放宽条件",
+        "freshGraduate": "面向2026届毕业生及符合条件的社会人员",
+        "ageLimit": 45,
+        "ageText": "45周岁以下；正高职称可放宽至50岁，以公告基准日为准",
+        "overseas": "港澳学历认证须于报名首日前取得；滚动报名的首日解释请先向单位确认",
+        "research": "近五年满足项目参与/主持、至少2篇规定高水平论文、或规定成果奖等条件之一，具体以附件为准",
+        "employment": "事业单位公开招聘"
+      },
+      "attachments": [
+        {
+          "label": "官方岗位表（XLS）",
+          "url": "https://hrss.gd.gov.cn/attachment/0/612/612356/4891473.xls"
+        }
+      ],
+      "evidence": [
+        {
+          "note": "岗位QNYC2607，博士1人，财政学/金融学等专业，职称并非必需条件；高级职称属于放宽通道。",
+          "url": "https://hrss.gd.gov.cn/attachment/0/612/612356/4891473.xls"
+        },
+        {
+          "note": "首批5月报名后滚动招聘，报名有效期至12月31日；港澳学历认证时间另有要求。",
+          "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4891473.html"
+        }
+      ]
+    }
+  ]
+}

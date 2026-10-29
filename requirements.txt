@@ -1,0 +1,4 @@
+# Optional document readers; HTML and RSS collection use the Python standard library.
+openpyxl>=3.1,<4
+xlrd>=2.0,<3
+pypdf>=5,<7
