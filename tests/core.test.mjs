@@ -43,6 +43,10 @@ test('CSV is UTF-8 BOM, quotes embedded separators and neutralizes formulas',()=
  const csv=toCSV([{...base,institution:'=HYPERLINK("x")',title:'研究,教学'}],now);
  assert.ok(csv.startsWith('\uFEFF'));assert.ok(csv.includes('"\'=HYPERLINK(""x"")"'));assert.ok(csv.includes('"研究,教学"'));
 });
+test('Party overview puts current opportunities before leads and closed records, with Guangdong first within each group',()=>{
+ const jobs=[{...base,id:'closed-gd',type:'党校',closed:true},{...base,id:'lead-gd',type:'党校',verifiedLevel:'lead'},{...base,id:'open-zj',type:'党校',region:'浙江'},{...base,id:'postdoc-gd',type:'党校',kind:'postdoc'}];
+ assert.deepEqual(filterJobs(jobs,{focus:'party',status:'all',kind:'all',sort:'priority'},{},{},now).map(j=>j.id),['postdoc-gd','open-zj','lead-gd','closed-gd']);
+});
 test('Calendar includes current deadlines only and folds UTF-8 safely',()=>{
  const ics=toICS([base,{...base,id:'old',deadline:'2026-04-30'},{...base,id:'lead',verifiedLevel:'lead'}],now);
  assert.equal((ics.match(/BEGIN:VEVENT/g)||[]).length,1);assert.ok(ics.includes('DTSTART;VALUE=DATE:20261110'));assert.ok(ics.includes('DTEND;VALUE=DATE:20261111'));

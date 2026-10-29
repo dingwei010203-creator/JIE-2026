@@ -70,6 +70,9 @@ export function filterJobs(jobs, f={}, saved={}, profile={}, now=new Date()) {
   }).sort((a,b)=>{
     if(f.sort==='deadline') return (deadlineMs(a.deadline)||Infinity)-(deadlineMs(b.deadline)||Infinity);
     if(f.sort==='newest') return (b.publishedAt||'').localeCompare(a.publishedAt||'');
+    const statusRank=j=>isCurrent(j,now)?0:jobStatus(j,now)==='closed'?2:1;
+    const statusOrder=statusRank(a)-statusRank(b);
+    if(statusOrder) return statusOrder;
     return priority(b)-priority(a) || (b.publishedAt||'').localeCompare(a.publishedAt||'');
   });
 }
