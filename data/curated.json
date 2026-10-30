@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastVerifiedAt": "2026-10-29T13:16:58+08:00",
+  "lastVerifiedAt": "2026-10-30T09:21:21+08:00",
   "reviewPolicy": "具体岗位依据正文和岗位表；只读到综合计划或转载线索的不提升为已核验具体岗位。",
   "jobs": [
     {
@@ -668,7 +668,7 @@
       "deadline": null,
       "rolling": false,
       "verifiedLevel": "announcement",
-      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "verifiedAt": "2026-10-30T09:21:21+08:00",
       "requirements": {
         "overseas": "港澳学历应届认定、认证时间及岗位专业以对应公告为准"
       },
@@ -677,9 +677,13 @@
         {
           "note": "5月8日官网已发布本批博士岗位业务考核公告，不能继续作为未结束的报名公告。",
           "url": "https://www.gdass.org/MessageInfo_10863.shtml"
+        },
+        {
+          "note": "10月30日实读7月14日官方拟聘公示，确认该批次已进入拟聘阶段；继续保留历史记录，不作为新增在招岗位。",
+          "url": "https://www.gdass.org/MessageInfo_10933.shtml"
         }
       ],
-      "summary": "春季集中招聘已进入后续业务考核阶段，保留为历史公告。具体经济学岗位与新一轮招聘需分别核实。",
+      "summary": "春季集中招聘已于7月14日发布拟聘人员公示，保留为历史公告，不作为当前可报名机会。具体经济学岗位与新一轮招聘需分别核实。",
       "sourceId": "gd-gdass",
       "closed": true,
       "affiliation": "广东省委、省政府管理的公益一类科研事业单位"
@@ -1057,6 +1061,229 @@
       "verifiedAt": "2026-10-29T13:16:58+08:00",
       "firstSeenAt": "2026-10-29T13:16:58+08:00",
       "remainingVacancies": "未核实，请向招聘单位确认当前名额"
+    },
+    {
+      "headcount": null,
+      "deadline": null,
+      "rolling": true,
+      "remainingVacancies": "当前剩余名额未核实，以招聘单位确认为准",
+      "verifiedAt": "2026-10-30T09:21:21+08:00",
+      "firstSeenAt": "2026-10-30T09:21:21+08:00",
+      "id": "gdufs-rcite-faculty-20261020",
+      "institution": "广东外语外贸大学国际经济贸易研究院",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "教学科研岗位研究人员（条件附件待核）",
+      "url": "https://rcite.gdufs.edu.cn/info/1139/3137.htm",
+      "alternateUrls": [
+        "https://rcite.gdufs.edu.cn/info/1125/3117.htm"
+      ],
+      "sourceId": "gd-gdufs",
+      "majors": [
+        "经济学及相关"
+      ],
+      "publishedAt": "2026-10-20",
+      "verifiedLevel": "announcement",
+      "requirements": {
+        "education": "具体学历及岗位层次见条件附件，本次附件要求验证码，尚未核实",
+        "freshGraduate": "正文欢迎国内外毕业生；具体资格待附件核验",
+        "overseas": "学历认证、年龄和成果要求待条件附件及单位审核",
+        "employment": "高校教学科研岗位，编制及聘用条件待核"
+      },
+      "evidence": [
+        {
+          "note": "官网10月20日正文明确经济学及相关学科、常年开展教学科研岗位招聘。研究院依托校内经济贸易学院，按普通高校归类。",
+          "url": "https://rcite.gdufs.edu.cn/info/1139/3137.htm"
+        },
+        {
+          "note": "具体条件位于PDF附件；实读下载页面显示验证码，未取得附件，不提升为已核验具体岗位。",
+          "url": "https://rcite.gdufs.edu.cn/system/_content/download.jsp?owner=1141614829&urltype=news.DownloadAttachUrl&wbfileid=0D5CAA64F2CE4FBC8C6D742C5AC08FDB"
+        }
+      ],
+      "summary": "常年招聘经济学及相关教学科研人员。正文已读，具体条件附件受验证码限制，保留综合公告，不计入已核验岗位。",
+      "affiliation": "广东外语外贸大学校内研究院，非政府直属科研院所"
+    },
+    {
+      "headcount": null,
+      "deadline": null,
+      "rolling": true,
+      "remainingVacancies": "当前剩余名额未核实，以招聘单位确认为准",
+      "verifiedAt": "2026-10-30T09:21:21+08:00",
+      "firstSeenAt": "2026-10-30T09:21:21+08:00",
+      "id": "gdufs-rcite-postdoc-20261019",
+      "institution": "广东外语外贸大学国际经济贸易研究院",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "师资博士后 · 应用经济学",
+      "url": "https://rcite.gdufs.edu.cn/info/1124/3107.htm",
+      "sourceId": "gd-gdufs",
+      "majors": [
+        "应用经济学等"
+      ],
+      "publishedAt": "2026-10-19",
+      "verifiedLevel": "position",
+      "requirements": {
+        "education": "在海内外著名高校或研究机构获博士学位或取得同意授予学位证明，获学位不超过3年",
+        "ageLimit": 35,
+        "ageText": "原则上35周岁以下",
+        "freshGraduate": "已取得同意授予博士学位证明者可申请",
+        "overseas": "境外学位及相关认证按校方审核；不能仅依据院校名称推定符合",
+        "research": "须满足下列之一：一类论文1篇或二类论文2篇（非外语类及英语专业）；或在获学位当年前100名国（境）外高校获博士，排名按公告所列四榜核定。论文目录以学校标准为准。",
+        "employment": "非在职，全职在校，档案转入流动站；博士后单列，出站举荐不等于保证取得教师岗"
+      },
+      "evidence": [
+        {
+          "note": "10月19日官网具体简章明确应用经济学等方向、博士取得3年内、原则上35岁以下，正文完整列出论文或院校排名的替代条件。",
+          "url": "https://rcite.gdufs.edu.cn/info/1124/3107.htm"
+        },
+        {
+          "note": "正文明确常年接受进站申请；税前年薪30万元，住房报销按规定最高3000元/月，不承诺出站留校。",
+          "url": "https://rcite.gdufs.edu.cn/info/1124/3107.htm"
+        }
+      ],
+      "summary": "常年接受应用经济学师资博士后申请；须逐项核对年龄、全职要求及论文或院校排名替代条件。单独统计为博士后。",
+      "affiliation": "广东外语外贸大学校内研究院"
+    },
+    {
+      "headcount": null,
+      "deadline": null,
+      "rolling": true,
+      "remainingVacancies": "当前剩余名额未核实，以招聘单位确认为准",
+      "verifiedAt": "2026-10-30T09:21:21+08:00",
+      "firstSeenAt": "2026-10-30T09:21:21+08:00",
+      "id": "nju-business-special-associate-20260827",
+      "institution": "南京大学商学院",
+      "region": "江苏",
+      "city": "南京",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "特任副研究员 · 经济学方向",
+      "url": "https://nubs.nju.edu.cn/d9/72/c8896a842098/pagem.htm",
+      "majors": [
+        "理论经济学",
+        "国际贸易学",
+        "金融学",
+        "产业经济学",
+        "人口与环境经济学"
+      ],
+      "publishedAt": "2026-08-27",
+      "verifiedLevel": "position",
+      "requirements": {
+        "education": "具有博士学位",
+        "ageLimit": 35,
+        "ageText": "年龄不超过35岁",
+        "freshGraduate": "未限定毕业届别；申请时须具有博士学位，未获学位者是否可提前申请待确认",
+        "overseas": "面向海内外招聘；具体学历认证材料由单位审核",
+        "research": "本学科理论基础和专业特长，取得高质量研究成果并具有发展潜力，提交代表作和学术证明",
+        "employment": "研究系列特任副研究员，年薪参照准聘助理教授；公告未明确事业编制，不推定有编"
+      },
+      "evidence": [
+        {
+          "note": "8月27日官网明确招聘特任副研究员，从事教学科研，经济学方向列理论经济学、国际贸易、金融、产业、人口与环境经济学。",
+          "url": "https://nubs.nju.edu.cn/d9/72/c8896a842098/pagem.htm"
+        },
+        {
+          "note": "正文列博士、年龄不超过35岁及高质量成果要求；招满即止，无固定报名截止及具体人数，当前空额未核实。",
+          "url": "https://nubs.nju.edu.cn/d9/72/c8896a842098/pagem.htm"
+        }
+      ],
+      "summary": "经济学研究系列岗位，博士且不超过35岁，要求高质量成果。招满即止，当前名额与聘用性质须确认。",
+      "affiliation": "教育部直属高校"
+    },
+    {
+      "headcount": null,
+      "deadline": "2026-11-30",
+      "rolling": false,
+      "remainingVacancies": "当前剩余名额未核实，以招聘单位确认为准",
+      "verifiedAt": "2026-10-30T09:21:21+08:00",
+      "firstSeenAt": "2026-10-30T09:21:21+08:00",
+      "id": "safe-ferc-postdoc-20261015",
+      "institution": "国家外汇管理局外汇研究中心",
+      "region": "北京",
+      "city": "北京",
+      "type": "政府科研院所",
+      "kind": "postdoc",
+      "title": "博士后 · 国际金融与开放经济政策研究",
+      "url": "https://www.safe.gov.cn/safe/2026/1015/27985.html",
+      "majors": [
+        "与国际金融、宏观经济、贸易投资、政策评估等研究方向相关专业"
+      ],
+      "publishedAt": "2026-10-15",
+      "verifiedLevel": "position",
+      "requirements": {
+        "education": "已获博士学位或即将获博士学位的应届博士",
+        "ageLimit": 35,
+        "ageText": "35周岁以下",
+        "freshGraduate": "未获学位证的应届生可提供答辩决议证明",
+        "overseas": "国外博士须提交留服认证；港澳学位材料及认证办理要求待单位确认",
+        "research": "专业与研究课题切合或具备学科背景及研究积累；代表作为论文者需2篇以上，另提交研究计划、两位博导或相当水平专家推荐信",
+        "employment": "全脱产博士后；北京参加笔试面试，成绩权重40%与60%，总分80分以上择优录取"
+      },
+      "evidence": [
+        {
+          "note": "10月15日官方正文完整列招收条件及8类方向；总计划4名跨方向共享，含法律研究，不将4人作为经济学独立名额。",
+          "url": "https://www.safe.gov.cn/safe/2026/1015/27985.html"
+        },
+        {
+          "note": "报名截至11月30日，以收到邮件为准；应届学位证明、境外认证、代表作及推荐信要求见正文。",
+          "url": "https://www.safe.gov.cn/safe/2026/1015/27985.html"
+        }
+      ],
+      "summary": "国际金融、开放经济及政策评估博士后，11月30日截止。跨方向总计划4名，经济学独立人数未列，不混入正式岗位统计。",
+      "affiliation": "国家外汇管理局直属事业单位"
+    },
+    {
+      "headcount": null,
+      "deadline": "2026-10-31",
+      "rolling": false,
+      "remainingVacancies": "当前剩余名额未核实，以招聘单位确认为准",
+      "verifiedAt": "2026-10-30T09:21:21+08:00",
+      "firstSeenAt": "2026-10-30T09:21:21+08:00",
+      "id": "hz-party-teaching-20261016-lead",
+      "institution": "中共杭州市委党校",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "党校",
+      "kind": "faculty",
+      "title": "教研人员 · 应用经济学等（官方原文待核）",
+      "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2026/art_9772d9bc6d624fe0ba56435fb5fe2a8d.html",
+      "alternateUrls": [
+        "https://www.nbzhaokao.com/article/20261016/01a1457cfd80747db9a9635063bb5a31",
+        "https://www.gaoxiaojob.com/announcement/detail/438674.html"
+      ],
+      "majors": [
+        "应用经济学（0202，转载信息）"
+      ],
+      "publishedAt": "2026-10-16",
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "requirements": {
+        "education": "转载列博士研究生",
+        "party": "required",
+        "partyText": "转载岗位表要求中共党员，未明确是否含预备党员，待官方确认",
+        "ageLimit": 38,
+        "ageText": "转载列38周岁及以下；副高及以上可放宽至43岁",
+        "freshGraduate": "转载注明2026届普通高校毕业生须于9月30日前取得学历学位，不是报名截止日",
+        "overseas": "转载称留学人员专业按规定认定、复审提供留服认证；具体港澳认定待官方确认",
+        "research": "转载要求本科、研究生阶段所学专业相近或基本一致，并有相应学术成果；不能推定符合",
+        "employment": "转载为财政全额拨款事业单位教研岗位，原文待核"
+      },
+      "evidence": [
+        {
+          "note": "实读宁波招考网完整转载及其指向的杭州人社官方链接；转载注明10月16日发布、10月31日邮件报名截止，跨6类专业合计5名，非经济学独立人数。",
+          "url": "https://www.nbzhaokao.com/article/20261016/01a1457cfd80747db9a9635063bb5a31"
+        },
+        {
+          "note": "本次访问杭州人社官方原文超时，学校官网403；仅保留转载线索，不声称已核验具体岗位。",
+          "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2026/art_9772d9bc6d624fe0ba56435fb5fe2a8d.html"
+        }
+      ],
+      "summary": "转载报名截止10月31日，临近截止但官方原文暂不可访问。需优先核对党员、本研专业一致性、学位取得时间及当前报名状态；暂不计入已核验岗位。",
+      "affiliation": "杭州市委党校，单位性质待官方原文复核"
     }
   ]
 }
