@@ -330,45 +330,6 @@
     "alternateUrls": []
   },
   {
-    "id": "auto-a25a5005284481",
-    "sourceId": "gd-hrss",
-    "institution": "单位详见原公告",
-    "region": "广东",
-    "city": "",
-    "type": "综合招聘平台",
-    "kind": "faculty",
-    "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
-    "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-30T14:21:40+08:00",
-    "lastSeenAt": "2026-10-30T14:21:40+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "本次招聘长期报名，报名有效期至2026年12月31日截止。首批报名时间为2026年9月1日9:00至2026年9月30日16:00。后续采取滚动招聘方式，招满为止。学校视报名情况每1-2个月组织1次直接业务考核，剩余岗位动态情况将在学校网站发布。每批次考试总成绩未达到合格分数线的应聘人员不再受理其后续批次同一岗位的报名。",
-      "请按要求一次性填报报考信息及上传全部相关证明材料，对填报信息和上传证明材料不全或不真实导致审核不通过，责任由应聘人员承担。招聘系统将在报名截止时间自动关闭。",
-      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或广东松山职业技术学院人才招聘网站（https://hrms.gdsspt.edu.cn/#/app/gdsszyjsxy/zpxt/zpwz）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。"
-    ],
-    "attachments": [
-      {
-        "label": "广东松山职业技术学院2026年公开招聘博士研究生岗位表",
-        "url": "https://hrss.gd.gov.cn/attachment/0/622/622902/4945757.xls"
-      }
-    ],
-    "verificationIssues": [
-      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
-    ],
-    "contentHash": "1073db6c6746939d6663b752b465df28e05086d78f6a6214248a914ed0c4f351",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实"
-  },
-  {
     "id": "auto-29bd52b9fc984d",
     "sourceId": "gd-party-province",
     "institution": "中共广东省委党校",
@@ -561,36 +522,6 @@
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
-  },
-  {
-    "id": "auto-262c0c42eb6be0",
-    "sourceId": "zj-jx-party",
-    "institution": "浙江红船干部学院 / 嘉兴市委党校",
-    "region": "浙江",
-    "city": "嘉兴",
-    "type": "党校",
-    "kind": "faculty",
-    "title": "2026年浙江红船干部学院 中共嘉兴市委党校公开招聘高层次人才公告 2026/07/14",
-    "url": "https://www.zjhcgbxy.com/gsgg/48723.jhtml",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-30T14:22:21+08:00",
-    "lastSeenAt": "2026-10-30T14:22:21+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "教师岗位1 | 1 | 区域经济学、产业经济学 | 博士研究生"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "4110284231891b018885472cc6af13437f68f7f9ea8b59190e5c27327ba5d9fe",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实"
   },
   {
     "id": "auto-645258f892a3f1",

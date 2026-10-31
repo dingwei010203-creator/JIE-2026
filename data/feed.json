@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T14:23:44+08:00",
+  "generatedAt": "2026-10-31T09:05:36+08:00",
   "lastScanStartedAt": "2026-10-30T14:21:06+08:00",
   "lastScanCompletedAt": "2026-10-30T14:23:43+08:00",
-  "lastVerifiedAt": "2026-10-30T09:21:21+08:00",
+  "lastVerifiedAt": "2026-10-31T09:04:51+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -458,8 +458,8 @@
       "region": "浙江",
       "city": "嘉兴",
       "type": "党校",
-      "title": "教师岗位1 · 区域经济 / 产业经济（待原文复核）",
-      "url": "https://www.zjhcgbxy.com/",
+      "title": "教师岗位1 · 区域经济 / 产业经济",
+      "url": "https://www.zjhcgbxy.com/gsgg/48723.jhtml",
       "majors": [
         "区域经济学",
         "产业经济学"
@@ -469,13 +469,17 @@
       "publishedAt": "2026-07-14",
       "deadline": "2026-12-31",
       "rolling": true,
-      "verifiedLevel": "lead",
-      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-31T09:04:51+08:00",
       "requirements": {
-        "education": "转载岗位表为博士研究生",
-        "overseas": "转载要求留服认证，须与原单位复核",
+        "education": "博士研究生学历学位",
+        "overseas": "留学人员须取得留服国（境）外学历学位认证并随报名材料提供；未列入专业目录的专业按课程、研究方向相同或相近原则审核",
         "ageLimit": 38,
-        "ageText": "转载显示38周岁及以下，以原公告为准"
+        "ageText": "38周岁及以下，即1987年7月13日以后出生，以原公告标准为准",
+        "freshGraduate": "普通高校2026届应届生学历学位须于2026年12月31日前取得；未获证者按公告提供就业推荐表和就业协议书",
+        "partyText": "本次招聘公告未单列党员资格要求，政治素质条件按原文执行",
+        "research": "提交科研成果清单及证明；考试为科研能力评价30%、试讲40%、面试30%，单项均须70分及以上",
+        "employment": "事业编制；根据报名情况适时考核，招满即止"
       },
       "remainingVacancies": "未核实，请以招聘单位最新确认为准",
       "evidence": [
@@ -490,12 +494,27 @@
         {
           "note": "10月29日重查官网仍可见7月14日招聘及10月25日部分岗位后续公告；原文详情访问受限，保留为线索。",
           "url": "https://www.zjhcgbxy.com/"
+        },
+        {
+          "note": "10月31日实读官方7月14日发布的完整公告及正文岗位表：教师岗位1原计划1名，区域经济学、产业经济学，博士；报名至12月31日，招满即止。",
+          "url": "https://www.zjhcgbxy.com/gsgg/48723.jhtml"
+        },
+        {
+          "note": "实读10月25日官方后续：仅教师岗位2、4科研能力评价及入围试讲；不能据此认定经济学岗位1招满或仍有空额。",
+          "url": "https://www.zjhcgbxy.com/gsgg/48864.jhtml"
+        },
+        {
+          "note": "实读10月30日官方后续：仅教师岗位2试讲及入围面试；经济学岗位1当前剩余名额仍待单位确认。",
+          "url": "https://www.zjhcgbxy.com/gsgg/48875.jhtml"
         }
       ],
-      "summary": "转载岗位表列区域经济学、产业经济学教师1名，报名至12月31日。官网7月招聘公告及10月后续公告可见，但详情本次仍不可访问；经济学岗位的当前名额及原文条件待确认。",
+      "summary": "已核实官方具体岗位：区域经济学、产业经济学博士教师原计划1名，事业编制，滚动至12月31日。10月25日及30日后续只涉及岗位2、4，未确认岗位1当前空额；留服认证须随报名提供，专业按课程及研究方向审核。",
       "sourceId": "zj-jx-party",
-      "urlType": "listing",
-      "affiliation": "省委组织部与嘉兴市委共同管理、以嘉兴市委为主的事业单位"
+      "affiliation": "省委组织部与嘉兴市委共同管理、以嘉兴市委为主的事业单位",
+      "positionCode": "教师岗位1",
+      "alternateUrls": [
+        "https://www.573job.com/Index/ShowArticle.aspx?NewsID=13540"
+      ]
     },
     {
       "id": "zufe-annual-lead",
@@ -1298,6 +1317,57 @@
       "affiliation": "杭州市委党校，单位性质待官方原文复核"
     },
     {
+      "id": "gdsspt-econ-2026070171-lead",
+      "institution": "广东松山职业技术学院",
+      "region": "广东",
+      "city": "韶关",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "经济管理学院专任教师 · 2026070171（原文待核）",
+      "positionCode": "2026070171",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/426022.html"
+      ],
+      "majors": [
+        "产业经济学（A020205，转载岗位表）"
+      ],
+      "headcount": null,
+      "publishedAt": null,
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-10-31T09:04:51+08:00",
+      "firstSeenAt": "2026-10-31T09:04:51+08:00",
+      "requirements": {
+        "education": "转载岗位表列博士研究生",
+        "ageLimit": 40,
+        "ageText": "转载列40周岁以下，年龄计算至报名首日；以官方岗位表为准",
+        "freshGraduate": "转载面向2026届及社会人员；境内2026届学历学位9月30日前取得，其他人员为报名首日前",
+        "overseas": "转载明确港澳及留学人员须于报名首日前取得留服认证；滚动招聘中报名首日如何认定待官方确认；相近专业须提供中外文成绩单及课程对比",
+        "research": "具体科研成果要求和原始岗位表待核验",
+        "employment": "转载为事业编制专任教师，原单位公告与现存名额待核"
+      },
+      "remainingVacancies": "待核实；转载所列原计划1名不等于当前剩余名额",
+      "evidence": [
+        {
+          "note": "实读高才网完整转载及表格，代码2026070171列产业经济学、管理科学与工程、工商管理，原计划1名博士。仅转载，headcount暂为null，不提升具体岗位核验等级。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/426022.html"
+        },
+        {
+          "note": "转载正文落款8月26日，平台10月23日刊载，不能视为10月新招聘；报名首批9月1日至30日，后续滚动至12月31日。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/426022.html"
+        },
+        {
+          "note": "10月31日省人社官网原文访问受限，未能实读官方正文及原始岗位表，保留线索。",
+          "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html"
+        }
+      ],
+      "summary": "转载列经济管理学院产业经济学博士教师岗，滚动至12月31日；原公告落款8月26日，非10月新发。官方原文及最新空额未核实，暂不计入已核验岗位，重点核对港澳学历认证须在报名首日前取得的限制。",
+      "affiliation": "广东省教育厅直属公办高职院校（以官方资料复核为准）"
+    },
+    {
       "id": "auto-1dc3b0c952a3ac",
       "sourceId": "gd-sz-gm",
       "institution": "单位详见原公告",
@@ -1628,45 +1698,6 @@
       "alternateUrls": []
     },
     {
-      "id": "auto-a25a5005284481",
-      "sourceId": "gd-hrss",
-      "institution": "单位详见原公告",
-      "region": "广东",
-      "city": "",
-      "type": "综合招聘平台",
-      "kind": "faculty",
-      "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
-      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-30T14:21:40+08:00",
-      "lastSeenAt": "2026-10-30T14:21:40+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "本次招聘长期报名，报名有效期至2026年12月31日截止。首批报名时间为2026年9月1日9:00至2026年9月30日16:00。后续采取滚动招聘方式，招满为止。学校视报名情况每1-2个月组织1次直接业务考核，剩余岗位动态情况将在学校网站发布。每批次考试总成绩未达到合格分数线的应聘人员不再受理其后续批次同一岗位的报名。",
-        "请按要求一次性填报报考信息及上传全部相关证明材料，对填报信息和上传证明材料不全或不真实导致审核不通过，责任由应聘人员承担。招聘系统将在报名截止时间自动关闭。",
-        "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或广东松山职业技术学院人才招聘网站（https://hrms.gdsspt.edu.cn/#/app/gdsszyjsxy/zpxt/zpwz）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。"
-      ],
-      "attachments": [
-        {
-          "label": "广东松山职业技术学院2026年公开招聘博士研究生岗位表",
-          "url": "https://hrss.gd.gov.cn/attachment/0/622/622902/4945757.xls"
-        }
-      ],
-      "verificationIssues": [
-        "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
-      ],
-      "contentHash": "1073db6c6746939d6663b752b465df28e05086d78f6a6214248a914ed0c4f351",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实"
-    },
-    {
       "id": "auto-29bd52b9fc984d",
       "sourceId": "gd-party-province",
       "institution": "中共广东省委党校",
@@ -1859,36 +1890,6 @@
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
-    },
-    {
-      "id": "auto-262c0c42eb6be0",
-      "sourceId": "zj-jx-party",
-      "institution": "浙江红船干部学院 / 嘉兴市委党校",
-      "region": "浙江",
-      "city": "嘉兴",
-      "type": "党校",
-      "kind": "faculty",
-      "title": "2026年浙江红船干部学院 中共嘉兴市委党校公开招聘高层次人才公告 2026/07/14",
-      "url": "https://www.zjhcgbxy.com/gsgg/48723.jhtml",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-30T14:22:21+08:00",
-      "lastSeenAt": "2026-10-30T14:22:21+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "教师岗位1 | 1 | 区域经济学、产业经济学 | 博士研究生"
-      ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "4110284231891b018885472cc6af13437f68f7f9ea8b59190e5c27327ba5d9fe",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实"
     },
     {
       "id": "auto-645258f892a3f1",
