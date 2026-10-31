@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T09:05:37+08:00",
+  "generatedAt": "2026-10-31T09:09:55+08:00",
   "lastScanStartedAt": "2026-10-30T14:21:06+08:00",
   "lastScanCompletedAt": "2026-10-30T14:23:43+08:00",
-  "lastVerifiedAt": "2026-10-31T09:04:51+08:00",
+  "lastVerifiedAt": "2026-10-31T09:08:57+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -1366,6 +1366,175 @@
       ],
       "summary": "转载列经济管理学院产业经济学博士教师岗，滚动至12月31日；原公告落款8月26日，非10月新发。官方原文及最新空额未核实，暂不计入已核验岗位，重点核对港澳学历认证须在报名首日前取得的限制。",
       "affiliation": "广东省教育厅直属公办高职院校（以官方资料复核为准）"
+    },
+    {
+      "institution": "北京工商大学经济学院",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "faculty",
+      "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm",
+      "sourceId": "bj-btbu",
+      "majors": [
+        "应用经济学（0202）",
+        "理论经济学（0201）",
+        "统计学（0714）"
+      ],
+      "headcount": 2,
+      "publishedAt": "2026-09-17",
+      "startDate": "2026-09-17",
+      "deadline": "2026-11-15",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-31T09:08:57+08:00",
+      "firstSeenAt": "2026-10-31T09:08:57+08:00",
+      "remainingVacancies": "原计划为对应岗位跨专业共享计划，当前剩余名额未核实",
+      "attachments": [
+        {
+          "label": "官方岗位信息表（XLSX）",
+          "url": "https://hr.btbu.edu.cn/docs/2026-09/6167fb574c7144f3b27df5f1515a367a.xlsx"
+        }
+      ],
+      "affiliation": "北京市属普通本科高校",
+      "id": "btbu-econ-overseas-20260917-08",
+      "positionCode": "8",
+      "title": "经济学院专任教师 · 海外优秀学者",
+      "requirements": {
+        "education": "博士研究生学历、博士学位",
+        "overseas": "海外博士须留服认证；留学归国人员须符合北京市人才引进和在京就业落户要求；条件二明确须于2026年12月31日前取得留服认证，此日期不是报名截止",
+        "partyText": "岗位表列政治面貌不限",
+        "employment": "编制内专任教师；每人限报一个岗位，初选、复选及学校评议等程序；讲师十级及以上",
+        "ageLimit": 40,
+        "ageText": "40周岁及以下，1985年9月及以后出生",
+        "freshGraduate": "岗位表招聘范围不限；条件二接受国（境）外取得博士学位不超过3年者，非仅限有海外任职经历",
+        "research": "须满足其一：①海外高校、科研机构、企业研发机构等正式教学科研职位，具有较强能力并符合学校青年英才选聘条件，所列高水平论文为优先条件；②国（境）外获博士不超过3年、有较强教学科研能力，在学或博士后期间所列高水平论文为优先条件。不得将优先条件改成所有申请者必备条件。"
+      },
+      "evidence": [
+        {
+          "note": "实质下载并解析官方XLSX岗位表，序号8为经济学院海外优秀学者，原计划2名（经济学与统计学共享），博士、40岁及以下、政治面貌不限。",
+          "url": "https://hr.btbu.edu.cn/docs/2026-09/6167fb574c7144f3b27df5f1515a367a.xlsx"
+        },
+        {
+          "note": "岗位表条件二明确境外博士取得不超过3年，留服认证最晚12月31日；正文报名截止11月15日。",
+          "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm"
+        },
+        {
+          "note": "10月31日补查延期及后续公示，未找到可确认该岗位当前剩余名额的通知，不把原计划当空额。",
+          "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm"
+        }
+      ],
+      "summary": "经济学院海外优秀学者通道，接受理论、应用经济学及统计学，原计划共2名，11月15日截止。境外博士3年内可走条件二，须核对留服认证和进京要求；不推定已符合。"
+    },
+    {
+      "institution": "北京工商大学经济学院",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "faculty",
+      "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm",
+      "sourceId": "bj-btbu",
+      "majors": [
+        "应用经济学（0202）",
+        "理论经济学（0201）",
+        "统计学（0714）"
+      ],
+      "headcount": 2,
+      "publishedAt": "2026-09-17",
+      "startDate": "2026-09-17",
+      "deadline": "2026-11-15",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-10-31T09:08:57+08:00",
+      "firstSeenAt": "2026-10-31T09:08:57+08:00",
+      "remainingVacancies": "原计划为对应岗位跨专业共享计划，当前剩余名额未核实",
+      "attachments": [
+        {
+          "label": "官方岗位信息表（XLSX）",
+          "url": "https://hr.btbu.edu.cn/docs/2026-09/6167fb574c7144f3b27df5f1515a367a.xlsx"
+        }
+      ],
+      "affiliation": "北京市属普通本科高校",
+      "id": "btbu-econ-senior-20260917-01",
+      "positionCode": "1",
+      "title": "经济学院专任教师 · 高层次人才",
+      "requirements": {
+        "education": "博士研究生学历、博士学位",
+        "overseas": "海外博士须留服认证；留学归国人员须符合北京市人才引进和在京就业落户要求",
+        "partyText": "岗位表列政治面貌不限",
+        "employment": "编制内专任教师；每人限报一个岗位，初选、复选及学校评议等程序；副教授七级及以上，社会人员须有北京常住户口或符合人才引进及在京就业落户要求",
+        "ageLimit": 50,
+        "ageText": "50周岁及以下，1975年9月及之后出生",
+        "freshGraduate": "岗位表招聘范围为社会人员，不属于普通应届博士通道",
+        "research": "须满足其一：基于重要贡献入选省部级及以上人才计划；或近5年取得规定项目、论文、奖励、转化/决策成果等任2类成果，同项不累计。国家项目须主持；自然科学基金须面上及以上。具体论文目录、作者顺序及奖励排名见官方表。"
+      },
+      "evidence": [
+        {
+          "note": "实质下载并解析官方XLSX岗位表，序号1为经济学院高层次人才，原计划2名（经济学与统计学共享），博士、50岁及以下、招聘范围社会人员，副教授七级及以上。",
+          "url": "https://hr.btbu.edu.cn/docs/2026-09/6167fb574c7144f3b27df5f1515a367a.xlsx"
+        },
+        {
+          "note": "岗位表明确省部级以上人才计划或近5年任2类规定成果门槛；11月15日报名截止，不将全校30人作为经济学人数。",
+          "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm"
+        }
+      ],
+      "summary": "社会人员高层次人才通道，成果门槛较高，原计划共2名（含统计学），11月15日截止；不按普通应届博士岗位推定匹配。"
+    },
+    {
+      "id": "bjypc-finance-20261020-lead",
+      "institution": "北京青年政治学院",
+      "region": "北京",
+      "city": "北京",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "数智财经学院 · 金融与财会专业教师（岗位表待核）",
+      "url": "https://www.beijing.gov.cn/gongkai/rsxx/sydwzp/202610/t20261028_4921548.html",
+      "alternateUrls": [
+        "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261021_4913524.html"
+      ],
+      "majors": [
+        "理论经济学、应用经济学等（专业范围据转载，待官方岗位表核实）"
+      ],
+      "headcount": null,
+      "publishedAt": "2026-10-20",
+      "startDate": "2026-10-20",
+      "deadline": "2026-10-31T16:00:00+08:00",
+      "rolling": false,
+      "verifiedLevel": "lead",
+      "verifiedAt": "2026-10-31T09:08:57+08:00",
+      "firstSeenAt": "2026-10-31T09:08:57+08:00",
+      "requirements": {
+        "education": "转载具体岗位称应届生须博士；官方岗位表本次未稳定取得，待核实",
+        "ageText": "转载该岗应届生38周岁及以下；工作经历、高职称放宽条件待官方岗位表核实",
+        "hukou": "官方正文要求北京市常住户口，不含就读学校集体户口；不得推定申请人符合",
+        "freshGraduate": "正文纳入2025、2026届及符合规定的2024届离校未就业毕业生；港澳应届认定由单位审核",
+        "overseas": "留学回国应届生须已取得留服认证学历学位证",
+        "research": "具体专业、成果及岗位资格待官方岗位表核对",
+        "employment": "正文为事业编制待遇，须接受望京、平谷两校区工作；原则12月31日前入职，非报名截止",
+        "application": "报名须同时完成邮件材料与二维码基本信息填报；每人最多2岗"
+      },
+      "evidence": [
+        {
+          "note": "实读首都之窗官方正文，公告落款10月20日，报名10月31日16:00截止；明确北京常住户口、留服认证、两步骤报名及事业编制待遇。",
+          "url": "https://www.beijing.gov.cn/gongkai/rsxx/sydwzp/202610/t20261028_4921548.html"
+        },
+        {
+          "note": "具体岗位专业和博士条件据高才网转载；官方XLSX读取未稳定完成，后续请求403，不能据转载提升为position，人数保留null。",
+          "url": "https://m.gaoxiaojob.com/job/detail/2368035.html"
+        },
+        {
+          "note": "官方岗位表附件链接，待后续稳定获取核对。",
+          "url": "https://www.beijing.gov.cn/gongkai/rsxx/sydwzp/202610/P020261028382909559651.xlsx"
+        }
+      ],
+      "attachments": [
+        {
+          "label": "官方岗位表（XLSX，待核）",
+          "url": "https://www.beijing.gov.cn/gongkai/rsxx/sydwzp/202610/P020261028382909559651.xlsx"
+        }
+      ],
+      "remainingVacancies": "岗位计划与当前名额待官方岗位表核实",
+      "summary": "今天10月31日16:00截止的金融与财会教师线索。官方正文已读，要求北京市常住户口且留学应届生已有留服认证；具体专业、人数及博士条件仍待岗位表核验，不计入已核验岗位。",
+      "affiliation": "北京市教委直属院校；以技术技能人才培养为主"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
