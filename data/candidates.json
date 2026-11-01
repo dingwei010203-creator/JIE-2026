@@ -38,36 +38,6 @@
     "remainingVacancies": "未核实"
   },
   {
-    "id": "auto-80b44ad0fd583d",
-    "sourceId": "gd-szpu",
-    "institution": "深圳职业技术大学",
-    "region": "广东",
-    "city": "深圳",
-    "type": "职业院校",
-    "kind": "postdoc",
-    "title": "05.21 深圳职业技术大学博士后招聘公告（长期招聘）",
-    "url": "https://www.szpu.edu.cn/info/1046/22745.htm",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:14:44+08:00",
-    "lastSeenAt": "2026-10-29T12:14:44+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "经济学院"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "72db2403e4e470d9a156d85e120d020e7a27240583711748d8fbac488caa56de",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实"
-  },
-  {
     "id": "auto-01c50fbbd81fc1",
     "sourceId": "gd-gdcvi",
     "institution": "广东建设职业技术学院",
@@ -138,6 +108,41 @@
     "remainingVacancies": "未核实"
   },
   {
+    "id": "auto-c226244a9a138a",
+    "sourceId": "zj-zufe",
+    "institution": "浙江财经大学",
+    "region": "浙江",
+    "city": "杭州",
+    "type": "普通高校",
+    "kind": "postdoc",
+    "title": "应用经济学博士后科研流动站2026年招收需求（点击链接）",
+    "url": "https://rsc.zufe.edu.cn/info/1080/3722.htm",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-30T14:22:46+08:00",
+    "lastSeenAt": "2026-10-31T14:14:15+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "应用经济学博士后科研流动站2026年招收需求-浙江财经大学人事处",
+      "应用经济学",
+      "应用经济学",
+      "应用经济学",
+      "应用经济学博士后科研流动站2026年招收需求"
+    ],
+    "attachments": [],
+    "verificationIssues": [],
+    "contentHash": "1009aa90d0c6fc0e636e15ddde4c7b5cf4cf83b0f1ecb364add90650b7befa34",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
     "id": "auto-57db2f6addea78",
     "sourceId": "gd-gz-party",
     "institution": "中共广州市委党校",
@@ -155,7 +160,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:13:46+08:00",
-    "lastSeenAt": "2026-10-31T14:12:30+08:00",
+    "lastSeenAt": "2026-11-01T14:45:33+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -191,7 +196,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:24+08:00",
-    "lastSeenAt": "2026-10-31T14:12:43+08:00",
+    "lastSeenAt": "2026-11-01T14:45:51+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -206,46 +211,6 @@
     ],
     "verificationIssues": [],
     "contentHash": "54d0aa282fed2f11799dd74b14b16c49176155b2a757f35d450463df4c181f45",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-fa12aeadf163f4",
-    "sourceId": "gd-gdaas",
-    "institution": "广东省农业科学院",
-    "region": "广东",
-    "city": "广州",
-    "type": "政府科研院所",
-    "kind": "faculty",
-    "title": "广东省农业科学院2026年第一批公开招聘工作人员公告",
-    "url": "http://www.gdaas.cn/tzggn/rczp/content/post_1325648.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:14:27+08:00",
-    "lastSeenAt": "2026-10-31T14:12:54+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "本次招聘实行邮件报名。报名时间为2026年5月8日0:00至2026年5月13日23:59。应聘人员须根据岗位要求提交佐证材料，材料清单如下：",
-      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（https://www.gdaas.cn/）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
-      "粤公网安备44010602013764号"
-    ],
-    "attachments": [
-      {
-        "label": "1.广东省农业科学院2026年第一批公开招聘工作人员岗位表.xls",
-        "url": "http://www.gdaas.cn/attachment/0/15/15641/1325648.xls"
-      }
-    ],
-    "verificationIssues": [
-      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
-    ],
-    "contentHash": "7d45197db3f8855d098862153522214eb5b3a2e79c861227afad52de63981044",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -268,7 +233,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:05+08:00",
-    "lastSeenAt": "2026-10-31T14:12:39+08:00",
+    "lastSeenAt": "2026-11-01T14:45:44+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -307,7 +272,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:13+08:00",
-    "lastSeenAt": "2026-10-31T14:12:43+08:00",
+    "lastSeenAt": "2026-11-01T14:45:50+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -330,6 +295,46 @@
     "alternateUrls": []
   },
   {
+    "id": "auto-fa12aeadf163f4",
+    "sourceId": "gd-gdaas",
+    "institution": "广东省农业科学院",
+    "region": "广东",
+    "city": "广州",
+    "type": "政府科研院所",
+    "kind": "faculty",
+    "title": "广东省农业科学院2026年第一批公开招聘工作人员公告",
+    "url": "http://www.gdaas.cn/tzggn/rczp/content/post_1325648.html",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:14:27+08:00",
+    "lastSeenAt": "2026-11-01T14:46:03+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "本次招聘实行邮件报名。报名时间为2026年5月8日0:00至2026年5月13日23:59。应聘人员须根据岗位要求提交佐证材料，材料清单如下：",
+      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（https://www.gdaas.cn/）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
+      "粤公网安备44010602013764号"
+    ],
+    "attachments": [
+      {
+        "label": "1.广东省农业科学院2026年第一批公开招聘工作人员岗位表.xls",
+        "url": "http://www.gdaas.cn/attachment/0/15/15641/1325648.xls"
+      }
+    ],
+    "verificationIssues": [
+      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
+    ],
+    "contentHash": "7d45197db3f8855d098862153522214eb5b3a2e79c861227afad52de63981044",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
     "id": "auto-29bd52b9fc984d",
     "sourceId": "gd-party-province",
     "institution": "中共广东省委党校",
@@ -347,7 +352,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:50+08:00",
-    "lastSeenAt": "2026-10-31T14:13:04+08:00",
+    "lastSeenAt": "2026-11-01T14:46:11+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -381,7 +386,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:40+08:00",
-    "lastSeenAt": "2026-10-31T14:13:04+08:00",
+    "lastSeenAt": "2026-11-01T14:46:12+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -393,6 +398,37 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "b407084b55ea192598b0f1f810ec6e269c74ce821726c43cfeecd4c5cce37826",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-80b44ad0fd583d",
+    "sourceId": "gd-szpu",
+    "institution": "深圳职业技术大学",
+    "region": "广东",
+    "city": "深圳",
+    "type": "职业院校",
+    "kind": "postdoc",
+    "title": "05.21 深圳职业技术大学博士后招聘公告（长期招聘）",
+    "url": "https://www.szpu.edu.cn/info/1046/22745.htm",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:14:44+08:00",
+    "lastSeenAt": "2026-11-01T14:46:14+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "经济学院"
+    ],
+    "attachments": [],
+    "verificationIssues": [],
+    "contentHash": "72db2403e4e470d9a156d85e120d020e7a27240583711748d8fbac488caa56de",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -415,7 +451,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:53+08:00",
-    "lastSeenAt": "2026-10-31T14:13:06+08:00",
+    "lastSeenAt": "2026-11-01T14:46:16+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -426,7 +462,7 @@
     ],
     "attachments": [],
     "verificationIssues": [],
-    "contentHash": "f3b360f53b991994d79dffee6650c8f2580a1e1a2eab850a2db56abe783800ed",
+    "contentHash": "a39ec82d2a85e0748ece2ec2d03463ef855ced9fc84a7a87d35f89fd0624867e",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -449,7 +485,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:54+08:00",
-    "lastSeenAt": "2026-10-31T14:13:08+08:00",
+    "lastSeenAt": "2026-11-01T14:46:18+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -480,7 +516,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:22:19+08:00",
-    "lastSeenAt": "2026-10-31T14:13:27+08:00",
+    "lastSeenAt": "2026-11-01T14:46:35+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -523,7 +559,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:07+08:00",
-    "lastSeenAt": "2026-10-31T14:13:20+08:00",
+    "lastSeenAt": "2026-11-01T14:46:29+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -555,7 +591,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:43+08:00",
-    "lastSeenAt": "2026-10-31T14:13:34+08:00",
+    "lastSeenAt": "2026-11-01T14:46:42+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -587,7 +623,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:58+08:00",
-    "lastSeenAt": "2026-10-31T14:13:39+08:00",
+    "lastSeenAt": "2026-11-01T14:46:48+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -620,7 +656,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:22:22+08:00",
-    "lastSeenAt": "2026-10-31T14:13:42+08:00",
+    "lastSeenAt": "2026-11-01T14:46:48+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -663,7 +699,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-10-31T14:13:56+08:00",
+    "lastSeenAt": "2026-11-01T14:47:13+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -697,7 +733,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:41+08:00",
-    "lastSeenAt": "2026-10-31T14:14:00+08:00",
+    "lastSeenAt": "2026-11-01T14:47:17+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -707,41 +743,6 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "b705dcbbff5306f3bbc436c19eed3aa3c4ace0c26666b4d8c48dd50faed21cd0",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-c226244a9a138a",
-    "sourceId": "zj-zufe",
-    "institution": "浙江财经大学",
-    "region": "浙江",
-    "city": "杭州",
-    "type": "普通高校",
-    "kind": "postdoc",
-    "title": "应用经济学博士后科研流动站2026年招收需求（点击链接）",
-    "url": "https://rsc.zufe.edu.cn/info/1080/3722.htm",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-30T14:22:46+08:00",
-    "lastSeenAt": "2026-10-31T14:14:15+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "应用经济学博士后科研流动站2026年招收需求-浙江财经大学人事处",
-      "应用经济学",
-      "应用经济学",
-      "应用经济学",
-      "应用经济学博士后科研流动站2026年招收需求"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "1009aa90d0c6fc0e636e15ddde4c7b5cf4cf83b0f1ecb364add90650b7befa34",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -764,7 +765,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:19+08:00",
-    "lastSeenAt": "2026-10-31T14:13:55+08:00",
+    "lastSeenAt": "2026-11-01T14:47:09+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -803,7 +804,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-10-31T14:13:59+08:00",
+    "lastSeenAt": "2026-11-01T14:47:13+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -842,7 +843,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:42+08:00",
-    "lastSeenAt": "2026-10-31T14:14:15+08:00",
+    "lastSeenAt": "2026-11-01T14:47:18+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
