@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T14:14:59+08:00",
+  "generatedAt": "2026-11-01T09:05:11+08:00",
   "lastScanStartedAt": "2026-10-31T14:12:19+08:00",
   "lastScanCompletedAt": "2026-10-31T14:14:57+08:00",
-  "lastVerifiedAt": "2026-10-31T09:08:57+08:00",
+  "lastVerifiedAt": "2026-11-01T09:04:17+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -253,11 +253,11 @@
         "区域经济学"
       ],
       "kind": "postdoc",
-      "headcount": 1,
+      "headcount": null,
       "publishedAt": "2026-10-27",
       "deadline": "2026-12-01",
       "rolling": false,
-      "verifiedLevel": "position",
+      "verifiedLevel": "lead",
       "verifiedAt": "2026-10-29T12:22:22+08:00",
       "requirements": {
         "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
@@ -277,9 +277,13 @@
         {
           "note": "研究院属省市场监管局；总计划3人，原则上3个方向各1人，可调剂。",
           "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "11月1日审核原有证据：依据为华南师大就业网转载；本轮转载正文只返回动态模板，原单位官网超时，未获得可复核的原单位正式公告。修正等级为lead，保留原verifiedAt，不将访问尝试当实质复核。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
         }
       ],
-      "summary": "研究院招收驻站博士后，原则上每方向1名、可调剂。独立于正式科研岗位统计，需核对对应研究经历。",
+      "summary": "博士后方向线索，原记录依据高校转载，尚待原单位正式公告实质核验；原文条件、经济学专业范围及现存名额待确认，不计入已核验具体岗位。",
       "sourceId": "gd-gdis",
       "sourceAuthority": "university-repost",
       "affiliation": "广东省市场监督管理局直属公益二类事业单位"
@@ -296,11 +300,11 @@
         "经济学（需交叉背景）"
       ],
       "kind": "postdoc",
-      "headcount": 1,
+      "headcount": null,
       "publishedAt": "2026-10-27",
       "deadline": "2026-12-01",
       "rolling": false,
-      "verifiedLevel": "position",
+      "verifiedLevel": "lead",
       "verifiedAt": "2026-10-29T12:22:22+08:00",
       "requirements": {
         "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
@@ -320,9 +324,13 @@
         {
           "note": "研究院属省市场监管局；总计划3人，原则上3个方向各1人，可调剂。",
           "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "11月1日审核原有证据：依据为华南师大就业网转载；本轮转载正文只返回动态模板，原单位官网超时，未获得可复核的原单位正式公告。修正等级为lead，保留原verifiedAt，不将访问尝试当实质复核。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
         }
       ],
-      "summary": "研究院招收驻站博士后，原则上每方向1名、可调剂。独立于正式科研岗位统计，需核对对应研究经历。",
+      "summary": "博士后方向线索，原记录依据高校转载，尚待原单位正式公告实质核验；原文条件、经济学专业范围及现存名额待确认，不计入已核验具体岗位。",
       "sourceId": "gd-gdis",
       "sourceAuthority": "university-repost",
       "affiliation": "广东省市场监督管理局直属公益二类事业单位"
@@ -339,11 +347,11 @@
         "经济学（需交叉背景）"
       ],
       "kind": "postdoc",
-      "headcount": 1,
+      "headcount": null,
       "publishedAt": "2026-10-27",
       "deadline": "2026-12-01",
       "rolling": false,
-      "verifiedLevel": "position",
+      "verifiedLevel": "lead",
       "verifiedAt": "2026-10-29T12:22:22+08:00",
       "requirements": {
         "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
@@ -363,9 +371,13 @@
         {
           "note": "研究院属省市场监管局；总计划3人，原则上3个方向各1人，可调剂。",
           "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "11月1日审核原有证据：依据为华南师大就业网转载；本轮转载正文只返回动态模板，原单位官网超时，未获得可复核的原单位正式公告。修正等级为lead，保留原verifiedAt，不将访问尝试当实质复核。",
+          "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
         }
       ],
-      "summary": "研究院招收驻站博士后，原则上每方向1名、可调剂。独立于正式科研岗位统计，需核对对应研究经历。",
+      "summary": "博士后方向线索，原记录依据高校转载，尚待原单位正式公告实质核验；原文条件、经济学专业范围及现存名额待确认，不计入已核验具体岗位。",
       "sourceId": "gd-gdis",
       "sourceAuthority": "university-repost",
       "affiliation": "广东省市场监督管理局直属公益二类事业单位"
@@ -1272,7 +1284,7 @@
       "deadline": "2026-10-31",
       "rolling": false,
       "remainingVacancies": "当前剩余名额未核实，以招聘单位确认为准",
-      "verifiedAt": "2026-10-30T09:21:21+08:00",
+      "verifiedAt": "2026-11-01T09:04:17+08:00",
       "firstSeenAt": "2026-10-30T09:21:21+08:00",
       "id": "hz-party-teaching-20261016-lead",
       "institution": "中共杭州市委党校",
@@ -1311,10 +1323,15 @@
         {
           "note": "本次访问杭州人社官方原文超时，学校官网403；仅保留转载线索，不声称已核验具体岗位。",
           "url": "https://hrss.hangzhou.gov.cn/col/col1229782005/art/2026/art_9772d9bc6d624fe0ba56435fb5fe2a8d.html"
+        },
+        {
+          "note": "11月1日重读完整转载，报名截至10月31日；官方详情仍不可访问，补查未见延期，按已知截止归档但继续保持lead。",
+          "url": "https://www.nbzhaokao.com/article/20261016/01a1457cfd80747db9a9635063bb5a31"
         }
       ],
-      "summary": "转载报名截止10月31日，临近截止但官方原文暂不可访问。需优先核对党员、本研专业一致性、学位取得时间及当前报名状态；暂不计入已核验岗位。",
-      "affiliation": "杭州市委党校，单位性质待官方原文复核"
+      "summary": "转载列报名已于10月31日结束，按已知截止归档。官方原文仍不可访问，保持线索等级；不把学位取得或学历认证日期当作报名截止。",
+      "affiliation": "杭州市委党校，单位性质待官方原文复核",
+      "closed": true
     },
     {
       "id": "gdsspt-econ-2026070171-lead",
@@ -1500,7 +1517,7 @@
       "deadline": "2026-10-31T16:00:00+08:00",
       "rolling": false,
       "verifiedLevel": "lead",
-      "verifiedAt": "2026-10-31T09:08:57+08:00",
+      "verifiedAt": "2026-11-01T09:04:17+08:00",
       "firstSeenAt": "2026-10-31T09:08:57+08:00",
       "requirements": {
         "education": "转载具体岗位称应届生须博士；官方岗位表本次未稳定取得，待核实",
@@ -1524,6 +1541,10 @@
         {
           "note": "官方岗位表附件链接，待后续稳定获取核对。",
           "url": "https://www.beijing.gov.cn/gongkai/rsxx/sydwzp/202610/P020261028382909559651.xlsx"
+        },
+        {
+          "note": "11月1日实读首都之窗官方正文，报名明确10月31日16:00结束，补查未检得延期通知；按原截止标closed，岗位表待核等级保持lead。",
+          "url": "https://www.beijing.gov.cn/gongkai/rsxx/sydwzp/202610/t20261028_4921548.html"
         }
       ],
       "attachments": [
@@ -1533,8 +1554,98 @@
         }
       ],
       "remainingVacancies": "岗位计划与当前名额待官方岗位表核实",
-      "summary": "今天10月31日16:00截止的金融与财会教师线索。官方正文已读，要求北京市常住户口且留学应届生已有留服认证；具体专业、人数及博士条件仍待岗位表核验，不计入已核验岗位。",
-      "affiliation": "北京市教委直属院校；以技术技能人才培养为主"
+      "summary": "原公告报名已于2026年10月31日16:00截止，保留历史线索。官方正文要求北京常住户口及留服认证；具体岗位表仍待核，不计入已核验岗位。",
+      "affiliation": "北京市教委直属院校；以技术技能人才培养为主",
+      "closed": true
+    },
+    {
+      "region": "北京",
+      "city": "北京",
+      "type": "政府科研院所",
+      "kind": "faculty",
+      "headcount": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-01T09:04:17+08:00",
+      "firstSeenAt": "2026-11-01T09:04:17+08:00",
+      "remainingVacancies": "具体计划人数及当前剩余名额未公开确认",
+      "id": "borui-assistant-researcher-20260804",
+      "institution": "北京博锐开放政策研究院",
+      "title": "助理研究员 · 开放经济与政策研究",
+      "url": "https://open.beijing.gov.cn/html/borui/HR5.html",
+      "majors": [
+        "投资贸易",
+        "数字经济",
+        "金融财税等相关学科背景或实践经验"
+      ],
+      "publishedAt": "2026-08-04",
+      "deadline": "2026-11-30",
+      "requirements": {
+        "education": "博士研究生学历；或硕士研究生学历并有5年以上工作经验",
+        "freshGraduate": "面向海内外2026、2027届及有一定经验的往届生；国内应届毕业生须2027年8月前获相应学历学位",
+        "overseas": "海外留学归国人员须符合留服就业报到要求；港澳学历认证、专业及应届口径待单位审核",
+        "ageText": "公告未列明确年龄上限",
+        "partyText": "同等条件下中共党员优先，未列为必备资格",
+        "research": "具备独立研究能力，掌握有关领域学科知识或实践经验；流利使用英语；规定行业政策研究等经历优先",
+        "employment": "北京市登记类事业单位，由北京市商务局举办；签订劳动合同，不能据此推定纳入事业编制；非北京生源应届生需符合进京条件",
+        "application": "公告要求2026年11月30日前完成报名；通过智联校园搜索单位及对应岗位"
+      },
+      "evidence": [
+        {
+          "note": "实读北京市商务局主办的开放北京官网完整公告：举办单位为市商务局（市两区办），登记类事业单位；明确助理研究员学历、独立研究能力及经贸政策研究方向。",
+          "url": "https://open.beijing.gov.cn/html/borui/HR5.html"
+        },
+        {
+          "note": "公告日期8月4日，报名11月30日前完成；2027年8月是国内应届生取得学历学位时限，不能当作报名截止；岗位人数未列。",
+          "url": "https://open.beijing.gov.cn/html/borui/HR5.html"
+        }
+      ],
+      "summary": "政府部门举办的政策研究机构助理研究员岗位，接受博士学历，侧重投资贸易、数字经济、金融财税等。11月30日前报名，需流利英语，留服和进京条件另核；劳动合同不等于事业编制。",
+      "affiliation": "北京市商务局（市两区办）举办的登记类事业单位"
+    },
+    {
+      "id": "zufe-tech-finance-researcher-20260610",
+      "institution": "浙江财经大学科技金融重点实验室",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "科技金融重点实验室 · 专职研究员",
+      "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm",
+      "sourceId": "zj-zufe",
+      "majors": [
+        "经济学",
+        "金融学等相关领域"
+      ],
+      "headcount": null,
+      "publishedAt": "2026-06-10",
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-01T09:04:17+08:00",
+      "firstSeenAt": "2026-11-01T09:04:17+08:00",
+      "requirements": {
+        "education": "海内外应届博士毕业生或中青年学者，经济学、金融学等相关领域",
+        "freshGraduate": "明确接受海内外应届博士；具体学位取得时限依学校规定",
+        "ageLimit": 40,
+        "ageText": "一般不超过40岁，须同时符合学校招聘及人才引进规定",
+        "overseas": "若应聘时尚无留服境外学历学位认证，必须在公示拟聘人员前提供，否则不保留资格；具体港澳材料由校方审核",
+        "research": "扎实理论基础及独立科研能力，交叉背景或实际应用经验优先；提交代表作、科研经历及获奖证明",
+        "employment": "依托校内学院、高等研究院的专职科研岗位，年薪制等模式；具体编制和聘用条件待校方确认"
+      },
+      "remainingVacancies": "跨学科总计划8名；经济学单独计划、当前空额与是否继续接收申请均待确认",
+      "evidence": [
+        {
+          "note": "实读人事处6月10日完整公告，专职研究员明确接受经济学、金融学博士，一般不超过40岁；依托5个校内单位共8人，不作为经济学独立人数。",
+          "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm"
+        },
+        {
+          "note": "正文无明确报名截止、无常年或招满即止条款，deadline为null、rolling=false；留服认证最迟在拟聘公示前取得。",
+          "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm"
+        }
+      ],
+      "summary": "已核实接受经济学博士的专职研究员公告；跨学科计划8名，未单列经济学人数。未明确报名截止和滚动条款，当前接收状态需确认；境外认证最迟须在拟聘公示前提供。",
+      "affiliation": "浙江财经大学校内实验室，非政府直属科研院所"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
@@ -2212,40 +2323,6 @@
       "attachments": [],
       "verificationIssues": [],
       "contentHash": "5ad49bc31634a62a60b6d9ecd7300e8edacbbc6fd7b85c0385ce1d9677f0cf71",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实",
-      "alternateUrls": []
-    },
-    {
-      "id": "auto-801e8ac2486473",
-      "sourceId": "zj-zufe",
-      "institution": "浙江财经大学",
-      "region": "浙江",
-      "city": "杭州",
-      "type": "普通高校",
-      "kind": "faculty",
-      "title": "浙江财经大学科技金融重点实验室2026年专职研究员招聘公告2026-06-10",
-      "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:16:37+08:00",
-      "lastSeenAt": "2026-10-31T14:13:58+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "实验室汇聚了一批由国家级人才领衔的高水平研究队伍，覆盖系统科学、计算机科学、金融学、经济学、管理学等多学科领域，形成科技金融智能计算研究所、科技金融产品开发研究所、科技金融智能风控研究所、科技金融场景应用研究所、科技金融政策仿真研究所五大研究所。团队长期深耕科技金融前沿，承担多项国家自然科学基金、社会科学基金重大重点项目，相关成果发表在《中国社会科学》、《经济研究》、《管理世界》、《ACM Transactions on Information Systems》、《IEEE Transactions on Know",
-        "2026年度实验室依托管理学院、金融学院、信智学院、会计学院和高等研究院，拟面向社会公开招聘8名专职研究员。应聘人员应满足以下条件：",
-        "1.海内外应届博士毕业生或中青年学者，专业方向为金融学、计算机科学、数学、经济学、管理科学等相关领域；",
-        "浙江财经大学人事处、科技金融重点实验室、高等研究院、管理学院、金融学院、信智学院、会计学院"
-      ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "bc5c92eb36fd6bd822250a306a36ffc4495e48aea18b80d1623c3b2c35eca819",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
