@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastVerifiedAt": "2026-11-03T09:38:56+08:00",
+  "lastVerifiedAt": "2026-11-04T09:17:00+08:00",
   "reviewPolicy": "具体岗位依据正文和岗位表；只读到综合计划或转载线索的不提升为已核验具体岗位。",
   "jobs": [
     {
@@ -1868,6 +1868,235 @@
       ],
       "summary": "补录4月具体岗位，数字经济教师原计划2名，接受应用经济学等博士。青年英才一般40岁内、C类服务期10年。11月2日为人事部页面展示日期；未明确截止或滚动条款，当前接收状态和空额待确认。",
       "affiliation": "全日制本科独立学院；浙江农林大学与诸暨市合作共建、合作举办"
+    },
+    {
+      "headcount": null,
+      "deadline": null,
+      "rolling": false,
+      "verifiedAt": "2026-11-04T09:17:00+08:00",
+      "firstSeenAt": "2026-11-04T09:17:00+08:00",
+      "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
+      "id": "phbs-economics-faculty-129371",
+      "institution": "北京大学汇丰商学院",
+      "region": "广东",
+      "city": "深圳",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "经济学教职 · 助理教授 / 副教授 / 教授",
+      "positionCode": "经济学教职",
+      "url": "https://www.phbs.pku.edu.cn/info/1451/129371.htm",
+      "publishedAt": "2025-10-10",
+      "majors": [
+        "经济学"
+      ],
+      "verifiedLevel": "position",
+      "requirements": {
+        "education": "具有博士学位，或将于2027年7月前获得博士学位",
+        "freshGraduate": "接受预计2027年7月前获博士者，未限定仅2027届；学位取得时间不是报名截止",
+        "overseas": "未单列国（境）外学历认证时限，具体资格及材料待学院审核",
+        "ageText": "正文未列年龄上限",
+        "partyText": "正文未单列党员条件",
+        "research": "资深申请者须优秀研究业绩及丰富教学经验；申请材料为自荐信、简历、一篇研究论文、三封推荐信及教学证明",
+        "employment": "广东深圳校区经济学教职；教学管理工作语言英语；编制及合同条款未明确",
+        "application": "官方经济学申请入口为Interfolio 191920，本次入口无可读正文；学校正文未列报名起止及滚动条款"
+      },
+      "evidence": [
+        {
+          "note": "实读官方教师招聘全文，明确经济学教授、副教授、助理教授，博士或2027年7月前获博士；未列人数及报名截止，保留null。",
+          "url": "https://www.phbs.pku.edu.cn/info/1451/129371.htm"
+        },
+        {
+          "note": "官方栏目将此公告列为2025年10月10日；本次读到的现行正文含2027年获学位要求，按既有公告补录，不称今日新发。",
+          "url": "https://www.phbs.pku.edu.cn/szky/szzp/jszp.htm"
+        },
+        {
+          "note": "经济学官方申请链接指向Interfolio 191920；入口无可读内容，未据此核验额外期限或开放状态。",
+          "url": "https://apply.interfolio.com/191920"
+        }
+      ],
+      "summary": "深圳经济学教职，现行官方正文接受已获博士或2027年7月前获博士者，教学管理语言英语。原栏目日期2025年10月10日；截止、空额和认证时限待确认。",
+      "affiliation": "北京大学所属学院，按普通高校归类"
+    },
+    {
+      "headcount": 1,
+      "deadline": null,
+      "rolling": true,
+      "verifiedAt": "2026-11-04T09:17:00+08:00",
+      "firstSeenAt": "2026-11-04T09:17:00+08:00",
+      "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
+      "id": "phbs-postdoc-fintech-20261027",
+      "institution": "北京大学汇丰商学院",
+      "region": "广东",
+      "city": "深圳",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "金融工程与金融科技方向博士后 · 孙羽",
+      "url": "https://www.phbs.pku.edu.cn/info/1471/181611.htm",
+      "publishedAt": "2026-10-27",
+      "majors": [
+        "数理金融",
+        "运筹学",
+        "经济学",
+        "人工智能或相关领域"
+      ],
+      "verifiedLevel": "position",
+      "requirements": {
+        "education": "国内外知名高校获博士学位三年内、已通过答辩的应届博士毕业生或国内高校青年教师",
+        "freshGraduate": "应届博士须已通过论文答辩；并非所有在读博士均可直接申请",
+        "overseas": "公告未单列港澳及境外认证时限、年龄限制；须依博士后入站规定及单位审核",
+        "ageText": "该公告未列明确年龄上限，不套用其他公告年龄条件",
+        "research": "较强编程和AI应用能力、中英文阅读写作；提交博士论文、两篇代表作、约5000—10000字两年研究计划及两位博导推荐信或联系人信息",
+        "employment": "深圳博士后研究岗位，待遇按学校规定；不混入正式教研岗统计",
+        "application": "邮件申请，招满即止；无固定报名截止"
+      },
+      "evidence": [
+        {
+          "note": "实读官方完整具体公告：数理金融、运筹学、经济学、AI等背景，原计划1名，深圳、导师孙羽、招满即止及申请材料要求。",
+          "url": "https://www.phbs.pku.edu.cn/info/1471/181611.htm"
+        },
+        {
+          "note": "官方博士后栏目列发布日期2026年10月27日；不采用11月4日转载日期作为原始发布日期。",
+          "url": "https://www.phbs.pku.edu.cn/szky/szzp/bshzp.htm"
+        }
+      ],
+      "summary": "金融工程、金融科技、行为金融与经济学博士后原计划1名，招满即止，空额待确认；需编程AI和中英文能力，应届须已答辩。",
+      "affiliation": "北京大学所属学院"
+    },
+    {
+      "headcount": null,
+      "deadline": null,
+      "rolling": true,
+      "verifiedAt": "2026-11-04T09:17:00+08:00",
+      "firstSeenAt": "2026-11-04T09:17:00+08:00",
+      "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
+      "id": "szass-phbs-postdoc-20261013",
+      "institution": "深圳市社会科学院 / 北京大学汇丰商学院",
+      "region": "广东",
+      "city": "深圳",
+      "type": "社科院",
+      "kind": "postdoc",
+      "title": "联合培养博士后 · 经济学（智能经济优先）",
+      "url": "https://www.phbs.pku.edu.cn/info/1471/181291.htm",
+      "publishedAt": "2026-10-13",
+      "majors": [
+        "经济学类，智能经济方向优先"
+      ],
+      "verifiedLevel": "position",
+      "requirements": {
+        "education": "近3年内国内外获全日制博士学位",
+        "freshGraduate": "须提供博士研究生毕业证和博士学位证扫描件，未明确未获证应届生可先申报",
+        "ageLimit": 35,
+        "ageText": "35周岁以下，以入站时间计算",
+        "overseas": "面向国内外博士，国（境）外认证材料与办理时限未单列，待单位审核",
+        "research": "较强研究及文字能力；代表性论文或著作2篇（部）、两位博导推荐信",
+        "employment": "全职在深圳市社会科学院研究，市社科院博士后创新实践基地与北京大学深圳研究生院联合培养；非正式岗位",
+        "application": "长期有效、招满即止，未列固定报名截止；原计划1—2名，非固定正整数人数"
+      },
+      "evidence": [
+        {
+          "note": "实读合作培养方官方全文：市社科院为市委市政府直属哲学社科综合性研究机构，经济学类博士、智能经济优先、全职在市社科院；原计划1—2名，故headcount保留null。",
+          "url": "https://www.phbs.pku.edu.cn/info/1471/181291.htm"
+        },
+        {
+          "note": "全文明确获博士3年内、全日制、入站35岁以下、2篇部代表作及2位博导推荐信；长期有效招满即止。官方栏目日期10月13日。",
+          "url": "https://www.phbs.pku.edu.cn/szky/szzp/bshzp.htm"
+        }
+      ],
+      "summary": "市社科院经济学博士后，与北大联合培养，智能经济优先；近3年全日制博士、入站35岁以下、全职在市社科院。原计划1—2名不作精确人数统计，招满即止、空额待确认。",
+      "affiliation": "深圳市委、市政府直属社科研究机构博士后创新实践基地，与北京大学联合培养"
+    },
+    {
+      "headcount": null,
+      "deadline": "2026-11-11",
+      "rolling": false,
+      "verifiedAt": "2026-11-04T09:17:00+08:00",
+      "firstSeenAt": "2026-11-04T09:17:00+08:00",
+      "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
+      "id": "nbjb-party-teacher-202611-lead",
+      "institution": "中共宁波市江北区委党校",
+      "region": "浙江",
+      "city": "宁波 / 江北",
+      "type": "党校",
+      "kind": "faculty",
+      "title": "事业编制教师选聘 · 在编在岗人员通道（官方原文待核）",
+      "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216",
+      "alternateUrls": [
+        "https://www.nbjb.gov.cn/col/col1229058923/index.html"
+      ],
+      "publishedAt": null,
+      "majors": [
+        "理论经济学（0201）",
+        "应用经济学（0202）",
+        "金融等（据转载）"
+      ],
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "requirements": {
+        "education": "转载列研究生及以上、硕士及以上学位，博士可在此层次范围内但须符合在编条件",
+        "freshGraduate": "仅面向浙江省范围内除江北区及省卫健系统外事业单位在编在岗人员；须1年以上工作经历、原单位满1年且试用期满，不按普通应届通道处理",
+        "ageLimit": 38,
+        "ageText": "转载38周岁及以下，副高及以上可放宽40岁，指定退役军人等43岁；计算至2026年11月3日，官方待核",
+        "overseas": "转载要求报名提交留服认证，相近专业附主干课程清单；港澳及境外认证在复审核对",
+        "research": "转载须符合其一：近5年党校系统所列精品课等奖；或至少1项厅级以上课题结项、第一作者；或厅级以上资政批示、第一作者且理论成果获厅级二等奖以上。具体层级定义以原文为准",
+        "partyText": "所读转载未单列党员条件，官方待核",
+        "employment": "转载为事业编制教师选聘，按程序调动，须单位提供编制、年度考核及同意报考等证明",
+        "application": "转载正文称即日起至11月11日，以邮件收到时间为准；开始日期仅平台栏列11月2日，未核官方，暂不填开始日"
+      },
+      "evidence": [
+        {
+          "note": "实读粉笔完整转载和正文岗位表，接受理论/应用经济学等，教师原计划1名跨专业共享；限浙江特定事业单位在编在岗人员及成果经历条件。仅转载，人数暂null。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
+        },
+        {
+          "note": "转载指向江北区政府招考栏目，本次访问超时，未定位到可读官方具体正文；保留lead，不称官方岗位已核验。",
+          "url": "https://www.nbjb.gov.cn/col/col1229058923/index.html"
+        }
+      ],
+      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。"
+    },
+    {
+      "headcount": null,
+      "deadline": null,
+      "rolling": false,
+      "verifiedAt": "2026-11-04T09:17:00+08:00",
+      "firstSeenAt": "2026-11-04T09:17:00+08:00",
+      "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
+      "id": "just-humanities-econ-2026-announcement",
+      "institution": "江苏科技大学人文社科学院",
+      "region": "江苏",
+      "city": "镇江",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "博士人才需求 · 理论及应用经济学等（具体岗位待核）",
+      "url": "https://gggl.just.edu.cn/rczp/list.htm",
+      "publishedAt": null,
+      "majors": [
+        "理论经济学",
+        "应用经济学",
+        "保险学等"
+      ],
+      "verifiedLevel": "announcement",
+      "requirements": {
+        "education": "官方需求表为博士，2026年及之前取得学历学位证书",
+        "freshGraduate": "须在2026年及之前取得学历学位；获证时限不是报名截止",
+        "ageText": "应届博士35周岁以下、正高45周岁以下，特别优秀可适当放宽",
+        "overseas": "未单列境外学历认证时限及专业审核要求，待确认",
+        "research": "具体岗位代码、成果及教学要求待进一步核对",
+        "employment": "待遇按学校规定；本页未明确具体聘用及编制",
+        "application": "本页为学院人才需求栏目，以邮件提交简历，未列报名起止或长期/招满即止条款"
+      },
+      "evidence": [
+        {
+          "note": "实读官方学院人才招聘栏目，理论经济学、应用经济学、政治学、公共管理等博士总需求2名，属于跨学科综合需求，不作为具体经济学人数，保持announcement、headcount=null。",
+          "url": "https://gggl.just.edu.cn/rczp/list.htm"
+        },
+        {
+          "note": "本页未显示发布日期、具体岗位和报名期限，2026年及之前为获证时限，不能写作报名截止；当前接收状态待确认。",
+          "url": "https://gggl.just.edu.cn/rczp/list.htm"
+        }
+      ],
+      "summary": "学院博士需求明确含理论、应用经济学，跨学科总需求2名不能算经济学人数。具体岗位、发布时间和报名期限尚缺，保留综合公告。",
+      "affiliation": "江苏科技大学所属学院"
     }
   ]
 }
