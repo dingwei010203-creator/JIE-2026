@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:58:27+08:00",
+  "generatedAt": "2026-11-05T09:29:21+08:00",
   "lastScanStartedAt": "2026-11-04T14:55:40+08:00",
   "lastScanCompletedAt": "2026-11-04T14:58:26+08:00",
-  "lastVerifiedAt": "2026-11-04T09:17:00+08:00",
+  "lastVerifiedAt": "2026-11-05T09:29:03+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -2109,6 +2109,162 @@
       ],
       "summary": "学院博士需求明确含理论、应用经济学，跨学科总需求2名不能算经济学人数。具体岗位、发布时间和报名期限尚缺，保留综合公告。",
       "affiliation": "江苏科技大学所属学院"
+    },
+    {
+      "institution": "北京大学数字金融研究中心",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm",
+      "publishedAt": "2026-10-28",
+      "headcount": null,
+      "deadline": "2026-11-30",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-05T09:29:03+08:00",
+      "firstSeenAt": "2026-11-05T09:29:03+08:00",
+      "remainingVacancies": "每个方向原计划1—2名，总计划1—4名，均为区间；当前剩余名额未核实",
+      "affiliation": "北京大学校内研究中心，非政府直属科研院所",
+      "majors": [
+        "经济学",
+        "管理学",
+        "计算机科学",
+        "人工智能",
+        "数据科学或相关交叉学科"
+      ],
+      "requirements": {
+        "education": "国内外重点大学博士学位获得者，获得博士学位3年内",
+        "ageLimit": 35,
+        "ageText": "35周岁以下，公告未单列年龄计算基准",
+        "freshGraduate": "须为博士学位获得者并提交学位证扫描件；未明确未获学位应届生可先申请",
+        "overseas": "未单列港澳及境外学历认证要求与时限，院校、专业和学位材料由单位审核，不推定符合",
+        "partyText": "公告未单列党员条件",
+        "research": "扎实编程能力（Python/PyTorch等）、熟练阅读英文专业文献；大模型微调、部署或AI Agent经验优先。须提交2—3篇代表论文或其他研究成果、至少2份副高以上专家推荐信、详细研究计划",
+        "employment": "全职博士后；参与学术研究、政策调研、行业分析及AI系统开发等工作，不混入正式岗位统计",
+        "application": "2026年11月30日前邮件提交材料；无滚动招聘条款"
+      },
+      "evidence": [
+        {
+          "note": "实读10月28日中心官网完整公告，经济学等博士、35岁以下、获博士3年内，编程能力和材料条件明确。每方向1—2名为区间，人数保留null。",
+          "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm"
+        },
+        {
+          "note": "官方明确11月30日前提交，11月2日为高才网转载日期；未检得可确认招满、延期或调整该公告的后续正式通知，当前空额待确认。",
+          "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm"
+        },
+        {
+          "note": "具体研究方向1：人工智能金融、数字金融、普惠金融、金融改革、大数据金融、数字货币等（1—2名）。",
+          "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm"
+        }
+      ],
+      "id": "pku-idf-digital-finance-postdoc-20261028-1",
+      "positionCode": "研究方向1",
+      "title": "博士后 · 数字金融、普惠金融与金融改革等",
+      "summary": "数字金融等方向博士后，11月30日前提交，35岁以下、博士3年内，经济学等背景且须扎实编程能力。原计划1—2名不作精确人数统计，当前空额待确认。"
+    },
+    {
+      "institution": "北京大学数字金融研究中心",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm",
+      "publishedAt": "2026-10-28",
+      "headcount": null,
+      "deadline": "2026-11-30",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-05T09:29:03+08:00",
+      "firstSeenAt": "2026-11-05T09:29:03+08:00",
+      "remainingVacancies": "每个方向原计划1—2名，总计划1—4名，均为区间；当前剩余名额未核实",
+      "affiliation": "北京大学校内研究中心，非政府直属科研院所",
+      "majors": [
+        "经济学",
+        "管理学",
+        "计算机科学",
+        "人工智能",
+        "数据科学或相关交叉学科"
+      ],
+      "requirements": {
+        "education": "国内外重点大学博士学位获得者，获得博士学位3年内",
+        "ageLimit": 35,
+        "ageText": "35周岁以下，公告未单列年龄计算基准",
+        "freshGraduate": "须为博士学位获得者并提交学位证扫描件；未明确未获学位应届生可先申请",
+        "overseas": "未单列港澳及境外学历认证要求与时限，院校、专业和学位材料由单位审核，不推定符合",
+        "partyText": "公告未单列党员条件",
+        "research": "扎实编程能力（Python/PyTorch等）、熟练阅读英文专业文献；大模型微调、部署或AI Agent经验优先。须提交2—3篇代表论文或其他研究成果、至少2份副高以上专家推荐信、详细研究计划；方向2聚焦大语言模型金融场景系统搭建及工程落地，参与科研教学辅助AI系统架构设计开发",
+        "employment": "全职博士后；参与学术研究、政策调研、行业分析及AI系统开发等工作，不混入正式岗位统计",
+        "application": "2026年11月30日前邮件提交材料；无滚动招聘条款"
+      },
+      "evidence": [
+        {
+          "note": "实读10月28日中心官网完整公告，经济学等博士、35岁以下、获博士3年内，编程能力和材料条件明确。每方向1—2名为区间，人数保留null。",
+          "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm"
+        },
+        {
+          "note": "官方明确11月30日前提交，11月2日为高才网转载日期；未检得可确认招满、延期或调整该公告的后续正式通知，当前空额待确认。",
+          "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm"
+        },
+        {
+          "note": "具体研究方向2：AI大模型与金融，聚焦大语言模型金融场景系统搭建和工程落地，原计划1—2名。",
+          "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm"
+        }
+      ],
+      "id": "pku-idf-ai-finance-postdoc-20261028-2",
+      "positionCode": "研究方向2",
+      "title": "博士后 · AI大模型与金融",
+      "summary": "AI大模型金融场景与科研教学辅助系统开发方向，11月30日前提交。接受经济学等背景但须扎实编程；大模型经验优先。原计划1—2名，空额待确认。"
+    },
+    {
+      "id": "gwng-aviation-finance-20260602-announcement",
+      "institution": "广东外语外贸大学南国商学院",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "航空经济与工程学院专任教师 · 金融/数字经济专业待核",
+      "url": "https://www-new.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/403766.html"
+      ],
+      "publishedAt": "2026-06-02",
+      "headcount": null,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "announcement",
+      "verifiedAt": "2026-11-05T09:29:03+08:00",
+      "firstSeenAt": "2026-11-05T09:29:03+08:00",
+      "majors": [
+        "金融、数字经济等（具体博士专业口径待确认）"
+      ],
+      "requirements": {
+        "education": "官方表列已获博士的应届生或已获博士的往届生，专业条款混列工学、理学及金融/数字经济等，需核对具体适用学位专业",
+        "freshGraduate": "官方表未限制应届毕业年份，须取得博士学位；不能凭2026年公告推定只面向2026届",
+        "ageText": "往届博士不超过45岁，业绩特别优秀可适当放宽；A/B引进费人才层次另有40岁条件，不作为全部岗位统一限制",
+        "overseas": "报名材料要求学历学位及认证报告；留学归国者提交留服认证。港澳具体材料与时限待单位确认",
+        "research": "官方条款列其他工学理学博士的科研项目/横向课题/相关教学科研开发或成果条件；金融、数字经济申请者适用哪条待确认",
+        "partyText": "未单列党员必备条件",
+        "employment": "民办本科院校专任教师，具体聘用合同待确认，不标事业编",
+        "application": "官方正文未列报名截止或长期/招满即止条款，当前接收状态待确认"
+      },
+      "remainingVacancies": "官方为学院跨工理及金融数字经济等综合计划3名，未明确经济学单独人数；转载另列经济学2名，差异未解决",
+      "evidence": [
+        {
+          "note": "实读学校人事处6月2日官方正文和岗位表，综合专任教师3名，专业条件混列金融、数字经济等且句尾不完整；未将综合3名计作经济学人数，保持announcement。",
+          "url": "https://www-new.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm"
+        },
+        {
+          "note": "检索到高才网同名急招经济学2名线索，与官方跨学科3名版本需进一步对应，不能当作剩余空额或已核实变更。官方未列截止/滚动条款，deadline=null、rolling=false。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/403766.html"
+        },
+        {
+          "note": "学校原文明确报名提交学历学位认证报告，具体港澳博士专业认定和当前名额仍待确认；不套用另一个经济学院转载公告的副高和50岁条件。",
+          "url": "https://www-new.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm"
+        }
+      ],
+      "summary": "补录6月官方综合公告，接受金融/数字经济等口径待确认；跨工理等3名不计作经济学人数。专业条款不完整、转载计划有差异，保留综合公告，截止与接收状态待确认。",
+      "affiliation": "民办本科院校，不与广东外语外贸大学本部岗位混同"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
