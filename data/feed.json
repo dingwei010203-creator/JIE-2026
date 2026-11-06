@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T15:20:56+08:00",
+  "generatedAt": "2026-11-06T09:53:54+08:00",
   "lastScanStartedAt": "2026-11-05T15:18:08+08:00",
   "lastScanCompletedAt": "2026-11-05T15:20:55+08:00",
-  "lastVerifiedAt": "2026-11-05T09:29:03+08:00",
+  "lastVerifiedAt": "2026-11-06T09:53:31+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -2021,7 +2021,7 @@
       "headcount": null,
       "deadline": "2026-11-11",
       "rolling": false,
-      "verifiedAt": "2026-11-04T09:17:00+08:00",
+      "verifiedAt": "2026-11-06T09:53:31+08:00",
       "firstSeenAt": "2026-11-04T09:17:00+08:00",
       "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
       "id": "nbjb-party-teacher-202611-lead",
@@ -2033,7 +2033,9 @@
       "title": "事业编制教师选聘 · 在编在岗人员通道（官方原文待核）",
       "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216",
       "alternateUrls": [
-        "https://www.nbjb.gov.cn/col/col1229058923/index.html"
+        "https://www.nbjb.gov.cn/col/col1229058923/index.html",
+        "https://www.nbjb.gov.cn/col/col1229105199/art/2026/art_93952280741e4e658e75332a2a0cecfd.html",
+        "https://www.gaoxiaojob.com/announcement/detail/442629.html"
       ],
       "publishedAt": null,
       "majors": [
@@ -2062,10 +2064,17 @@
         {
           "note": "转载指向江北区政府招考栏目，本次访问超时，未定位到可读官方具体正文；保留lead，不称官方岗位已核验。",
           "url": "https://www.nbjb.gov.cn/col/col1229058923/index.html"
+        },
+        {
+          "note": "11月6日针对采集器内容变更标记重新实读粉笔完整正文与岗位表：11月11日截止、浙江特定事业单位在编在岗、1年工作经历及成果等限制未见实质变化，保留lead和headcount=null。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
+        },
+        {
+          "note": "本轮从高才网转载定位到江北区政府官方具体公告链接；详情不可读取、官方栏目超时，尚不能声称已核验官方岗位，不升级等级。",
+          "url": "https://www.nbjb.gov.cn/col/col1229105199/art/2026/art_93952280741e4e658e75332a2a0cecfd.html"
         }
       ],
-      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。",
-      "reviewNeeded": true
+      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。"
     },
     {
       "headcount": null,
