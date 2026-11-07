@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastVerifiedAt": "2026-11-06T09:53:31+08:00",
+  "lastVerifiedAt": "2026-11-07T09:11:59+08:00",
   "reviewPolicy": "具体岗位依据正文和岗位表；只读到综合计划或转载线索的不提升为已核验具体岗位。",
   "jobs": [
     {
@@ -2009,7 +2009,7 @@
       "headcount": null,
       "deadline": "2026-11-11",
       "rolling": false,
-      "verifiedAt": "2026-11-06T09:53:31+08:00",
+      "verifiedAt": "2026-11-07T09:11:59+08:00",
       "firstSeenAt": "2026-11-04T09:17:00+08:00",
       "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
       "id": "nbjb-party-teacher-202611-lead",
@@ -2060,6 +2060,10 @@
         {
           "note": "本轮从高才网转载定位到江北区政府官方具体公告链接；详情不可读取、官方栏目超时，尚不能声称已核验官方岗位，不升级等级。",
           "url": "https://www.nbjb.gov.cn/col/col1229105199/art/2026/art_93952280741e4e658e75332a2a0cecfd.html"
+        },
+        {
+          "note": "11月7日针对11月6日下午采集器再次标记的内容变化，重新实读转载全文及内嵌岗位表；报名11月11日截止、在编在岗范围和经历成果条件未见实质变化。官方具体原文仍不可读，维持lead及人数null。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
         }
       ],
       "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。"
@@ -2263,6 +2267,217 @@
       ],
       "summary": "补录6月官方综合公告，接受金融/数字经济等口径待确认；跨工理等3名不计作经济学人数。专业条款不完整、转载计划有差异，保留综合公告，截止与接收状态待确认。",
       "affiliation": "民办本科院校，不与广东外语外贸大学本部岗位混同"
+    },
+    {
+      "institution": "苏州健雄职业技术学院",
+      "region": "江苏",
+      "city": "苏州 / 太仓",
+      "type": "职业院校",
+      "kind": "faculty",
+      "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml",
+      "publishedAt": "2026-03-09",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-07T09:11:59+08:00",
+      "firstSeenAt": "2026-11-07T09:11:59+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济类",
+        "财务财会类",
+        "公共管理类",
+        "工商管理类",
+        "商务贸易类",
+        "统计类"
+      ],
+      "alternateUrls": [
+        "https://www.csit.edu.cn/rsc/2026/0309/c259a52749/page.htm",
+        "https://www.gaoxiaojob.com/announcement/detail/383598.html"
+      ],
+      "remainingVacancies": "所列人数为3月9日具体岗位跨专业原计划，非经济学独占名额；学校官网访问失败，未核实当前剩余名额或是否已招满",
+      "id": "csit-econ-B06-20260309",
+      "positionCode": "B06",
+      "title": "经济管理学院 · 专任教师 B06",
+      "headcount": 5,
+      "requirements": {
+        "education": "博士研究生，须具有相应学位；专业按江苏省2026年度考试录用公务员专业参考目录审核",
+        "freshGraduate": "2026年普通高校毕业生及国（境）外同期毕业人员须2026年12月31日前取得学历学位；其他人员报名前须已取得，不能由公告年份推定毕业年份",
+        "ageLimit": 45,
+        "ageText": "45周岁及以下，1980年3月9日（含）以后出生；同时具有正高级职称且成果丰硕可放宽50岁（1975年3月9日及以后）",
+        "overseas": "国（境）外同期毕业人员最迟2026年12月31日完成留服认证；其他境外人员须报名前完成。报名材料条款另要求认证扫描件，尚未认证的同期毕业生如何提交待单位确认",
+        "partyText": "B06和Z04未单列党员条件，不能套用思政岗位的党员要求",
+        "research": "报名须提交主要科研项目、成果及奖励证明；B06岗位表未另列量化成果门槛",
+        "employment": "按程序落实事业编制；合同期限不低于5年，最低服务5年（含试用期）",
+        "application": "长期接收邮件申请，公告发布10个工作日后可启动考核，未招满岗位报名有效期至2026年12月31日，招满即止；每期进展以学校官网为准"
+      },
+      "evidence": [
+        {
+          "note": "实读苏州市人社局3月9日官方完整正文及岗位表，并查看官方PDF第3页：B06博士专任教师接受经济类等，岗位原计划5名跨专业共享。不是11月转载新发布或5个经济学空额。",
+          "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7/files/fb48a9c241b141528f9902692f118e0f.pdf"
+        },
+        {
+          "note": "正文明确2026年12月31日滚动招聘截止、年龄和境外同期毕业认证期限；学校官网首页超时、具体原文返回405，未确认当前空缺，不以转载下线标记判定官方停招。",
+          "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml"
+        }
+      ],
+      "summary": "补录3月官方具体岗位，接受经济类博士，岗位原计划5名跨财会、管理等专业共享；45岁及以下，年底前滚动、招满即止，当前剩余名额待确认。"
+    },
+    {
+      "institution": "苏州健雄职业技术学院",
+      "region": "江苏",
+      "city": "苏州 / 太仓",
+      "type": "职业院校",
+      "kind": "faculty",
+      "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml",
+      "publishedAt": "2026-03-09",
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-07T09:11:59+08:00",
+      "firstSeenAt": "2026-11-07T09:11:59+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济类",
+        "财务财会类",
+        "公共管理类",
+        "工商管理类",
+        "商务贸易类",
+        "统计类"
+      ],
+      "alternateUrls": [
+        "https://www.csit.edu.cn/rsc/2026/0309/c259a52749/page.htm",
+        "https://www.gaoxiaojob.com/announcement/detail/383598.html"
+      ],
+      "remainingVacancies": "所列人数为3月9日具体岗位跨专业原计划，非经济学独占名额；学校官网访问失败，未核实当前剩余名额或是否已招满",
+      "id": "csit-econ-Z04-20260309",
+      "positionCode": "Z04",
+      "title": "经济管理学院 · 专业带头人 Z04",
+      "headcount": 1,
+      "requirements": {
+        "education": "博士研究生并具有相应学位；正高级职称者学历可放宽至硕士研究生",
+        "freshGraduate": "2026年普通高校毕业生及国（境）外同期毕业人员须2026年12月31日前取得学历学位；其他人员报名前须已取得，不能由公告年份推定毕业年份",
+        "ageLimit": 45,
+        "ageText": "45周岁及以下，1980年3月9日（含）以后出生；同时具有正高级职称且成果丰硕可放宽50岁（1975年3月9日及以后）",
+        "overseas": "国（境）外同期毕业人员最迟2026年12月31日完成留服认证；其他境外人员须报名前完成。报名材料条款另要求认证扫描件，尚未认证的同期毕业生如何提交待单位确认",
+        "partyText": "B06和Z04未单列党员条件，不能套用思政岗位的党员要求",
+        "research": "须副高级及以上职称，近年教科研成果丰硕，有专业建设示范引领作用和丰富管理或带领团队经验；提交科研成果等证明",
+        "employment": "按程序落实事业编制；合同期限不低于5年，最低服务5年（含试用期）",
+        "application": "长期接收邮件申请，公告发布10个工作日后可启动考核，未招满岗位报名有效期至2026年12月31日，招满即止；每期进展以学校官网为准"
+      },
+      "evidence": [
+        {
+          "note": "实读苏州市人社局官方岗位表及PDF第2页：Z04接受经济类等，岗位原计划1名跨专业共享，须副高及以上职称、丰硕成果和管理或团队经历，不能按普通应届博士岗位判断。",
+          "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7/files/fb48a9c241b141528f9902692f118e0f.pdf"
+        },
+        {
+          "note": "完整正文明确年龄45岁及以下（符合正高成果条件可放宽50岁）、境外同期毕业材料期限和年底前招满即止；学校具体招聘原文405，当前名额待确认。",
+          "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml"
+        }
+      ],
+      "summary": "专业带头人岗位原计划1名，经济类等共享；须副高及以上职称、成果和管理团队经历，不推定应届博士符合。原公告至年底招满即止，空额待确认。"
+    },
+    {
+      "id": "jh-party-teacher-20261030-lead",
+      "institution": "中共金华市委党校",
+      "region": "浙江",
+      "city": "金华",
+      "type": "党校",
+      "kind": "faculty",
+      "title": "专任教师 · 理论/应用经济学等（官方原文及附件待核）",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html",
+      "alternateUrls": [
+        "https://rsj.jinhua.gov.cn/col/col1229708695/art/2026/art_29c151342b4b4bcabb278804ead755cb.html",
+        "https://www.djdzp.cn/a/1416",
+        "https://www.gaoxiaojob.com/job/detail/2380203.html"
+      ],
+      "publishedAt": "2026-10-30",
+      "headcount": null,
+      "deadline": "2026-12-31",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-07T09:11:59+08:00",
+      "firstSeenAt": "2026-11-07T09:11:59+08:00",
+      "majors": [
+        "理论经济学（据转载）",
+        "应用经济学（据转载）",
+        "政治学、社会学、马克思主义理论（据转载）"
+      ],
+      "requirements": {
+        "education": "转载岗位为博士研究生，官方岗位表尚未读到",
+        "freshGraduate": "转载不限定毕业年份；拟聘人员最迟2026年12月31日前取得岗位所需学历学位及留服认证，未获证者报名材料口径待确认",
+        "ageLimit": 38,
+        "ageText": "转载为38周岁、1987年10月30日及以后出生；党校/干部学院经历满1年、已出站博士后或高级职称可放宽40岁，官方待核",
+        "partyRequired": true,
+        "partyText": "转载正文要求中共党员（含预备党员），不推定符合",
+        "overseas": "转载要求报名附留服认证扫描件；另有最迟12月31日获证条款，两条如何适用于待认证申请者需确认",
+        "research": "须附教科研成果及获奖证明；官方岗位附件的完整成果条件待核",
+        "employment": "转载称纳入事业编制，待官方原文确认",
+        "application": "转载正文为10月30日公告发布起至12月31日；招满在党校网站发截止公告。官网超时，当前是否仍接收报名待核"
+      },
+      "remainingVacancies": "转载专任教师总计划2名含多个专业；官方岗位表未读到，人数null、当前空额待确认",
+      "evidence": [
+        {
+          "note": "实读高才网及之江招才完整转载和职位页，正文署10月30日，11月3日为转载日；含经济学博士、党员、年龄及年底招满即止条款，保留lead、人数null。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "由转载定位到金华人社局原文及DOC需求表；原文、DOC下载和党校官网均超时或不可访问，未完成官方具体岗位核验。检索未确认针对本公告的官方拟聘或停招通知，转载下线标记不等于官方招满。",
+          "url": "https://rsj.jinhua.gov.cn/col/col1229708695/art/2026/art_29c151342b4b4bcabb278804ead755cb.html"
+        }
+      ],
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
+    },
+    {
+      "id": "hiic-macro-researcher-20261104-lead",
+      "institution": "深圳国家高技术产业创新中心（深圳发展改革研究院）",
+      "region": "广东",
+      "city": "深圳",
+      "type": "政府科研院所",
+      "kind": "faculty",
+      "title": "宏观经济研究员 · 秋季招聘会岗位预告（原单位公告待核）",
+      "url": "https://career.cuhk.edu.cn/job/view/id/470082",
+      "alternateUrls": [
+        "https://fgw.sz.gov.cn/zwgk/jgzn/zsjg/content/post_11125320.html"
+      ],
+      "publishedAt": "2026-11-04",
+      "headcount": null,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-07T09:11:59+08:00",
+      "firstSeenAt": "2026-11-07T09:11:59+08:00",
+      "affiliation": "深圳市发展改革委官方直属机构目录列名；非高校下属研究院",
+      "majors": [
+        "经济学或相关专业"
+      ],
+      "requirements": {
+        "education": "高校就业平台预告为经济学或相关专业硕士及以上；未限定博士，博士专业适用性由单位审核",
+        "freshGraduate": "未明确届别及毕业/获证时限，现场招聘会参与范围与后续申请通道待核",
+        "ageText": "未列年龄要求，待原单位确认",
+        "overseas": "未列境外学历认证及专业审核时限，待确认",
+        "partyText": "预告未列党员条件，待原单位确认",
+        "research": "须具备宏观经济理论基础；智库、金融机构研究部门、政府经济部门或高校实习经历及大数据/AI研究能力优先。工作含宏观监测、政策研究和报告撰写",
+        "employment": "平台标全职；具体合同、编制、薪酬待确认，不推定事业编",
+        "application": "11月4日高校就业平台为现场招聘会岗位预览，11月13日仅页面结束时间，未证实为报名截止；原单位报名起止、材料及线上通道待核"
+      },
+      "remainingVacancies": "预告未列该岗位具体计划和剩余名额",
+      "evidence": [
+        {
+          "note": "实读港中深就业平台11月4日完整岗位预告，宏观经济研究员接受经济学等硕士及以上，正文仅说明现场交流面试。页面11月13日结束不写为真实报名截止，deadline=null、rolling=false。",
+          "url": "https://career.cuhk.edu.cn/job/view/id/470082"
+        },
+        {
+          "note": "实读深圳市发改委直属机构正式介绍，确认单位归属与宏观政策研究职能，支持政府科研院所分类；不是把高校下属院所误归政府。",
+          "url": "https://fgw.sz.gov.cn/zwgk/jgzn/zsjg/content/post_11125320.html"
+        },
+        {
+          "note": "原单位网站本轮不可读取，当前仅高校就业平台预告，保留lead；9月另一开放岗位信息页面已经结束，不挪用其期限或岗位人数。",
+          "url": "https://www.hiic.com.cn/"
+        }
+      ],
+      "summary": "广东政策研究岗位预告线索，接受经济学等硕士及以上，全职宏观研究。主管部门确认直属机构身份，但原单位具体招聘公告未读到；报名截止、空额、资格待核，不计已核验岗位。"
     }
   ]
 }
