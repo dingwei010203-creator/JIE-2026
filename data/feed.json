@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T14:33:09+08:00",
+  "generatedAt": "2026-11-08T09:23:36+08:00",
   "lastScanStartedAt": "2026-11-07T14:30:10+08:00",
   "lastScanCompletedAt": "2026-11-07T14:33:08+08:00",
-  "lastVerifiedAt": "2026-11-07T09:11:59+08:00",
+  "lastVerifiedAt": "2026-11-08T09:23:18+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -180,28 +180,40 @@
       "headcount": 3,
       "publishedAt": null,
       "deadline": "2026-12-31",
-      "rolling": true,
+      "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "verifiedAt": "2026-11-08T09:23:18+08:00",
       "requirements": {
         "education": "招聘系统列明博士",
         "freshGraduate": "是否接受尚未取得学位的2026届博士，以单位审核为准",
         "overseas": "港澳学历认证、博士专业与课程对应关系需核对",
         "research": "需进一步核对数字经济系对研究方向和科研成果的要求",
-        "employment": "用工方式及具体待遇以学校确认为准"
+        "employment": "用工方式及具体待遇以学校确认为准",
+        "application": "官方招聘系统仍列2026年12月31日截止；本次可读正文及岗位列表未见长期有效、滚动或招满即止条款，rolling=false。报名起始日、当前剩余名额待确认"
       },
       "remainingVacancies": "未核实，请以招聘单位最新确认为准",
       "evidence": [
         {
           "note": "学校招聘系统教师系列第10条：经济学院数字经济系，专任教师，博士，3人，职称不限，截止2026.12.31。",
           "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
+        },
+        {
+          "note": "11月8日针对采集器变更标记，实读学校招聘系统完整教师列表：第10条仍为数字经济系博士教师、3人、职称不限、12月31日截止。未见滚动招聘明文，纠正rolling为false；列表人数不是已确认剩余空额。",
+          "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
+        },
+        {
+          "note": "补读3月11日学校完整简章，曾列普通教师50岁以下、6月底前获最高学位、应聘提交境外认证等；招聘系统另列7月28日版本，人事处8月4日嵌入的新版PDF本次未能读取，不将旧版条件直接套为现行岗位资格。",
+          "url": "https://www.peizheng.edu.cn/xxgk/tzgs/b28fccaaa86045718708424fe208788d.htm"
         }
       ],
       "summary": "学校招聘系统列明数字经济系博士教师3人，职称不限。是否仍有空额及经济学博士研究方向是否匹配，需向学院确认。",
       "sourceId": "gd-peizheng",
       "urlType": "listing",
       "affiliation": "民办普通本科高校",
-      "reviewNeeded": true
+      "alternateUrls": [
+        "https://pzrensc.peizheng.edu.cn/zpxx/d281b0ba2b8e4173b673062a22cb5b10.htm",
+        "https://www.peizheng.edu.cn/xxgk/tzgs/b28fccaaa86045718708424fe208788d.htm"
+      ]
     },
     {
       "id": "pku-nsd-2027-assistant",
@@ -2022,7 +2034,7 @@
       "headcount": null,
       "deadline": "2026-11-11",
       "rolling": false,
-      "verifiedAt": "2026-11-07T09:11:59+08:00",
+      "verifiedAt": "2026-11-08T09:23:18+08:00",
       "firstSeenAt": "2026-11-04T09:17:00+08:00",
       "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
       "id": "nbjb-party-teacher-202611-lead",
@@ -2077,10 +2089,13 @@
         {
           "note": "11月7日针对11月6日下午采集器再次标记的内容变化，重新实读转载全文及内嵌岗位表；报名11月11日截止、在编在岗范围和经历成果条件未见实质变化。官方具体原文仍不可读，维持lead及人数null。",
           "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
+        },
+        {
+          "note": "11月8日针对新一轮网页变更标记实读粉笔转载正文和内嵌岗位表，11月11日报名截止、在编在岗范围、工作经历和成果限制未见实质变化；官方具体正文仍不可读，维持lead及人数null。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
         }
       ],
-      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。",
-      "reviewNeeded": true
+      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。"
     },
     {
       "headcount": null,
