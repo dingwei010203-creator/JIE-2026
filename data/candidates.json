@@ -224,7 +224,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:13:46+08:00",
-    "lastSeenAt": "2026-11-07T14:30:26+08:00",
+    "lastSeenAt": "2026-11-08T14:37:14+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -260,7 +260,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:24+08:00",
-    "lastSeenAt": "2026-11-07T14:30:33+08:00",
+    "lastSeenAt": "2026-11-08T14:37:22+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -297,7 +297,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:27+08:00",
-    "lastSeenAt": "2026-11-07T14:30:46+08:00",
+    "lastSeenAt": "2026-11-08T14:37:36+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -337,7 +337,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:05+08:00",
-    "lastSeenAt": "2026-11-07T14:30:34+08:00",
+    "lastSeenAt": "2026-11-08T14:37:24+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -376,7 +376,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:13+08:00",
-    "lastSeenAt": "2026-11-07T14:30:39+08:00",
+    "lastSeenAt": "2026-11-08T14:37:28+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -399,6 +399,40 @@
     "alternateUrls": []
   },
   {
+    "id": "auto-29bd52b9fc984d",
+    "sourceId": "gd-party-province",
+    "institution": "中共广东省委党校",
+    "region": "广东",
+    "city": "广州",
+    "type": "党校",
+    "kind": "faculty",
+    "title": "23 2026-04 广东省云浮市“百万英才汇南粤”中共云浮市委党校招聘紧缺人才公告",
+    "url": "https://www.yunfu.gov.cn/rsj/zx/tzgg/content/post_2005412.html",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-30T14:21:50+08:00",
+    "lastSeenAt": "2026-11-08T14:37:47+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "（一）报名方式及时间",
+      "采用电子邮件线上报名方式，时间为2026年4月27日至2026年6月20日。电子邮箱：YF8936975＠163.com，并请在邮件主题注明“招考岗位名称+姓名”（如“马克思主义哲学专业教师+张三”）。",
+      "根据岗位要求的资格条件，对报名人员提交的报名信息及印证材料进行资格审查，资格审查时间为2026年6月22日至6月26日。资格审查合格的人员均参加线上面谈，资格审查结果、线上面谈具体时间及相关要求将另行通知。线上面谈重点了解报名人员个人基本情况、科研成果情况，并考察其政治意识、责任意识、逻辑思维能力、语言表达等综合素质。线上面谈评估成绩满分为100分，合格分数线为70分，低于合格分数线的考生不得进入下一环节。",
+      "ICP备案：粤09015554号-1 公安备案：粤公网安备 44530202000010号 网站标识码：4453000050"
+    ],
+    "attachments": [],
+    "verificationIssues": [],
+    "contentHash": "b517a6be5b7a24ce7e3eb7ff5df4a714da8834b7a7bfd7334cdc7c53cdaf9dc7",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
     "id": "auto-62c0906de54955",
     "sourceId": "gd-szpu",
     "institution": "深圳职业技术大学",
@@ -416,7 +450,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:27+08:00",
-    "lastSeenAt": "2026-11-07T14:31:00+08:00",
+    "lastSeenAt": "2026-11-08T14:37:46+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -447,7 +481,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:29+08:00",
-    "lastSeenAt": "2026-11-07T14:31:02+08:00",
+    "lastSeenAt": "2026-11-08T14:37:49+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -478,7 +512,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:40+08:00",
-    "lastSeenAt": "2026-11-07T14:31:04+08:00",
+    "lastSeenAt": "2026-11-08T14:37:51+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -512,7 +546,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:31+08:00",
-    "lastSeenAt": "2026-11-07T14:31:07+08:00",
+    "lastSeenAt": "2026-11-08T14:37:53+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -543,7 +577,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:33+08:00",
-    "lastSeenAt": "2026-11-07T14:31:09+08:00",
+    "lastSeenAt": "2026-11-08T14:37:55+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -574,7 +608,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:53+08:00",
-    "lastSeenAt": "2026-11-07T14:31:11+08:00",
+    "lastSeenAt": "2026-11-08T14:37:58+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -586,40 +620,6 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "6c1f9eed9c6f9dc48030be8c7a47308eaf40990fef9a4cbe48254ff22199cb8e",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-29bd52b9fc984d",
-    "sourceId": "gd-party-province",
-    "institution": "中共广东省委党校",
-    "region": "广东",
-    "city": "广州",
-    "type": "党校",
-    "kind": "faculty",
-    "title": "23 2026-04 广东省云浮市“百万英才汇南粤”中共云浮市委党校招聘紧缺人才公告",
-    "url": "https://www.yunfu.gov.cn/rsj/zx/tzgg/content/post_2005412.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-30T14:21:50+08:00",
-    "lastSeenAt": "2026-11-07T14:31:18+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "（一）报名方式及时间",
-      "采用电子邮件线上报名方式，时间为2026年4月27日至2026年6月20日。电子邮箱：YF8936975＠163.com，并请在邮件主题注明“招考岗位名称+姓名”（如“马克思主义哲学专业教师+张三”）。",
-      "根据岗位要求的资格条件，对报名人员提交的报名信息及印证材料进行资格审查，资格审查时间为2026年6月22日至6月26日。资格审查合格的人员均参加线上面谈，资格审查结果、线上面谈具体时间及相关要求将另行通知。线上面谈重点了解报名人员个人基本情况、科研成果情况，并考察其政治意识、责任意识、逻辑思维能力、语言表达等综合素质。线上面谈评估成绩满分为100分，合格分数线为70分，低于合格分数线的考生不得进入下一环节。",
-      "ICP备案：粤09015554号-1 公安备案：粤公网安备 44530202000010号 网站标识码：4453000050"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "b517a6be5b7a24ce7e3eb7ff5df4a714da8834b7a7bfd7334cdc7c53cdaf9dc7",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -642,7 +642,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:22:19+08:00",
-    "lastSeenAt": "2026-11-07T14:31:25+08:00",
+    "lastSeenAt": "2026-11-08T14:38:07+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -685,7 +685,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:07+08:00",
-    "lastSeenAt": "2026-11-07T14:31:19+08:00",
+    "lastSeenAt": "2026-11-08T14:38:03+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -717,7 +717,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:43+08:00",
-    "lastSeenAt": "2026-11-07T14:31:35+08:00",
+    "lastSeenAt": "2026-11-08T14:38:14+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -727,39 +727,6 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "724b6eafee5c348c9fbf789e86bd06544179168e6f1674864910096d9dfb1ad0",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-cbabdedc61f24c",
-    "sourceId": "bj-amr",
-    "institution": "中国宏观经济研究院",
-    "region": "北京",
-    "city": "北京",
-    "type": "政府科研院所",
-    "kind": "postdoc",
-    "title": "中国宏观经济研究院联合中国人民大学招收2026年度博士后研究人员简章",
-    "url": "https://www.amr.org.cn/tzgg/202604/t20260417_1404747.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:15:58+08:00",
-    "lastSeenAt": "2026-11-07T14:31:39+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "1 | 产业经济 | 1 | 黄汉权",
-      "2 | 区域经济 | 1 | 宋葛龙",
-      "4 | 城市经济、区域经济 | 1 | 申 | 兵"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "1ac9903d1f67563ddab569b46202fc3c6cc96e3c5bc9ae0b1d2ef876b4bd14e2",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -782,7 +749,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:22:22+08:00",
-    "lastSeenAt": "2026-11-07T14:31:38+08:00",
+    "lastSeenAt": "2026-11-08T14:38:21+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -808,6 +775,39 @@
     "alternateUrls": []
   },
   {
+    "id": "auto-cbabdedc61f24c",
+    "sourceId": "bj-amr",
+    "institution": "中国宏观经济研究院",
+    "region": "北京",
+    "city": "北京",
+    "type": "政府科研院所",
+    "kind": "postdoc",
+    "title": "中国宏观经济研究院联合中国人民大学招收2026年度博士后研究人员简章",
+    "url": "https://www.amr.org.cn/tzgg/202604/t20260417_1404747.html",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:15:58+08:00",
+    "lastSeenAt": "2026-11-08T14:38:23+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "1 | 产业经济 | 1 | 黄汉权",
+      "2 | 区域经济 | 1 | 宋葛龙",
+      "4 | 城市经济、区域经济 | 1 | 申 | 兵"
+    ],
+    "attachments": [],
+    "verificationIssues": [],
+    "contentHash": "1ac9903d1f67563ddab569b46202fc3c6cc96e3c5bc9ae0b1d2ef876b4bd14e2",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
     "id": "auto-bee549e8932bd3",
     "sourceId": "zj-ass",
     "institution": "浙江省社会科学院",
@@ -825,7 +825,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-07T14:31:45+08:00",
-    "lastSeenAt": "2026-11-07T14:31:45+08:00",
+    "lastSeenAt": "2026-11-08T14:38:24+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -836,7 +836,8 @@
     "verificationIssues": [],
     "contentHash": "3825ade76916f107b4d9e38841f7a7bb7e03d07b984de605b45bbc76ed4a1124",
     "sourceAuthority": "official",
-    "remainingVacancies": "未核实"
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
   },
   {
     "id": "auto-d0e9810124d47a",
@@ -856,7 +857,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-11-07T14:32:00+08:00",
+    "lastSeenAt": "2026-11-08T14:38:38+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -890,7 +891,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:41+08:00",
-    "lastSeenAt": "2026-11-07T14:32:04+08:00",
+    "lastSeenAt": "2026-11-08T14:38:41+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -922,7 +923,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:19+08:00",
-    "lastSeenAt": "2026-11-07T14:32:00+08:00",
+    "lastSeenAt": "2026-11-08T14:38:32+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -961,7 +962,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-11-07T14:32:04+08:00",
+    "lastSeenAt": "2026-11-08T14:38:38+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -1000,7 +1001,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:42+08:00",
-    "lastSeenAt": "2026-11-07T14:32:21+08:00",
+    "lastSeenAt": "2026-11-08T14:38:46+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
