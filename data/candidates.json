@@ -104,78 +104,6 @@
     "alternateUrls": []
   },
   {
-    "id": "auto-01c50fbbd81fc1",
-    "sourceId": "gd-gdcvi",
-    "institution": "广东建设职业技术学院",
-    "region": "广东",
-    "city": "清远 / 广州",
-    "type": "职业院校",
-    "kind": "faculty",
-    "title": "2026-10-26 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘第二轮滚动补招公告",
-    "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/104798000e084844a778283d1d34371f.htm",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:14:43+08:00",
-    "lastSeenAt": "2026-11-06T15:19:25+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "4 | 低空数智学院 | JS06 | 教师岗位 | 3-5\n\n（具体招聘人数根据第一轮招聘结果确定） | 专业技术十一级及以上 | 硕士研究生及以上 | A080201机械制造及其自动化\nA080202机械电子工程\nA0804仪器科学与技术\nA0809电子科学与技术\nA0810信息与通信工程\nA0811控制科学与工程\nA0825航空宇航科学与技术 | 1.年龄30周岁及以下；\n2.需在清远校区工作。 | "
-    ],
-    "attachments": [
-      {
-        "label": "广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘第二轮滚动补招岗位表",
-        "url": "https://www.gdcvi.edu.cn/docs/2026-10/669c5b1265cc40ce950d1fcf03a31925.xlsx"
-      }
-    ],
-    "verificationIssues": [],
-    "contentHash": "04265fc20867740578676a32acc540f6ac6a47663213eacf0789625accc859db",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-e471df948face1",
-    "sourceId": "gd-gdcvi",
-    "institution": "广东建设职业技术学院",
-    "region": "广东",
-    "city": "清远 / 广州",
-    "type": "职业院校",
-    "kind": "faculty",
-    "title": "2026-09-18 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘公告",
-    "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/c932e8e2513043c993e0b6aa2420624d.htm",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:15:26+08:00",
-    "lastSeenAt": "2026-11-06T15:19:36+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "6 | 低空数智学院 | JS06 | 教师岗位 | 5 | 专业技术十一级及以上 | 硕士研究生及以上 | A080201机械制造及其自动化\nA080202机械电子工程\nA0804仪器科学与技术\nA0809电子科学与技术\nA0810信息与通信工程\nA0811控制科学与工程\nA0825航空宇航科学与技术 | 1.年龄30周岁及以下；\n2.需在清远校区工作。 | "
-    ],
-    "attachments": [
-      {
-        "label": "广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘岗位表",
-        "url": "https://www.gdcvi.edu.cn/docs/2026-09/0ae1f5513d464b1abd8748d6a5af6fe2.xlsx"
-      }
-    ],
-    "verificationIssues": [],
-    "contentHash": "dc84c445fdba1c6eab64b9434da9dcde147d9be137f6fc1f76e3ac73ce6ae80e",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
     "id": "auto-80b44ad0fd583d",
     "sourceId": "gd-szpu",
     "institution": "深圳职业技术大学",
@@ -224,7 +152,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:13:46+08:00",
-    "lastSeenAt": "2026-11-08T14:37:14+08:00",
+    "lastSeenAt": "2026-11-09T15:06:06+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -260,7 +188,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:24+08:00",
-    "lastSeenAt": "2026-11-08T14:37:22+08:00",
+    "lastSeenAt": "2026-11-09T15:06:19+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -297,7 +225,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:27+08:00",
-    "lastSeenAt": "2026-11-08T14:37:36+08:00",
+    "lastSeenAt": "2026-11-09T15:06:33+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -337,7 +265,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:05+08:00",
-    "lastSeenAt": "2026-11-08T14:37:24+08:00",
+    "lastSeenAt": "2026-11-09T15:06:21+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -376,7 +304,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:13+08:00",
-    "lastSeenAt": "2026-11-08T14:37:28+08:00",
+    "lastSeenAt": "2026-11-09T15:06:25+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -416,7 +344,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:50+08:00",
-    "lastSeenAt": "2026-11-08T14:37:47+08:00",
+    "lastSeenAt": "2026-11-09T15:06:44+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -450,7 +378,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:27+08:00",
-    "lastSeenAt": "2026-11-08T14:37:46+08:00",
+    "lastSeenAt": "2026-11-09T15:06:46+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -481,7 +409,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:29+08:00",
-    "lastSeenAt": "2026-11-08T14:37:49+08:00",
+    "lastSeenAt": "2026-11-09T15:06:48+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -512,7 +440,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:40+08:00",
-    "lastSeenAt": "2026-11-08T14:37:51+08:00",
+    "lastSeenAt": "2026-11-09T15:06:52+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -546,7 +474,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:31+08:00",
-    "lastSeenAt": "2026-11-08T14:37:53+08:00",
+    "lastSeenAt": "2026-11-09T15:06:54+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -577,7 +505,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-04T14:56:33+08:00",
-    "lastSeenAt": "2026-11-08T14:37:55+08:00",
+    "lastSeenAt": "2026-11-09T15:06:58+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -608,7 +536,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:53+08:00",
-    "lastSeenAt": "2026-11-08T14:37:58+08:00",
+    "lastSeenAt": "2026-11-09T15:07:00+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -620,6 +548,152 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "6c1f9eed9c6f9dc48030be8c7a47308eaf40990fef9a4cbe48254ff22199cb8e",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-34f2f4d328f428",
+    "sourceId": "gd-gdcvi",
+    "institution": "广东建设职业技术学院",
+    "region": "广东",
+    "city": "清远 / 广州",
+    "type": "职业院校",
+    "kind": "faculty",
+    "title": "2026-11-06 广东建设职业技术学院2026年校编（非事业编制）辅导员招聘公告",
+    "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/cac03a6fcd334542a1e7c8aa629676d6.htm",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-11-09T15:06:45+08:00",
+    "lastSeenAt": "2026-11-09T15:06:45+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "1 | 学生工作部 | FDY01 | 辅导员 | 3 | 专业技术十一级及以上 | 硕士研究生及以上 | 思想政治教育（A030505）、医学（A10）、工学（A08）、经济学（A02）、管理学（A12）、法学（A03）、艺术学（A13） | 1.中共党员（含预备党员）；\n2.年龄35周岁及以下；\n3.本科或研究生学习期间担任院级或校级学生干部1年以上，或具备1年以上辅导员工作经历；\n4.需在清远校区工作；\n5.入住女生宿舍，适合女性报考。 | ",
+      "2 | 学生工作部 | FDY02 | 辅导员 | 5 | 专业技术十一级及以上 | 硕士研究生及以上 | 思想政治教育（A030505）、医学（A10）、工学（A08）、经济学（A02）、管理学（A12）、法学（A03）、艺术学（A13） | 1.中共党员（含预备党员）；\n2.年龄35周岁及以下；\n3.本科或研究生学习期间担任院级或校级学生干部1年以上，或具备1年以上辅导员工作经历；\n4.需在清远校区工作；\n5.入住男生宿舍，适合男性报考。 | ",
+      "经济金融类\n（03） | 理论经济学（A0201） | 应用经济学（A0202） |  |  | 经济学类（B0201） | 财政学类（B0202） | 金融学类（B0203） | 经济与贸易类（B0204） | 财政税务类(C0201) | 金融类(C0202) | 经济贸易类(C0203) | ",
+      "现代管理类\n（04） | 管理科学与工程（A1201） | 工商管理（A1202） | 农林经济管理（A1203） | 公共管理（A1204） | 管理科学与工程类（B1201） | 工商管理类（B1202） | 农业经济管理类（B1203） | 公共管理类（B1204） | 房地产类(C1201) | 财务会计类(C1202) | 工商管理类(C1203) | 市场营销类(C1204)"
+    ],
+    "attachments": [
+      {
+        "label": "广东建设职业技术学院2026年校编（非事业编制）辅导员招聘岗位表",
+        "url": "https://www.gdcvi.edu.cn/docs/2026-11/d34048afabb54e70b788a4fb781abaff.xlsx"
+      },
+      {
+        "label": "广东省2027年考试录用公务员职位表",
+        "url": "https://www.gdcvi.edu.cn/docs/2026-11/7c602657bc924d51a29e296e29046bfc.xls"
+      }
+    ],
+    "verificationIssues": [],
+    "contentHash": "039fbb3986874c1d57b3b2f01a6ca37872cd36a849b80bff61961c9630d339fe",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实"
+  },
+  {
+    "id": "auto-01c50fbbd81fc1",
+    "sourceId": "gd-gdcvi",
+    "institution": "广东建设职业技术学院",
+    "region": "广东",
+    "city": "清远 / 广州",
+    "type": "职业院校",
+    "kind": "faculty",
+    "title": "2026-10-26 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘第二轮滚动补招公告",
+    "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/104798000e084844a778283d1d34371f.htm",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:14:43+08:00",
+    "lastSeenAt": "2026-11-09T15:06:49+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "4 | 低空数智学院 | JS06 | 教师岗位 | 3-5\n\n（具体招聘人数根据第一轮招聘结果确定） | 专业技术十一级及以上 | 硕士研究生及以上 | A080201机械制造及其自动化\nA080202机械电子工程\nA0804仪器科学与技术\nA0809电子科学与技术\nA0810信息与通信工程\nA0811控制科学与工程\nA0825航空宇航科学与技术 | 1.年龄30周岁及以下；\n2.需在清远校区工作。 | "
+    ],
+    "attachments": [
+      {
+        "label": "广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘第二轮滚动补招岗位表",
+        "url": "https://www.gdcvi.edu.cn/docs/2026-10/669c5b1265cc40ce950d1fcf03a31925.xlsx"
+      }
+    ],
+    "verificationIssues": [],
+    "contentHash": "04265fc20867740578676a32acc540f6ac6a47663213eacf0789625accc859db",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-e471df948face1",
+    "sourceId": "gd-gdcvi",
+    "institution": "广东建设职业技术学院",
+    "region": "广东",
+    "city": "清远 / 广州",
+    "type": "职业院校",
+    "kind": "faculty",
+    "title": "2026-09-18 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘公告",
+    "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/c932e8e2513043c993e0b6aa2420624d.htm",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:15:26+08:00",
+    "lastSeenAt": "2026-11-09T15:07:01+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "6 | 低空数智学院 | JS06 | 教师岗位 | 5 | 专业技术十一级及以上 | 硕士研究生及以上 | A080201机械制造及其自动化\nA080202机械电子工程\nA0804仪器科学与技术\nA0809电子科学与技术\nA0810信息与通信工程\nA0811控制科学与工程\nA0825航空宇航科学与技术 | 1.年龄30周岁及以下；\n2.需在清远校区工作。 | "
+    ],
+    "attachments": [
+      {
+        "label": "广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘岗位表",
+        "url": "https://www.gdcvi.edu.cn/docs/2026-09/0ae1f5513d464b1abd8748d6a5af6fe2.xlsx"
+      }
+    ],
+    "verificationIssues": [],
+    "contentHash": "dc84c445fdba1c6eab64b9434da9dcde147d9be137f6fc1f76e3ac73ce6ae80e",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-7b53db43ebf005",
+    "sourceId": "gd-gdufs",
+    "institution": "广东外语外贸大学",
+    "region": "广东",
+    "city": "广州",
+    "type": "普通高校",
+    "kind": "postdoc",
+    "title": "广东外语外贸大学2026年招聘师资博士后研究...",
+    "url": "https://rsc.gdufs.edu.cn/info/1083/12549.htm",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:15:07+08:00",
+    "lastSeenAt": "2026-11-09T15:07:00+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "我校获批设有外国语言文学博士后科研流动站、应用经济学博士后科研流动站和法学博士后科研流动站。学校现有33个外语语种，是华南地区外语语种最多的学校；2020年我校外国语言文学博士后科研流动站在全国博士后综合评估工作中被人社部评为“优秀”等次。学校应用经济学学科为广东省攀峰重点学科、广东省“冲补强”提升计划重点学科。法学专业被省教育厅批准为广东省优势重点学科，于2019年入选首批国家级一流本科专业建设点。",
+      "外国语言文学、应用语言学、翻译学、法学、国别与区域研究、比较文化研究、应用经济学、全球经济治理、金融学等。（具体招收单位详见附件1）"
+    ],
+    "attachments": [],
+    "verificationIssues": [],
+    "contentHash": "953842bb1225e7927b9433caee0285eac7bfc5ebb977d12b2bfd254e6d30c33a",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -642,7 +716,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:22:19+08:00",
-    "lastSeenAt": "2026-11-08T14:38:07+08:00",
+    "lastSeenAt": "2026-11-09T15:07:08+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -668,38 +742,6 @@
     "alternateUrls": []
   },
   {
-    "id": "auto-7b53db43ebf005",
-    "sourceId": "gd-gdufs",
-    "institution": "广东外语外贸大学",
-    "region": "广东",
-    "city": "广州",
-    "type": "普通高校",
-    "kind": "postdoc",
-    "title": "广东外语外贸大学2026年招聘师资博士后研究...",
-    "url": "https://rsc.gdufs.edu.cn/info/1083/12549.htm",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:15:07+08:00",
-    "lastSeenAt": "2026-11-08T14:38:03+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "我校获批设有外国语言文学博士后科研流动站、应用经济学博士后科研流动站和法学博士后科研流动站。学校现有33个外语语种，是华南地区外语语种最多的学校；2020年我校外国语言文学博士后科研流动站在全国博士后综合评估工作中被人社部评为“优秀”等次。学校应用经济学学科为广东省攀峰重点学科、广东省“冲补强”提升计划重点学科。法学专业被省教育厅批准为广东省优势重点学科，于2019年入选首批国家级一流本科专业建设点。",
-      "外国语言文学、应用语言学、翻译学、法学、国别与区域研究、比较文化研究、应用经济学、全球经济治理、金融学等。（具体招收单位详见附件1）"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "953842bb1225e7927b9433caee0285eac7bfc5ebb977d12b2bfd254e6d30c33a",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
     "id": "auto-6ad92b402d7ca0",
     "sourceId": "js-nj-ass",
     "institution": "南京市社会科学院",
@@ -717,7 +759,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:43+08:00",
-    "lastSeenAt": "2026-11-08T14:38:14+08:00",
+    "lastSeenAt": "2026-11-09T15:07:16+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -727,6 +769,39 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "724b6eafee5c348c9fbf789e86bd06544179168e6f1674864910096d9dfb1ad0",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-cbabdedc61f24c",
+    "sourceId": "bj-amr",
+    "institution": "中国宏观经济研究院",
+    "region": "北京",
+    "city": "北京",
+    "type": "政府科研院所",
+    "kind": "postdoc",
+    "title": "中国宏观经济研究院联合中国人民大学招收2026年度博士后研究人员简章",
+    "url": "https://www.amr.org.cn/tzgg/202604/t20260417_1404747.html",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:15:58+08:00",
+    "lastSeenAt": "2026-11-09T15:07:23+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "1 | 产业经济 | 1 | 黄汉权",
+      "2 | 区域经济 | 1 | 宋葛龙",
+      "4 | 城市经济、区域经济 | 1 | 申 | 兵"
+    ],
+    "attachments": [],
+    "verificationIssues": [],
+    "contentHash": "1ac9903d1f67563ddab569b46202fc3c6cc96e3c5bc9ae0b1d2ef876b4bd14e2",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -749,7 +824,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:22:22+08:00",
-    "lastSeenAt": "2026-11-08T14:38:21+08:00",
+    "lastSeenAt": "2026-11-09T15:07:24+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -775,39 +850,6 @@
     "alternateUrls": []
   },
   {
-    "id": "auto-cbabdedc61f24c",
-    "sourceId": "bj-amr",
-    "institution": "中国宏观经济研究院",
-    "region": "北京",
-    "city": "北京",
-    "type": "政府科研院所",
-    "kind": "postdoc",
-    "title": "中国宏观经济研究院联合中国人民大学招收2026年度博士后研究人员简章",
-    "url": "https://www.amr.org.cn/tzgg/202604/t20260417_1404747.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:15:58+08:00",
-    "lastSeenAt": "2026-11-08T14:38:23+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "1 | 产业经济 | 1 | 黄汉权",
-      "2 | 区域经济 | 1 | 宋葛龙",
-      "4 | 城市经济、区域经济 | 1 | 申 | 兵"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "1ac9903d1f67563ddab569b46202fc3c6cc96e3c5bc9ae0b1d2ef876b4bd14e2",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
     "id": "auto-bee549e8932bd3",
     "sourceId": "zj-ass",
     "institution": "浙江省社会科学院",
@@ -825,7 +867,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-07T14:31:45+08:00",
-    "lastSeenAt": "2026-11-08T14:38:24+08:00",
+    "lastSeenAt": "2026-11-09T15:07:30+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -834,7 +876,7 @@
     ],
     "attachments": [],
     "verificationIssues": [],
-    "contentHash": "3825ade76916f107b4d9e38841f7a7bb7e03d07b984de605b45bbc76ed4a1124",
+    "contentHash": "ee115567bdfebf5ecde684718ffc910ce53e31b28449dbf140fd56ed23d99b34",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -857,7 +899,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-11-08T14:38:38+08:00",
+    "lastSeenAt": "2026-11-09T15:07:44+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -891,7 +933,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:41+08:00",
-    "lastSeenAt": "2026-11-08T14:38:41+08:00",
+    "lastSeenAt": "2026-11-09T15:07:50+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -923,7 +965,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:19+08:00",
-    "lastSeenAt": "2026-11-08T14:38:32+08:00",
+    "lastSeenAt": "2026-11-09T15:07:38+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -962,7 +1004,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-11-08T14:38:38+08:00",
+    "lastSeenAt": "2026-11-09T15:07:42+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -1001,7 +1043,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:42+08:00",
-    "lastSeenAt": "2026-11-08T14:38:46+08:00",
+    "lastSeenAt": "2026-11-09T15:07:48+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
