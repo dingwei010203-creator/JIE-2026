@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T14:39:39+08:00",
+  "generatedAt": "2026-11-09T09:24:18+08:00",
   "lastScanStartedAt": "2026-11-08T14:37:02+08:00",
   "lastScanCompletedAt": "2026-11-08T14:39:38+08:00",
-  "lastVerifiedAt": "2026-11-08T09:23:18+08:00",
+  "lastVerifiedAt": "2026-11-09T09:23:35+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -182,7 +182,7 @@
       "deadline": "2026-12-31",
       "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-08T09:23:18+08:00",
+      "verifiedAt": "2026-11-09T09:23:35+08:00",
       "requirements": {
         "education": "招聘系统列明博士",
         "freshGraduate": "是否接受尚未取得学位的2026届博士，以单位审核为准",
@@ -204,6 +204,10 @@
         {
           "note": "补读3月11日学校完整简章，曾列普通教师50岁以下、6月底前获最高学位、应聘提交境外认证等；招聘系统另列7月28日版本，人事处8月4日嵌入的新版PDF本次未能读取，不将旧版条件直接套为现行岗位资格。",
           "url": "https://www.peizheng.edu.cn/xxgk/tzgs/b28fccaaa86045718708424fe208788d.htm"
+        },
+        {
+          "note": "11月9日针对11月8日采集变更标记实读官方完整教师列表：数字经济系博士教师仍列3人、职称不限、12月31日截止，无已确认名额变化或滚动明文；保留现有字段及人数性质。",
+          "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
         }
       ],
       "summary": "学校招聘系统列明数字经济系博士教师3人，职称不限。是否仍有空额及经济学博士研究方向是否匹配，需向学院确认。",
@@ -213,8 +217,7 @@
       "alternateUrls": [
         "https://pzrensc.peizheng.edu.cn/zpxx/d281b0ba2b8e4173b673062a22cb5b10.htm",
         "https://www.peizheng.edu.cn/xxgk/tzgs/b28fccaaa86045718708424fe208788d.htm"
-      ],
-      "reviewNeeded": true
+      ]
     },
     {
       "id": "pku-nsd-2027-assistant",
@@ -2035,7 +2038,7 @@
       "headcount": null,
       "deadline": "2026-11-11",
       "rolling": false,
-      "verifiedAt": "2026-11-08T09:23:18+08:00",
+      "verifiedAt": "2026-11-09T09:23:35+08:00",
       "firstSeenAt": "2026-11-04T09:17:00+08:00",
       "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
       "id": "nbjb-party-teacher-202611-lead",
@@ -2094,10 +2097,13 @@
         {
           "note": "11月8日针对新一轮网页变更标记实读粉笔转载正文和内嵌岗位表，11月11日报名截止、在编在岗范围、工作经历和成果限制未见实质变化；官方具体正文仍不可读，维持lead及人数null。",
           "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
+        },
+        {
+          "note": "11月9日针对新变更标记实读粉笔正文和岗位表，在编范围、工作经历、成果及11月11日报名截止未见实质变化；江北政府原文仍不可读，维持lead和人数null。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
         }
       ],
-      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。",
-      "reviewNeeded": true
+      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。"
     },
     {
       "headcount": null,
@@ -2427,7 +2433,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-07T09:11:59+08:00",
+      "verifiedAt": "2026-11-09T09:23:35+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2455,10 +2461,13 @@
         {
           "note": "由转载定位到金华人社局原文及DOC需求表；原文、DOC下载和党校官网均超时或不可访问，未完成官方具体岗位核验。检索未确认针对本公告的官方拟聘或停招通知，转载下线标记不等于官方招满。",
           "url": "https://rsj.jinhua.gov.cn/col/col1229708695/art/2026/art_29c151342b4b4bcabb278804ead755cb.html"
+        },
+        {
+          "note": "11月9日针对新变更标记实读高才网完整转载：党员、年底报名及获证/认证条款未见实质变化。金华人社局原文仍不可读；未核实官方岗位表、停招或当前空额，维持lead和人数null。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -2510,6 +2519,98 @@
         }
       ],
       "summary": "广东政策研究岗位预告线索，接受经济学等硕士及以上，全职宏观研究。主管部门确认直属机构身份，但原单位具体招聘公告未读到；报名截止、空额、资格待核，不计已核验岗位。"
+    },
+    {
+      "institution": "深圳大学",
+      "region": "广东",
+      "city": "深圳",
+      "type": "普通高校",
+      "kind": "faculty",
+      "headcount": null,
+      "deadline": null,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-09T09:23:35+08:00",
+      "firstSeenAt": "2026-11-09T09:23:35+08:00",
+      "sourceAuthority": "official",
+      "remainingVacancies": "公告未列具体招聘人数，当前剩余名额未核实",
+      "affiliation": "深圳大学所属学院及研究团队，非政府直属科研院所",
+      "id": "szu-econ-chan-associate-20261109",
+      "title": "经济学院陈锦濠团队 · 专职副研究员",
+      "url": "https://hr.szu.edu.cn/info/1016/25391.htm",
+      "publishedAt": "2026-11-09",
+      "rolling": true,
+      "majors": [
+        "经济学",
+        "管理学（信息系统、电子商务、运营管理等）",
+        "数据科学等相关专业"
+      ],
+      "requirements": {
+        "education": "相关专业博士研究生学历及博士学位；须具备与团队方向契合或互补的研究基础",
+        "freshGraduate": "材料清单接受学历学位证或在读证明；任职条件要求博士学历学位，未明确最晚取得日期、未获学位者可聘用时间待确认",
+        "ageText": "本公告未列年龄上限，学校专职研究人员适用政策待确认，不按不限年龄判断",
+        "partyText": "本公告未单列党员条件",
+        "overseas": "接受相关专业博士，境外学历认证材料、认证及专业认定时限未单列，待确认",
+        "research": "方向为行为信息系统与人机协同、数字经济与企业数字化、负责任技术与AI治理；须独立科研、教学及项目申报能力。提供3篇成果（可为已发表、R&R或工作论文，含本人一作）和2封同行推荐信；实证计量、行为实验、大数据/文本分析经验优先",
+        "employment": "全职专职副研究员合同岗，首期合同最长2年；通过学校平台办理录用，公告未承诺事业编或长期教师岗位",
+        "application": "公告明确常年有效、随到随审、择优录取、额满即止；先提交学术材料，校内手续通过人才招聘平台办理，无固定报名截止"
+      },
+      "evidence": [
+        {
+          "note": "实读11月9日人力资源部完整中英文具体岗位公告：明确接受经济学博士、数字经济等研究方向、推荐信和3篇代表成果；页面无具体招聘人数，headcount=null。",
+          "url": "https://hr.szu.edu.cn/info/1016/25391.htm"
+        },
+        {
+          "note": "正文明确常年有效、随到随审、额满即止，rolling=true、deadline=null；首期合同最长2年，不作为博士后或永久教师岗。同期官网栏目确认11月9日发布，未检得可确认的更正或招满通知，空额仍待确认。",
+          "url": "https://hr.szu.edu.cn/info/1016/25391.htm"
+        }
+      ],
+      "summary": "11月9日新发经济学等博士专职科研岗，数字经济、人机协同与AI治理方向；须相关研究基础、3篇成果和2封推荐信。常年随到随审、额满即止，人数及年龄政策待确认；首期合同最长2年。"
+    },
+    {
+      "institution": "深圳大学",
+      "region": "广东",
+      "city": "深圳",
+      "type": "普通高校",
+      "kind": "faculty",
+      "headcount": null,
+      "deadline": null,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-09T09:23:35+08:00",
+      "firstSeenAt": "2026-11-09T09:23:35+08:00",
+      "sourceAuthority": "official",
+      "remainingVacancies": "公告未列具体招聘人数，当前剩余名额未核实",
+      "affiliation": "深圳大学所属学院及研究团队，非政府直属科研院所",
+      "id": "szu-fintech-associate-20261015",
+      "title": "金融科技学院王云奇团队 · 副研究员",
+      "url": "https://hr.szu.edu.cn/info/1016/25181.htm",
+      "publishedAt": "2026-10-15",
+      "rolling": false,
+      "majors": [
+        "经济学",
+        "管理学等相关专业"
+      ],
+      "requirements": {
+        "education": "国（境）内外知名高校经济学、管理学等相关专业博士毕业生；院校口径由单位审核，不自行推定符合",
+        "freshGraduate": "要求博士毕业生并提交学位证明，未单列毕业年份或未获学位应届生申请条款",
+        "ageLimit": 38,
+        "ageText": "年龄不超过38周岁，公告未单列计算基准日",
+        "partyText": "未单列党员条件",
+        "overseas": "境外博士可在学历范围内，但认证及专业审核时限未说明，待确认",
+        "research": "须能独立研究资产定价、金融衍生品、GenAI驱动金融研究中的至少一个方向，具备中英文学术写作能力；高水平论文、博士后或境外研究经历优先，提交近5年代表成果",
+        "employment": "全职副研究员聘用合同，待遇按最终合同与学校政策；成果突出者可申请荔园留菁计划教师通道，不保证自动转教师或事业编",
+        "application": "邮件初筛后面试，另在学校招聘平台选择专职研究人员提交；原文未列固定截止或长期/招满即止条款，当前接收状态待确认"
+      },
+      "evidence": [
+        {
+          "note": "实读10月15日人力资源部完整公告，博士经济学/管理学、38岁以内，明确3个金融研究领域及全职、中英文学术能力条件；博士后经历为优先条件，并非博士后岗位。",
+          "url": "https://hr.szu.edu.cn/info/1016/25181.htm"
+        },
+        {
+          "note": "官方正文及当前专职研究人员栏目仍列该公告，未列人数或报名截止，也无明确滚动条款；headcount和deadline为null、rolling=false。未确认当前空额，不以页面仍存在推定仍在招。",
+          "url": "https://hr.szu.edu.cn/info/1016/25181.htm"
+        }
+      ],
+      "summary": "补录10月15日经济学等博士副研究员岗，38岁以内，资产定价/金融衍生品/GenAI金融研究至少一项，中英文科研能力。非博士后，报名截止及当前空额未明确。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
