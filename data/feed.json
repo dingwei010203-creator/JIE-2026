@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:09:28+08:00",
+  "generatedAt": "2026-11-10T09:41:17+08:00",
   "lastScanStartedAt": "2026-11-09T15:05:58+08:00",
   "lastScanCompletedAt": "2026-11-09T15:09:26+08:00",
-  "lastVerifiedAt": "2026-11-09T09:23:35+08:00",
+  "lastVerifiedAt": "2026-11-10T09:40:04+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -182,7 +182,7 @@
       "deadline": "2026-12-31",
       "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-09T09:23:35+08:00",
+      "verifiedAt": "2026-11-10T09:40:04+08:00",
       "requirements": {
         "education": "招聘系统列明博士",
         "freshGraduate": "是否接受尚未取得学位的2026届博士，以单位审核为准",
@@ -208,6 +208,10 @@
         {
           "note": "11月9日针对11月8日采集变更标记实读官方完整教师列表：数字经济系博士教师仍列3人、职称不限、12月31日截止，无已确认名额变化或滚动明文；保留现有字段及人数性质。",
           "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
+        },
+        {
+          "note": "11月10日针对采集变更标记实读官方教师列表，数字经济系博士教师3人、职称不限、12月31日截止均未变；未见滚动条款。仅确认列表字段，当前空额及新版完整资格仍待核。",
+          "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
         }
       ],
       "summary": "学校招聘系统列明数字经济系博士教师3人，职称不限。是否仍有空额及经济学博士研究方向是否匹配，需向学院确认。",
@@ -217,8 +221,7 @@
       "alternateUrls": [
         "https://pzrensc.peizheng.edu.cn/zpxx/d281b0ba2b8e4173b673062a22cb5b10.htm",
         "https://www.peizheng.edu.cn/xxgk/tzgs/b28fccaaa86045718708424fe208788d.htm"
-      ],
-      "reviewNeeded": true
+      ]
     },
     {
       "id": "pku-nsd-2027-assistant",
@@ -2039,7 +2042,7 @@
       "headcount": null,
       "deadline": "2026-11-11",
       "rolling": false,
-      "verifiedAt": "2026-11-09T09:23:35+08:00",
+      "verifiedAt": "2026-11-10T09:40:04+08:00",
       "firstSeenAt": "2026-11-04T09:17:00+08:00",
       "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
       "id": "nbjb-party-teacher-202611-lead",
@@ -2102,10 +2105,13 @@
         {
           "note": "11月9日针对新变更标记实读粉笔正文和岗位表，在编范围、工作经历、成果及11月11日报名截止未见实质变化；江北政府原文仍不可读，维持lead和人数null。",
           "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
+        },
+        {
+          "note": "11月10日针对采集变更标记实读粉笔完整转载及岗位表，11月11日截止、特定在编在岗范围和经历成果条件未变；官方具体正文再次不可访问，维持lead、人数null，不推定应届可报。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
         }
       ],
-      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。",
-      "reviewNeeded": true
+      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。"
     },
     {
       "headcount": null,
@@ -2435,7 +2441,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-09T09:23:35+08:00",
+      "verifiedAt": "2026-11-10T09:40:04+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2467,10 +2473,13 @@
         {
           "note": "11月9日针对新变更标记实读高才网完整转载：党员、年底报名及获证/认证条款未见实质变化。金华人社局原文仍不可读；未核实官方岗位表、停招或当前空额，维持lead和人数null。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月10日针对采集变更标记实读高才网完整转载，党员、年底报名及获证/认证条款未见实质变化；人社局原文再次不可读，保留lead、人数null及官方附件/停招待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -2614,6 +2623,100 @@
         }
       ],
       "summary": "补录10月15日经济学等博士副研究员岗，38岁以内，资产定价/金融衍生品/GenAI金融研究至少一项，中英文科研能力。非博士后，报名截止及当前空额未明确。"
+    },
+    {
+      "id": "sysu-ferc-postdoc-20261105",
+      "institution": "中山大学",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "金融工程与风险管理研究中心 · 博士后",
+      "url": "https://lingnan.sysu.edu.cn/article/3913",
+      "publishedAt": "2026-11-05",
+      "headcount": null,
+      "deadline": "2026-12-31",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-10T09:40:04+08:00",
+      "firstSeenAt": "2026-11-10T09:40:04+08:00",
+      "sourceAuthority": "official",
+      "affiliation": "中山大学岭南学院研究中心，非政府直属科研院所",
+      "majors": [
+        "经济学",
+        "管理学",
+        "统计学",
+        "数学等相关专业"
+      ],
+      "remainingVacancies": "公告原计划为1—2人，非确定正整数，headcount=null；当前剩余名额未核实",
+      "requirements": {
+        "education": "国内外著名高校博士，获博士学位不超过3年；学校认定口径待确认",
+        "freshGraduate": "国内高校毕业生已通过博士答辩者可申请，博士后系统通过申请后半年内须取得博士学位；原文明限国内高校，不将此宽限自动适用于港澳及境外毕业生",
+        "ageText": "35周岁以下，具体年龄计算时点未列，待确认",
+        "overseas": "接受国内外博士，但境外学历认证材料及认证时限未单列，待确认",
+        "partyText": "本公告未单列党员条件",
+        "research": "研究方向包括数字经济、数字金融、财政金融、风险管理、保险精算；相关研究经验、论文发表或政策报告采用者优先；须较高外语及国际交流能力。初审后提交约2000字研究计划、代表论文、推荐信及成果证明",
+        "employment": "须全职到校，博士后工作期限2年；期满突出且符合学校要求者可申请教师岗位，不承诺转聘",
+        "application": "2026年12月31日前投递简历，初审后补研究计划和支撑材料；正文未明确报名起始日及滚动招聘条款"
+      },
+      "evidence": [
+        {
+          "note": "实读11月5日官方完整公告：具体博士后岗位接受经济学等专业；数字经济及金融方向，35周岁以下、获博士不超过3年、全职，原计划1—2人故人数置null。",
+          "url": "https://lingnan.sysu.edu.cn/article/3913"
+        },
+        {
+          "note": "正文明确12月31日前报名；国内高校已答辩者获证宽限不能外推至港澳毕业生。未检得可确认的本公告更正、延期或招满通知，当前空额及境外认证时限待确认。",
+          "url": "https://lingnan.sysu.edu.cn/article/3913"
+        }
+      ],
+      "summary": "11月5日发布的经济学相关博士后，12月31日截止；35周岁以下、获博士不超过3年，数字经济及金融等方向。原计划1—2人，空额待核；单列博士后，不计正式岗位。"
+    },
+    {
+      "id": "zzjc-business-faculty-20260112",
+      "institution": "浙江工业大学之江学院",
+      "region": "浙江",
+      "city": "绍兴 / 柯桥",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "商学院 · 教学科研岗（金融工程、国际经济与贸易等）",
+      "url": "https://www.zzjc.edu.cn/info/1026/20911.htm",
+      "publishedAt": "2026-01-12",
+      "headcount": 4,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-10T09:40:04+08:00",
+      "firstSeenAt": "2026-11-10T09:40:04+08:00",
+      "sourceAuthority": "official",
+      "affiliation": "全日制本科独立学院",
+      "majors": [
+        "金融工程",
+        "国际经济与贸易",
+        "智能财务",
+        "智能审计"
+      ],
+      "remainingVacancies": "4人为商学院该岗位跨方向共享原计划，并非经济学独享或当前剩余名额；是否仍接收报名待确认",
+      "requirements": {
+        "education": "商学院具体岗位表列研究生（博士）；具体二级专业或研究方向须匹配所列金融工程、国际经济与贸易、智能财务/审计",
+        "freshGraduate": "未限定毕业年份；须提交学历学位证明，未获证申请者的最晚获证日期及接收口径待确认",
+        "ageText": "青年英才C类优秀博士一般不超过40周岁；特别优秀且学科亟需，经学院讨论同意可放宽45岁。A类一般48岁、B类一般45岁均另有领军/高级人才条件，不能套用于普通青年博士",
+        "overseas": "海外知名高校背景可优先；公告未明确境外认证材料和时限，待确认",
+        "partyText": "本公告未对商学院岗位单列党员条件",
+        "research": "须符合学科专业建设和应用型人才培养需要、发展潜力大；投递简历及论文、项目、专利、获奖等学术成就和证明。A/B类另有高层次成果、职务或带头人要求",
+        "employment": "可申请院聘研究员或副研究员；青年博士转事业编以编制余额、符合入编条件及申请顺序为前提，不保证入职即入编",
+        "application": "向学院并抄送人事部投递材料；完整公告未列真实报名开始/截止或长期滚动条款，deadline=null、rolling=false，当前招聘进展待确认"
+      },
+      "evidence": [
+        {
+          "note": "实读1月12日官方完整公告及内嵌岗位表：商学院教学科研岗为博士，金融工程、国际经济与贸易及智能财务/审计跨方向共4人；不是全校计划或4个经济学专属名额。",
+          "url": "https://www.zzjc.edu.cn/info/1026/20911.htm"
+        },
+        {
+          "note": "完整正文未列报名截止或长期有效条款，保持日期未知；核对青年英才一般40岁及特别审批放宽条件、入编余额条件。11月转载不改变原公告1月12日发布日期，当前空额及未获证/境外认证口径待确认。",
+          "url": "https://www.zzjc.edu.cn/info/1026/20911.htm"
+        }
+      ],
+      "summary": "补录1月12日公告中商学院具体博士教研岗，金融工程、国际经济与贸易等跨方向原计划4人；青年英才一般40岁以内。报名截止及当前空额不明，不按滚动在招处理；入编有前提。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
