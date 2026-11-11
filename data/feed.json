@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T15:44:32+08:00",
+  "generatedAt": "2026-11-11T09:23:08+08:00",
   "lastScanStartedAt": "2026-11-10T15:41:43+08:00",
   "lastScanCompletedAt": "2026-11-10T15:44:31+08:00",
-  "lastVerifiedAt": "2026-11-10T09:40:04+08:00",
+  "lastVerifiedAt": "2026-11-11T09:22:26+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -172,7 +172,7 @@
       "city": "广州",
       "type": "普通高校",
       "title": "经济学院数字经济系 · 专任教师",
-      "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1",
+      "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=2&postTypeCode=1",
       "majors": [
         "数字经济（具体博士专业需复核）"
       ],
@@ -182,7 +182,7 @@
       "deadline": "2026-12-31",
       "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-10T09:40:04+08:00",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
       "requirements": {
         "education": "招聘系统列明博士",
         "freshGraduate": "是否接受尚未取得学位的2026届博士，以单位审核为准",
@@ -212,6 +212,10 @@
         {
           "note": "11月10日针对采集变更标记实读官方教师列表，数字经济系博士教师3人、职称不限、12月31日截止均未变；未见滚动条款。仅确认列表字段，当前空额及新版完整资格仍待核。",
           "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
+        },
+        {
+          "note": "11月11日实读官方教师列表两页，数字经济系已从首页移至第2页，仍为博士教师3人、职称不限、12月31日截止；未见滚动明文，修正主链接并保留原首页历史，空额和完整资格仍待核。",
+          "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=2&postTypeCode=1"
         }
       ],
       "summary": "学校招聘系统列明数字经济系博士教师3人，职称不限。是否仍有空额及经济学博士研究方向是否匹配，需向学院确认。",
@@ -220,9 +224,9 @@
       "affiliation": "民办普通本科高校",
       "alternateUrls": [
         "https://pzrensc.peizheng.edu.cn/zpxx/d281b0ba2b8e4173b673062a22cb5b10.htm",
-        "https://www.peizheng.edu.cn/xxgk/tzgs/b28fccaaa86045718708424fe208788d.htm"
-      ],
-      "reviewNeeded": true
+        "https://www.peizheng.edu.cn/xxgk/tzgs/b28fccaaa86045718708424fe208788d.htm",
+        "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=1&postTypeCode=1"
+      ]
     },
     {
       "id": "pku-nsd-2027-assistant",
@@ -2043,7 +2047,7 @@
       "headcount": null,
       "deadline": "2026-11-11",
       "rolling": false,
-      "verifiedAt": "2026-11-10T09:40:04+08:00",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
       "firstSeenAt": "2026-11-04T09:17:00+08:00",
       "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
       "id": "nbjb-party-teacher-202611-lead",
@@ -2110,10 +2114,13 @@
         {
           "note": "11月10日针对采集变更标记实读粉笔完整转载及岗位表，11月11日截止、特定在编在岗范围和经历成果条件未变；官方具体正文再次不可访问，维持lead、人数null，不推定应届可报。",
           "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
+        },
+        {
+          "note": "11月11日针对网页变更标记实读粉笔具体岗位表和报名资格正文，仍为11月11日截止、特定浙江事业单位在编在岗通道及经历成果限制；政府原文再次不可访问，维持lead、人数null。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
         }
       ],
-      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。",
-      "reviewNeeded": true
+      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。"
     },
     {
       "headcount": null,
@@ -2443,7 +2450,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-10T09:40:04+08:00",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2479,10 +2486,13 @@
         {
           "note": "11月10日针对采集变更标记实读高才网完整转载，党员、年底报名及获证/认证条款未见实质变化；人社局原文再次不可读，保留lead、人数null及官方附件/停招待核。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月11日针对网页变更标记实读高才网招聘正文，党员要求、12月31日报名及获证/认证条款未见变化；人社局原文仍不可访问，维持lead、人数null及岗位附件和停招待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -2720,6 +2730,397 @@
         }
       ],
       "summary": "补录1月12日公告中商学院具体博士教研岗，金融工程、国际经济与贸易等跨方向原计划4人；青年英才一般40岁以内。报名截止及当前空额不明，不按滚动在招处理；入编有前提。"
+    },
+    {
+      "id": "pku-nse-domestic-research-specialist-20261110",
+      "institution": "北京大学",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "新结构经济学研究院国内发展合作部 · 研究专员（劳务派遣）",
+      "url": "https://hr.pku.edu.cn/rczp/xzjf/ldhtzp/5a4dbb3516aa4d169d8f880f905b6643.htm",
+      "alternateUrls": [
+        "https://www.nse.pku.edu.cn/jrwm/zcsjzp/ceb6316e04eb45d6b4c3747ae9a4cbcf.htm",
+        "https://m.gaoxiaojob.com/announcement/detail/443616.html"
+      ],
+      "publishedAt": "2026-11-10",
+      "headcount": 1,
+      "deadline": "2026-11-23",
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "firstSeenAt": "2026-11-11T09:22:26+08:00",
+      "sourceAuthority": "official",
+      "affiliation": "高校所属研究院，非政府直属科研院所",
+      "majors": [
+        "经济学等相关专业"
+      ],
+      "requirements": {
+        "education": "须取得相关博士学位；特别优秀的硕士亦可考虑",
+        "freshGraduate": "不限定毕业年份；须提交学位证扫描件，未获证申请者口径待确认",
+        "ageText": "本公告未列年龄限制，不能据此判断不限年龄",
+        "partyText": "本公告未单列党员条件",
+        "overseas": "境外学历认证材料及时限未单列，待确认",
+        "research": "须具备公文、智库写作能力；政策或产业咨询经验、项目组织拓展和调研能力、新结构经济学经历、长期工作意愿等为优先因素；提供代表成果或报告",
+        "employment": "劳务派遣，无北大事业编制，不解决北京户口；兼有智库协调和项目管理工作",
+        "application": "电子邮件报名，提交简历、求职陈述、代表成果或研究报告及学位证明；11月23日截止，未列明确开始日"
+      },
+      "remainingVacancies": "原计划1人，当前空额待确认",
+      "evidence": [
+        {
+          "note": "实读11月10日北大人事部具体岗位全文：国内发展合作部研究专员1人，经济学博士等可报，政策研究、报告写作与项目管理，11月23日截止。",
+          "url": "https://hr.pku.edu.cn/rczp/xzjf/ldhtzp/5a4dbb3516aa4d169d8f880f905b6643.htm"
+        },
+        {
+          "note": "人事部明确劳务派遣、无事业编、不解决北京户口；早期11月6日转载不作为本官方公告发布日期。未确认更正、延期或招满，空额与境外认证时限待核。",
+          "url": "https://hr.pku.edu.cn/rczp/xzjf/ldhtzp/5a4dbb3516aa4d169d8f880f905b6643.htm"
+        }
+      ],
+      "summary": "11月10日人事部新发政策研究岗位，11月23日截止，经济学博士等可报；须智库写作及项目能力，劳务派遣、无事业编及北京户口。"
+    },
+    {
+      "id": "zjtie-B11-26-05-20260312",
+      "institution": "浙江经济职业技术学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "国际经济与贸易专任教师",
+      "positionCode": "B11-26-05",
+      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
+      "alternateUrls": [
+        "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+      ],
+      "publishedAt": "2026-03-12",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "firstSeenAt": "2026-11-11T09:22:26+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "应用经济学",
+        "工商管理",
+        "企业管理等相关专业"
+      ],
+      "requirements": {
+        "education": "岗位要求研究生学历、博士学位",
+        "ageLimit": 40,
+        "ageText": "40周岁；年龄计算时点的省级统一规定本次未读到，待确认",
+        "freshGraduate": "校方正文和附件未单列毕业年份、最晚获证日期；省级统一公告不可读，2026届未获证申请口径待确认",
+        "overseas": "境外学历认证材料及取得时限待核对省级统一要求；不推定符合",
+        "partyText": "本岗位表未单列党员条件",
+        "research": "须有国贸工作经历或相应教育背景",
+        "employment": "事业单位报备员额，聘用制管理；不表述为入职即事业编",
+        "application": "通过学校招聘系统报名；学校按资格和工作安排考核，可能分批、暂缓或终止。真实报名截止及省级全年受理规则未核实，日期null、未标rolling"
+      },
+      "remainingVacancies": "已有该代码拟聘公示，不能认定原计划仍有空额；是否完成聘用、继续接收或调整计划待确认",
+      "evidence": [
+        {
+          "note": "实读3月原始岗位表及9月更新PDF，核对该代码的博士要求、经济学相关范围、年龄与附加条件；headcount为该岗位原计划，非全校或剩余名额。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/97/c1/7de12b5d485f99efeda73e4bd5f9/7bd3d8ff-d68a-45b1-82bc-704974d979be.pdf"
+        },
+        {
+          "note": "9月更新仍列该代码；表列1人不能证明当前尚缺1人。省级统一公告不可读，未确认真实报名截止。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/20/1e/9bdc59584942a168c160025c7214/dd2ee9ec-3857-479f-b65f-28ed44a02163.pdf"
+        },
+        {
+          "note": "实读学校招聘正文和9月更新通知，确认报备员额、系统报名及分批/暂缓/终止安排；保留截止、境外认证及获证口径待核。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+        },
+        {
+          "note": "实读该代码后续拟聘公示；仅记录招聘已推进，不据公示推定现存空额或停招，不公开摘录人员个人资料。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0707/c225a132924/page.htm"
+        }
+      ],
+      "summary": "补录3月公告及9月更新的具体博士岗位；须有国贸工作经历或相应教育背景。报名截止、当前接收和空额待确认；已有拟聘公示。"
+    },
+    {
+      "id": "zjtie-B11-26-06-20260312",
+      "institution": "浙江经济职业技术学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "跨境电商专任教师",
+      "positionCode": "B11-26-06",
+      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
+      "alternateUrls": [
+        "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+      ],
+      "publishedAt": "2026-03-12",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "firstSeenAt": "2026-11-11T09:22:26+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济学",
+        "工商管理",
+        "企业管理",
+        "管理科学与工程",
+        "电子信息",
+        "计算机科学与技术等相关专业"
+      ],
+      "requirements": {
+        "education": "岗位要求研究生学历、博士学位",
+        "ageLimit": 40,
+        "ageText": "40周岁；年龄计算时点的省级统一规定本次未读到，待确认",
+        "freshGraduate": "校方正文和附件未单列毕业年份、最晚获证日期；省级统一公告不可读，2026届未获证申请口径待确认",
+        "overseas": "境外学历认证材料及取得时限待核对省级统一要求；不推定符合",
+        "partyText": "本岗位表未单列党员条件",
+        "research": "须有跨境电商工作经历或相应教育背景",
+        "employment": "事业单位报备员额，聘用制管理；不表述为入职即事业编",
+        "application": "通过学校招聘系统报名；学校按资格和工作安排考核，可能分批、暂缓或终止。真实报名截止及省级全年受理规则未核实，日期null、未标rolling"
+      },
+      "remainingVacancies": "表列数为原计划，当前剩余名额及是否仍接受申请待确认",
+      "evidence": [
+        {
+          "note": "实读3月原始岗位表及9月更新PDF，核对该代码的博士要求、经济学相关范围、年龄与附加条件；headcount为该岗位原计划，非全校或剩余名额。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/97/c1/7de12b5d485f99efeda73e4bd5f9/7bd3d8ff-d68a-45b1-82bc-704974d979be.pdf"
+        },
+        {
+          "note": "9月更新仍列该代码；表列1人不能证明当前尚缺1人。省级统一公告不可读，未确认真实报名截止。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/20/1e/9bdc59584942a168c160025c7214/dd2ee9ec-3857-479f-b65f-28ed44a02163.pdf"
+        },
+        {
+          "note": "实读学校招聘正文和9月更新通知，确认报备员额、系统报名及分批/暂缓/终止安排；保留截止、境外认证及获证口径待核。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+        }
+      ],
+      "summary": "补录3月公告及9月更新的具体博士岗位；须有跨境电商工作经历或相应教育背景。报名截止、当前接收和空额待确认。"
+    },
+    {
+      "id": "zjtie-B11-26-07-20260312",
+      "institution": "浙江经济职业技术学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "商务数据分析与应用专业带头人",
+      "positionCode": "B11-26-07",
+      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
+      "alternateUrls": [
+        "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+      ],
+      "publishedAt": "2026-03-12",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "firstSeenAt": "2026-11-11T09:22:26+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济学类",
+        "管理学类",
+        "工学类",
+        "理学类等相关专业"
+      ],
+      "requirements": {
+        "education": "岗位要求研究生学历、博士学位",
+        "ageLimit": 45,
+        "ageText": "45周岁；年龄计算时点的省级统一规定本次未读到，待确认",
+        "freshGraduate": "校方正文和附件未单列毕业年份、最晚获证日期；省级统一公告不可读，2026届未获证申请口径待确认",
+        "overseas": "境外学历认证材料及取得时限待核对省级统一要求；不推定符合",
+        "partyText": "本岗位表未单列党员条件",
+        "research": "须副教授，且有相关从业或课程教学经历",
+        "employment": "事业单位报备员额，聘用制管理；不表述为入职即事业编",
+        "application": "通过学校招聘系统报名；学校按资格和工作安排考核，可能分批、暂缓或终止。真实报名截止及省级全年受理规则未核实，日期null、未标rolling"
+      },
+      "remainingVacancies": "表列数为原计划，当前剩余名额及是否仍接受申请待确认",
+      "evidence": [
+        {
+          "note": "实读3月原始岗位表及9月更新PDF，核对该代码的博士要求、经济学相关范围、年龄与附加条件；headcount为该岗位原计划，非全校或剩余名额。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/97/c1/7de12b5d485f99efeda73e4bd5f9/7bd3d8ff-d68a-45b1-82bc-704974d979be.pdf"
+        },
+        {
+          "note": "9月更新仍列该代码；表列1人不能证明当前尚缺1人。省级统一公告不可读，未确认真实报名截止。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/20/1e/9bdc59584942a168c160025c7214/dd2ee9ec-3857-479f-b65f-28ed44a02163.pdf"
+        },
+        {
+          "note": "实读学校招聘正文和9月更新通知，确认报备员额、系统报名及分批/暂缓/终止安排；保留截止、境外认证及获证口径待核。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+        }
+      ],
+      "summary": "补录3月公告及9月更新的具体博士岗位；须副教授，且有相关从业或课程教学经历。报名截止、当前接收和空额待确认。"
+    },
+    {
+      "id": "zjtie-B11-26-09-20260312",
+      "institution": "浙江经济职业技术学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "金融专任教师",
+      "positionCode": "B11-26-09",
+      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
+      "alternateUrls": [
+        "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+      ],
+      "publishedAt": "2026-03-12",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "firstSeenAt": "2026-11-11T09:22:26+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "金融学",
+        "经济学等相关专业"
+      ],
+      "requirements": {
+        "education": "岗位要求研究生学历、博士学位",
+        "ageLimit": 40,
+        "ageText": "40周岁；年龄计算时点的省级统一规定本次未读到，待确认",
+        "freshGraduate": "校方正文和附件未单列毕业年份、最晚获证日期；省级统一公告不可读，2026届未获证申请口径待确认",
+        "overseas": "境外学历认证材料及取得时限待核对省级统一要求；不推定符合",
+        "partyText": "本岗位表未单列党员条件",
+        "research": "数学、计算机及AI、大数据等交叉背景优先",
+        "employment": "事业单位报备员额，聘用制管理；不表述为入职即事业编",
+        "application": "通过学校招聘系统报名；学校按资格和工作安排考核，可能分批、暂缓或终止。真实报名截止及省级全年受理规则未核实，日期null、未标rolling"
+      },
+      "remainingVacancies": "已有该代码拟聘公示，不能认定原计划仍有空额；是否完成聘用、继续接收或调整计划待确认",
+      "evidence": [
+        {
+          "note": "实读3月原始岗位表及9月更新PDF，核对该代码的博士要求、经济学相关范围、年龄与附加条件；headcount为该岗位原计划，非全校或剩余名额。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/97/c1/7de12b5d485f99efeda73e4bd5f9/7bd3d8ff-d68a-45b1-82bc-704974d979be.pdf"
+        },
+        {
+          "note": "9月更新仍列该代码；表列1人不能证明当前尚缺1人。省级统一公告不可读，未确认真实报名截止。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/20/1e/9bdc59584942a168c160025c7214/dd2ee9ec-3857-479f-b65f-28ed44a02163.pdf"
+        },
+        {
+          "note": "实读学校招聘正文和9月更新通知，确认报备员额、系统报名及分批/暂缓/终止安排；保留截止、境外认证及获证口径待核。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+        },
+        {
+          "note": "实读该代码后续拟聘公示；仅记录招聘已推进，不据公示推定现存空额或停招，不公开摘录人员个人资料。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0920/c225a133853/page.htm"
+        }
+      ],
+      "summary": "补录3月公告及9月更新的具体博士岗位；数学、计算机及AI、大数据等交叉背景优先。报名截止、当前接收和空额待确认；已有拟聘公示。"
+    },
+    {
+      "id": "zjtie-B11-26-15-20260312",
+      "institution": "浙江经济职业技术学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "中小企业创业与企业经营专任教师",
+      "positionCode": "B11-26-15",
+      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
+      "alternateUrls": [
+        "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+      ],
+      "publishedAt": "2026-03-12",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "firstSeenAt": "2026-11-11T09:22:26+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济学",
+        "管理学",
+        "计算机科学与技术等相关专业"
+      ],
+      "requirements": {
+        "education": "岗位要求研究生学历、博士学位",
+        "ageLimit": 40,
+        "ageText": "40周岁；年龄计算时点的省级统一规定本次未读到，待确认",
+        "freshGraduate": "校方正文和附件未单列毕业年份、最晚获证日期；省级统一公告不可读，2026届未获证申请口径待确认",
+        "overseas": "境外学历认证材料及取得时限待核对省级统一要求；不推定符合",
+        "partyText": "本岗位表未单列党员条件",
+        "research": "须有创新创业专业背景或研究经历",
+        "employment": "事业单位报备员额，聘用制管理；不表述为入职即事业编",
+        "application": "通过学校招聘系统报名；学校按资格和工作安排考核，可能分批、暂缓或终止。真实报名截止及省级全年受理规则未核实，日期null、未标rolling"
+      },
+      "remainingVacancies": "表列数为原计划，当前剩余名额及是否仍接受申请待确认",
+      "evidence": [
+        {
+          "note": "实读3月原始岗位表及9月更新PDF，核对该代码的博士要求、经济学相关范围、年龄与附加条件；headcount为该岗位原计划，非全校或剩余名额。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/97/c1/7de12b5d485f99efeda73e4bd5f9/7bd3d8ff-d68a-45b1-82bc-704974d979be.pdf"
+        },
+        {
+          "note": "9月更新仍列该代码；表列1人不能证明当前尚缺1人。省级统一公告不可读，未确认真实报名截止。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/20/1e/9bdc59584942a168c160025c7214/dd2ee9ec-3857-479f-b65f-28ed44a02163.pdf"
+        },
+        {
+          "note": "实读学校招聘正文和9月更新通知，确认报备员额、系统报名及分批/暂缓/终止安排；保留截止、境外认证及获证口径待核。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+        }
+      ],
+      "summary": "补录3月公告及9月更新的具体博士岗位；须有创新创业专业背景或研究经历。报名截止、当前接收和空额待确认。"
+    },
+    {
+      "id": "zjtie-B11-26-16-20260312",
+      "institution": "浙江经济职业技术学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "思政专任教师",
+      "positionCode": "B11-26-16",
+      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
+      "alternateUrls": [
+        "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+      ],
+      "publishedAt": "2026-03-12",
+      "headcount": 3,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "firstSeenAt": "2026-11-11T09:22:26+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济学",
+        "思想政治教育",
+        "哲学",
+        "法学",
+        "政治学",
+        "马克思主义理论",
+        "党史党建学等相关专业"
+      ],
+      "requirements": {
+        "education": "岗位要求研究生学历、博士学位",
+        "ageLimit": 40,
+        "ageText": "40周岁；年龄计算时点的省级统一规定本次未读到，待确认；特定高级职称及课题条件可放宽至45岁",
+        "freshGraduate": "校方正文和附件未单列毕业年份、最晚获证日期；省级统一公告不可读，2026届未获证申请口径待确认",
+        "overseas": "境外学历认证材料及取得时限待核对省级统一要求；不推定符合",
+        "partyText": "须党员（含预备党员）",
+        "research": "党员含预备党员；高级职称且近5年主持省部级以上课题者可放宽45岁",
+        "employment": "事业单位报备员额，聘用制管理；不表述为入职即事业编",
+        "application": "通过学校招聘系统报名；学校按资格和工作安排考核，可能分批、暂缓或终止。真实报名截止及省级全年受理规则未核实，日期null、未标rolling"
+      },
+      "remainingVacancies": "已有该代码拟聘公示，不能认定原计划仍有空额；是否完成聘用、继续接收或调整计划待确认",
+      "evidence": [
+        {
+          "note": "实读3月原始岗位表及9月更新PDF，核对该代码的博士要求、经济学相关范围、年龄与附加条件；headcount为该岗位原计划，非全校或剩余名额。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/97/c1/7de12b5d485f99efeda73e4bd5f9/7bd3d8ff-d68a-45b1-82bc-704974d979be.pdf"
+        },
+        {
+          "note": "9月更新仍列该代码；更新表列2人，原表列3人，均不当作当前空额。省级统一公告不可读，未确认真实报名截止。",
+          "url": "https://rsc.zjtie.edu.cn/_upload/article/files/20/1e/9bdc59584942a168c160025c7214/dd2ee9ec-3857-479f-b65f-28ed44a02163.pdf"
+        },
+        {
+          "note": "实读学校招聘正文和9月更新通知，确认报备员额、系统报名及分批/暂缓/终止安排；保留截止、境外认证及获证口径待核。",
+          "url": "https://rsc.zjtie.edu.cn/2026/0918/c225a133838/page.htm"
+        },
+        {
+          "note": "实读该代码后续拟聘公示；仅记录招聘已推进，不据公示推定现存空额或停招，不公开摘录人员个人资料。",
+          "url": "https://rsc.zjtie.edu.cn/2026/1104/c225a135203/page.htm"
+        }
+      ],
+      "summary": "补录3月公告及9月更新的具体博士岗位；党员含预备党员；高级职称且近5年主持省部级以上课题者可放宽45岁。报名截止、当前接收和空额待确认；已有拟聘公示。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
