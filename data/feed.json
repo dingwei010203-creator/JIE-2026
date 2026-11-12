@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T15:02:54+08:00",
+  "generatedAt": "2026-11-12T09:18:56+08:00",
   "lastScanStartedAt": "2026-11-11T14:59:59+08:00",
   "lastScanCompletedAt": "2026-11-11T15:02:52+08:00",
-  "lastVerifiedAt": "2026-11-11T09:22:26+08:00",
+  "lastVerifiedAt": "2026-11-12T09:18:12+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -1433,7 +1433,7 @@
       "deadline": "2026-11-15",
       "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-10-31T09:08:57+08:00",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
       "firstSeenAt": "2026-10-31T09:08:57+08:00",
       "remainingVacancies": "原计划为对应岗位跨专业共享计划，当前剩余名额未核实",
       "attachments": [
@@ -1468,6 +1468,10 @@
         {
           "note": "10月31日补查延期及后续公示，未找到可确认该岗位当前剩余名额的通知，不把原计划当空额。",
           "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm"
+        },
+        {
+          "note": "11月12日重新下载解析官方XLSX，复核序号8博士、40岁、原计划2人跨专业及境外博士3年内的条件二，认证最迟12月31日；重读正文报名仍11月15日截止，未检得可确认延期或本岗剩余空额。",
+          "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm"
         }
       ],
       "summary": "经济学院海外优秀学者通道，接受理论、应用经济学及统计学，原计划共2名，11月15日截止。境外博士3年内可走条件二，须核对留服认证和进京要求；不推定已符合。"
@@ -1491,7 +1495,7 @@
       "deadline": "2026-11-15",
       "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-10-31T09:08:57+08:00",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
       "firstSeenAt": "2026-10-31T09:08:57+08:00",
       "remainingVacancies": "原计划为对应岗位跨专业共享计划，当前剩余名额未核实",
       "attachments": [
@@ -1521,6 +1525,10 @@
         },
         {
           "note": "岗位表明确省部级以上人才计划或近5年任2类规定成果门槛；11月15日报名截止，不将全校30人作为经济学人数。",
+          "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm"
+        },
+        {
+          "note": "11月12日重新下载解析官方XLSX，复核序号1博士、社会人员、副教授七级及以上、50岁及人才计划或规定成果门槛，原计划2人跨专业；正文报名仍11月15日截止，不把全校计划或原计划当现有空额。",
           "url": "https://hr.btbu.edu.cn/xwzp/zpgg/312a631db5fc4e67b0d04b2617625bec.htm"
         }
       ],
@@ -1806,7 +1814,7 @@
       "rolling": false,
       "headcount": null,
       "verifiedLevel": "lead",
-      "verifiedAt": "2026-11-03T09:38:56+08:00",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
       "firstSeenAt": "2026-11-03T09:38:56+08:00",
       "majors": [
         "理论经济学、应用经济学等（据转载，官方岗位表待核）"
@@ -1844,10 +1852,15 @@
         {
           "note": "本次补查未检得可确认延期、更正或招满的正式通知；并非证明资格或剩余名额已确认。",
           "url": "https://www.gdyunan.gov.cn/ynxrmzf/rdzt/gsgg/content/post_2050206.html"
+        },
+        {
+          "note": "11月12日实读县政府原公告报名与资格条款，报名已于11月11日16:00截止，11月14日16:00仅为资格初审截止；补查未确认延期，标closed，保留具体岗位附件未核的lead等级。",
+          "url": "https://www.gdyunan.gov.cn/ynxrmzf/rdzt/gsgg/content/post_2050206.html"
         }
       ],
-      "summary": "广东县级党校重点线索：官方报名11月11日16:00截止。经济学专业及党员条件仅见转载，官方岗位表下载503，保留lead、人数null。须重点核对9月30日获证、报名认证及博士年龄与岗位栏差异。",
-      "affiliation": "中共郁南县委党校；具体岗位信息待官方附件核对"
+      "summary": "已按原公告报名截止归档；广东县级党校重点线索：官方报名11月11日16:00截止。经济学专业及党员条件仅见转载，官方岗位表下载503，保留lead、人数null。须重点核对9月30日获证、报名认证及博士年龄与岗位栏差异。",
+      "affiliation": "中共郁南县委党校；具体岗位信息待官方附件核对",
+      "closed": true
     },
     {
       "id": "zjyc-digital-econ-20260402-05",
@@ -2047,7 +2060,7 @@
       "headcount": null,
       "deadline": "2026-11-11",
       "rolling": false,
-      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
       "firstSeenAt": "2026-11-04T09:17:00+08:00",
       "remainingVacancies": "当前剩余名额、是否仍接收申请待确认",
       "id": "nbjb-party-teacher-202611-lead",
@@ -2118,10 +2131,14 @@
         {
           "note": "11月11日针对网页变更标记实读粉笔具体岗位表和报名资格正文，仍为11月11日截止、特定浙江事业单位在编在岗通道及经历成果限制；政府原文再次不可访问，维持lead、人数null。",
           "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
+        },
+        {
+          "note": "11月12日针对变更标记实读转载具体岗位表及报名正文，仍为特定在编通道、11月11日截止；未确认延期，标closed。江北政府具体原文仍不可读，保留lead和人数null。",
+          "url": "https://www.fenbi.com/page/fenxiaozhaokaodetail/32/3818/470187441417216"
         }
       ],
-      "summary": "11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。",
-      "reviewNeeded": true
+      "summary": "已按原公告报名截止归档；11月11日截止的党校教师选聘线索；限浙江省内特定事业单位在编在岗人员且须工作经历、规定成果。仅转载可读，官方正文待核，不推定应届博士符合。",
+      "closed": true
     },
     {
       "headcount": null,
@@ -2451,7 +2468,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-11T09:22:26+08:00",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2491,10 +2508,13 @@
         {
           "note": "11月11日针对网页变更标记实读高才网招聘正文，党员要求、12月31日报名及获证/认证条款未见变化；人社局原文仍不可访问，维持lead、人数null及岗位附件和停招待核。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月12日针对变更标记实读转载招聘正文与报名、获证条款，党员、12月31日报名截止及学历认证要求未见实质变化；人社局原文仍不可读，维持lead、人数null及官方岗位表/空额待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -2556,7 +2576,7 @@
       "headcount": null,
       "deadline": null,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-09T09:23:35+08:00",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
       "firstSeenAt": "2026-11-09T09:23:35+08:00",
       "sourceAuthority": "official",
       "remainingVacancies": "公告未列具体招聘人数，当前剩余名额未核实",
@@ -2589,10 +2609,13 @@
         {
           "note": "正文明确常年有效、随到随审、额满即止，rolling=true、deadline=null；首期合同最长2年，不作为博士后或永久教师岗。同期官网栏目确认11月9日发布，未检得可确认的更正或招满通知，空额仍待确认。",
           "url": "https://hr.szu.edu.cn/info/1016/25391.htm"
+        },
+        {
+          "note": "11月12日针对变更标记实读官方岗位资格、职责、合同及申请材料正文，经济学相关博士、三篇成果和两封推荐信、首期最长2年及常年随到随审额满即止均未见实质变化；不将页面点击等变化解释为新增空额。",
+          "url": "https://hr.szu.edu.cn/info/1016/25391.htm"
         }
       ],
-      "summary": "11月9日新发经济学等博士专职科研岗，数字经济、人机协同与AI治理方向；须相关研究基础、3篇成果和2封推荐信。常年随到随审、额满即止，人数及年龄政策待确认；首期合同最长2年。",
-      "reviewNeeded": true
+      "summary": "11月9日新发经济学等博士专职科研岗，数字经济、人机协同与AI治理方向；须相关研究基础、3篇成果和2封推荐信。常年随到随审、额满即止，人数及年龄政策待确认；首期合同最长2年。"
     },
     {
       "institution": "深圳大学",
@@ -2603,7 +2626,7 @@
       "headcount": null,
       "deadline": null,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-09T09:23:35+08:00",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
       "firstSeenAt": "2026-11-09T09:23:35+08:00",
       "sourceAuthority": "official",
       "remainingVacancies": "公告未列具体招聘人数，当前剩余名额未核实",
@@ -2636,10 +2659,13 @@
         {
           "note": "官方正文及当前专职研究人员栏目仍列该公告，未列人数或报名截止，也无明确滚动条款；headcount和deadline为null、rolling=false。未确认当前空额，不以页面仍存在推定仍在招。",
           "url": "https://hr.szu.edu.cn/info/1016/25181.htm"
+        },
+        {
+          "note": "11月12日针对变更标记实读官方全文，相关博士、38岁及以下和资产定价/衍生品/GenAI研究限制未变；仍未列人数、固定报名截止或长期有效明文，保留待确认。",
+          "url": "https://hr.szu.edu.cn/info/1016/25181.htm"
         }
       ],
-      "summary": "补录10月15日经济学等博士副研究员岗，38岁以内，资产定价/金融衍生品/GenAI金融研究至少一项，中英文科研能力。非博士后，报名截止及当前空额未明确。",
-      "reviewNeeded": true
+      "summary": "补录10月15日经济学等博士副研究员岗，38岁以内，资产定价/金融衍生品/GenAI金融研究至少一项，中英文科研能力。非博士后，报名截止及当前空额未明确。"
     },
     {
       "id": "sysu-ferc-postdoc-20261105",
@@ -3125,6 +3151,59 @@
         }
       ],
       "summary": "补录3月公告及9月更新的具体博士岗位；党员含预备党员；高级职称且近5年主持省部级以上课题者可放宽45岁。报名截止、当前接收和空额待确认；已有拟聘公示。"
+    },
+    {
+      "id": "scut-ipp-postdoc-20250609",
+      "institution": "华南理工大学公共政策研究院",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "博士后 · 技术与产业政策等（旧公告、接收状态待确认）",
+      "url": "https://ipp.scut.edu.cn/2025/0609/c36428a593582/page.htm",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/441881.html",
+        "https://www.gaoxiaojob.com/job/detail/2378563.html"
+      ],
+      "publishedAt": "2025-06-09",
+      "headcount": 4,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-12T09:18:12+08:00",
+      "firstSeenAt": "2026-11-12T09:18:12+08:00",
+      "sourceAuthority": "official",
+      "affiliation": "高校所属公共政策研究院，非政府直属科研院所",
+      "majors": [
+        "应用经济学",
+        "产业经济学",
+        "技术经济学",
+        "区域经济学",
+        "国际经济与贸易等优先专业",
+        "国际政治经济等其他方向"
+      ],
+      "remainingVacancies": "4人为官方原公告博士后岗位跨方向总计划，非经济学专属名额；2026年转载不能证明当前空额，是否继续接收待确认",
+      "requirements": {
+        "education": "须有博士学历和学位；名校经历或主持项目是优先因素，不据个人院校自动判断符合",
+        "freshGraduate": "未限定毕业年份或最晚获证日期；未获博士申请口径、获博士年限及进站政策待确认",
+        "ageText": "原则上35周岁及以下，具体计算时点待确认",
+        "partyText": "本公告未单列党员条件",
+        "overseas": "境外学历认证材料与时限未单列，待确认",
+        "research": "以政策问题研究为主，含产业、数字经济、企业出海等；须政策分析和学术研究能力，每年完成不少于4篇高质量政策报告；需博士论文和2篇代表论著全文",
+        "employment": "博士后，非正式教师编制岗位；出站转聘未获承诺",
+        "application": "提交应聘表、简历、学历证明和论著等；正文没有明确报名截止或长期滚动条款，日期null、rolling=false"
+      },
+      "evidence": [
+        {
+          "note": "实读官网具体博士后全文，明确应用经济学相关政策方向、博士学历学位、35岁及以下和工作任务。页面及官网目录均署2025年6月9日，不能当作2026年11月新发公告。",
+          "url": "https://ipp.scut.edu.cn/2025/0609/c36428a593582/page.htm"
+        },
+        {
+          "note": "原公告4人由多个方向共享；正文未列报名期限或长期有效。2026年11月转载仍列同一岗位，但本次未确认官网新一轮计划或空额，保留接收状态待确认。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/441881.html"
+        }
+      ],
+      "summary": "补录官网2025年6月博士后具体岗位，技术与产业政策方向接受应用经济学相关专业；原则上35岁及以下。2026年转载不等于新公告，截止及当前接收状态待核，单列博士后。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
