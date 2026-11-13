@@ -103,5 +103,12 @@
     "leads": 30,
     "sourcesOk": 34,
     "sourcesAttempted": 79
+  },
+  {
+    "date": "2026-11-13",
+    "reviewedPositions": 48,
+    "leads": 30,
+    "sourcesOk": 37,
+    "sourcesAttempted": 79
   }
 ]
