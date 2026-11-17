@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:13:58+08:00",
+  "generatedAt": "2026-11-17T09:35:19+08:00",
   "lastScanStartedAt": "2026-11-16T15:11:05+08:00",
   "lastScanCompletedAt": "2026-11-16T15:13:56+08:00",
-  "lastVerifiedAt": "2026-11-16T09:44:10+08:00",
+  "lastVerifiedAt": "2026-11-17T09:34:51+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -2488,7 +2488,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-16T09:44:10+08:00",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2548,10 +2548,13 @@
         {
           "note": "11月16日针对变更标记实读转载全文，复核党员、12月31日报名与学历学位/留服认证条款未见实质变化；人社局官方原文仍不可访问，维持lead、人数null，官方需求表和停招/空额继续待核。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月17日针对采集变更标记实读转载招聘全文，党员、12月31日报名与学历学位/留服认证条款未见实质变化；金华人社局原文仍不可访问。仅完成转载复核，维持lead、人数null，官方岗位表、停招与空额待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -3787,6 +3790,321 @@
         }
       ],
       "summary": "新增深大正式教师待核线索，转载为数字经济/经济学博士、35岁（含）、英文授课及科研条件，全年长期有效；单位官方岗位表和空额待核，保留lead、人数null。"
+    },
+    {
+      "id": "suda-business-postdoc-chendongyu-20261105",
+      "institution": "苏州大学商学院",
+      "region": "江苏",
+      "city": "苏州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "科研博士后 · 金融科技（陈冬宇）",
+      "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm",
+      "positionCode": "合作导师：陈冬宇",
+      "publishedAt": "2026-11-05",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "firstSeenAt": "2026-11-17T09:34:51+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "金融科技"
+      ],
+      "requirements": {
+        "education": "新近毕业的博士研究生，符合学校流动站招收条件；具体博士专业及进站获证时间待审核",
+        "freshGraduate": "未限定毕业届别；“新近毕业”未给年限，不自行解释为获博士3年内",
+        "ageLimit": 35,
+        "ageText": "一般35周岁以下",
+        "partyText": "要求良好政治素质，未单列党员身份",
+        "overseas": "欢迎国内外博士，境外学历认证时限未列，待确认",
+        "research": "具备良好编程和数据分析能力",
+        "employment": "科研博士后，在站一般3年；优秀者可经人才引进流程申请教师岗位，不保证留校",
+        "application": "导师邮箱投递简历和学术成果证明；正文明确长期有效、直至招满，无固定报名截止"
+      },
+      "remainingVacancies": "导师行原计划1人，非当前剩余名额；未确认针对本行的招满通知，当前空额待确认",
+      "evidence": [
+        {
+          "note": "11月17日实读11月5日官网招聘正文及陈冬宇导师行，核对方向、计划1人及成果/技能条件；正文明确长期招满即止，博士后单列。后续检索未找到可确认该行停招的通知。",
+          "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm"
+        }
+      ],
+      "summary": "金融科技科研博士后，原计划1人；一般35岁以下、新近毕业博士，具备良好编程和数据分析能力。长期招满即止，当前空额待核。"
+    },
+    {
+      "id": "suda-business-postdoc-hanjian-20261105",
+      "institution": "苏州大学商学院",
+      "region": "江苏",
+      "city": "苏州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "科研博士后 · 区域经济、产业创新（韩坚）",
+      "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm",
+      "positionCode": "合作导师：韩坚",
+      "publishedAt": "2026-11-05",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "firstSeenAt": "2026-11-17T09:34:51+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "区域经济、产业创新"
+      ],
+      "requirements": {
+        "education": "新近毕业的博士研究生，符合学校流动站招收条件；具体博士专业及进站获证时间待审核",
+        "freshGraduate": "未限定毕业届别；“新近毕业”未给年限，不自行解释为获博士3年内",
+        "ageLimit": 35,
+        "ageText": "一般35周岁以下",
+        "partyText": "要求良好政治素质，未单列党员身份",
+        "overseas": "欢迎国内外博士，境外学历认证时限未列，待确认",
+        "research": "熟练运用计量分析软件，须有一类或二类期刊发表成果；期刊认定目录待确认",
+        "employment": "科研博士后，在站一般3年；优秀者可经人才引进流程申请教师岗位，不保证留校",
+        "application": "导师邮箱投递简历和学术成果证明；正文明确长期有效、直至招满，无固定报名截止"
+      },
+      "remainingVacancies": "导师行原计划1人，非当前剩余名额；未确认针对本行的招满通知，当前空额待确认",
+      "evidence": [
+        {
+          "note": "11月17日实读11月5日官网招聘正文及韩坚导师行，核对方向、计划1人及成果/技能条件；正文明确长期招满即止，博士后单列。后续检索未找到可确认该行停招的通知。",
+          "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm"
+        }
+      ],
+      "summary": "区域经济、产业创新科研博士后，原计划1人；一般35岁以下、新近毕业博士，熟练运用计量分析软件，须有一类或二类期刊发表成果；期刊认定目录待确认。长期招满即止，当前空额待核。"
+    },
+    {
+      "id": "suda-business-postdoc-liuliang-20261105",
+      "institution": "苏州大学商学院",
+      "region": "江苏",
+      "city": "苏州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "科研博士后 · 金融学、经济学（刘亮）",
+      "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm",
+      "positionCode": "合作导师：刘亮",
+      "publishedAt": "2026-11-05",
+      "headcount": 2,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "firstSeenAt": "2026-11-17T09:34:51+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "金融学、经济学"
+      ],
+      "requirements": {
+        "education": "新近毕业的博士研究生，符合学校流动站招收条件；具体博士专业及进站获证时间待审核",
+        "freshGraduate": "未限定毕业届别；“新近毕业”未给年限，不自行解释为获博士3年内",
+        "ageLimit": 35,
+        "ageText": "一般35周岁以下",
+        "partyText": "要求良好政治素质，未单列党员身份",
+        "overseas": "欢迎国内外博士，境外学历认证时限未列，待确认",
+        "research": "经济学、金融学、统计学、管理学等理论基础；金融科技风险监管或科技金融投融资研究积累/设想；第一作者或导师一作本人二作CSSCI/SSCI/SCI高水平论文至少1篇。相关政策分析成果与定量方法能力优先",
+        "employment": "科研博士后，在站一般3年；优秀者可经人才引进流程申请教师岗位，不保证留校",
+        "application": "导师邮箱投递简历和学术成果证明；正文明确长期有效、直至招满，无固定报名截止"
+      },
+      "remainingVacancies": "导师行原计划2人，非当前剩余名额；未确认针对本行的招满通知，当前空额待确认",
+      "evidence": [
+        {
+          "note": "11月17日实读11月5日官网招聘正文及刘亮导师行，核对方向、计划2人及成果/技能条件；正文明确长期招满即止，博士后单列。后续检索未找到可确认该行停招的通知。",
+          "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm"
+        }
+      ],
+      "summary": "金融学、经济学科研博士后，原计划2人；一般35岁以下、新近毕业博士，经济学、金融学、统计学、管理学等理论基础；金融科技风险监管或科技金融投融资研究积累/设想；第一作者或导师一作本人二作CSSCI/SSCI/SCI高水平论文至少1篇。相关政策分析成果与定量方法能力优先。长期招满即止，当前空额待核。"
+    },
+    {
+      "id": "suda-business-postdoc-xutao-20261105",
+      "institution": "苏州大学商学院",
+      "region": "江苏",
+      "city": "苏州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "科研博士后 · 金融学（徐涛）",
+      "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm",
+      "positionCode": "合作导师：徐涛",
+      "publishedAt": "2026-11-05",
+      "headcount": 1,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "firstSeenAt": "2026-11-17T09:34:51+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "金融学"
+      ],
+      "requirements": {
+        "education": "新近毕业的博士研究生，符合学校流动站招收条件；具体博士专业及进站获证时间待审核",
+        "freshGraduate": "未限定毕业届别；“新近毕业”未给年限，不自行解释为获博士3年内",
+        "ageLimit": 35,
+        "ageText": "一般35周岁以下",
+        "partyText": "要求良好政治素质，未单列党员身份",
+        "overseas": "欢迎国内外博士，境外学历认证时限未列，待确认",
+        "research": "英语能力较强",
+        "employment": "科研博士后，在站一般3年；优秀者可经人才引进流程申请教师岗位，不保证留校",
+        "application": "导师邮箱投递简历和学术成果证明；正文明确长期有效、直至招满，无固定报名截止"
+      },
+      "remainingVacancies": "导师行原计划1人，非当前剩余名额；未确认针对本行的招满通知，当前空额待确认",
+      "evidence": [
+        {
+          "note": "11月17日实读11月5日官网招聘正文及徐涛导师行，核对方向、计划1人及成果/技能条件；正文明确长期招满即止，博士后单列。后续检索未找到可确认该行停招的通知。",
+          "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm"
+        }
+      ],
+      "summary": "金融学科研博士后，原计划1人；一般35岁以下、新近毕业博士，英语能力较强。长期招满即止，当前空额待核。"
+    },
+    {
+      "id": "suda-business-postdoc-zhangbin-20261105",
+      "institution": "苏州大学商学院",
+      "region": "江苏",
+      "city": "苏州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "科研博士后 · 产业经济、区域经济（张斌）",
+      "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm",
+      "positionCode": "合作导师：张斌",
+      "publishedAt": "2026-11-05",
+      "headcount": 3,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "firstSeenAt": "2026-11-17T09:34:51+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "产业经济、区域经济"
+      ],
+      "requirements": {
+        "education": "新近毕业的博士研究生，符合学校流动站招收条件；具体博士专业及进站获证时间待审核",
+        "freshGraduate": "未限定毕业届别；“新近毕业”未给年限，不自行解释为获博士3年内",
+        "ageLimit": 35,
+        "ageText": "一般35周岁以下",
+        "partyText": "要求良好政治素质，未单列党员身份",
+        "overseas": "欢迎国内外博士，境外学历认证时限未列，待确认",
+        "research": "科研基础扎实、研究兴趣浓厚",
+        "employment": "科研博士后，在站一般3年；优秀者可经人才引进流程申请教师岗位，不保证留校",
+        "application": "导师邮箱投递简历和学术成果证明；正文明确长期有效、直至招满，无固定报名截止"
+      },
+      "remainingVacancies": "导师行原计划3人，非当前剩余名额；未确认针对本行的招满通知，当前空额待确认",
+      "evidence": [
+        {
+          "note": "11月17日实读11月5日官网招聘正文及张斌导师行，核对方向、计划3人及成果/技能条件；正文明确长期招满即止，博士后单列。后续检索未找到可确认该行停招的通知。",
+          "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm"
+        }
+      ],
+      "summary": "产业经济、区域经济科研博士后，原计划3人；一般35岁以下、新近毕业博士，科研基础扎实、研究兴趣浓厚。长期招满即止，当前空额待核。"
+    },
+    {
+      "id": "jsit-business-20260416-announcement",
+      "institution": "江苏信息职业技术学院",
+      "region": "江苏",
+      "city": "无锡",
+      "type": "职业院校",
+      "kind": "faculty",
+      "title": "商学院博士专任教师 · A06/A17（正式岗位附件及空额待核）",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/4/16/art_78506_11758754.html",
+      "alternateUrls": [
+        "https://www.jsit.edu.cn/rsc/info/1091/2016.htm",
+        "https://xxgk.jsit.edu.cn/info/1041/6581.htm",
+        "https://www.jsit.edu.cn/rsc/info/1094/2012.htm"
+      ],
+      "publishedAt": "2026-04-16",
+      "headcount": null,
+      "deadline": "2026-12-23T16:00:00+08:00",
+      "rolling": true,
+      "verifiedLevel": "announcement",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "firstSeenAt": "2026-11-17T09:34:51+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济类（1月年度计划）",
+        "工商管理类、商务贸易类、财务财会类（1月年度计划）"
+      ],
+      "requirements": {
+        "education": "博士研究生及相应学位；1月计划列A06/A17，4月正式岗位附件尚不可读，须再次确认具体专业和对象",
+        "freshGraduate": "1月计划A06应届、A17不限；4月正文应届须12月31日前获证且仍无单位，2024/2025届及同期境外已认证未就业者可报应届岗；正式附件对应口径待核",
+        "ageLimit": 38,
+        "ageText": "公告为38周岁，即1988年1月1日之后出生",
+        "partyText": "正式正文复审材料列党员证明，1月商学院行未列党员条件；正式岗位表不可读，适用范围待确认，不判定免党员",
+        "overseas": "同期境外毕业人员须2026年12月31日前完成留服认证；专业对应由单位审核",
+        "research": "商学院具体科研成果条件及正式岗位附件待核",
+        "employment": "省教育厅主管全额拨款事业单位，聘用合同，最低服务3年",
+        "application": "省属事业单位平台4月20日09:00至12月23日16:00报名；招满即止；12月24日为初审截止，12月31日为获证/认证时限，均不是报名截止"
+      },
+      "remainingVacancies": "6月24日A06两人、A17一人入围体检；11月6日A17另有一人入围体检。9月14日已有首批拟聘公示，但名单附件403，不能认定具体岗位已招满或推算剩余人数",
+      "evidence": [
+        {
+          "note": "11月17日实读1月21日官网年度计划，商学院A06/A17均有经济类博士要求；年度计划不作为当前具体岗位已核验或经济学人数。",
+          "url": "https://www.jsit.edu.cn/rsc/info/1094/2012.htm"
+        },
+        {
+          "note": "实读省人社4月16日正式公告及校方4月17日正文，核对报名、应届、认证、年龄和招满条款；官方XLSX下载403、校方PDF下载需验证码，未完成正式岗位表核验。",
+          "url": "https://jshrss.jiangsu.gov.cn/art/2026/4/16/art_78506_11758754.html"
+        },
+        {
+          "note": "读取首批体检及11月6日第二批体检（含A17），体检不等于拟聘或招满。",
+          "url": "https://www.jsit.edu.cn/rsc/info/1091/2064.htm"
+        },
+        {
+          "note": "9月14日首批13人拟聘公示正文可读，具体名单XLSX下载403；保留空额待核，人数null，不自行相减。",
+          "url": "https://jshrss.jiangsu.gov.cn/art/2026/9/14/art_78506_11829628.html"
+        }
+      ],
+      "summary": "补录商学院经济类博士教师待核公告。报名12月23日16:00截止、招满即止，38岁；正式岗位附件、党员条件及当前空额待核，已有多批体检及拟聘进展，不计已核验具体名额。"
+    },
+    {
+      "id": "zdpi-autumn-2026-lead",
+      "institution": "浙江省发展规划研究院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "政府科研院所",
+      "kind": "faculty",
+      "title": "秋季科研岗位 · 经济及公共服务方向（官方图片正文待核）",
+      "url": "https://www.zdpi.org.cn/txtread.php?id=20063&sid=112005",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/443500.html"
+      ],
+      "publishedAt": null,
+      "headcount": null,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "lead",
+      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "firstSeenAt": "2026-11-17T09:34:51+08:00",
+      "sourceAuthority": "repost",
+      "affiliation": "母院为浙江省政府直属公益二类事业单位；转载称与院属全资企业签合同，具体用工主体须官方核实",
+      "majors": [
+        "区域/产业/财政/金融、能源经济（转载）",
+        "人口学、资源与环境经济学等（转载博士岗）"
+      ],
+      "requirements": {
+        "education": "转载部分岗位硕士及以上、博士优先；人口和公共服务岗标博士，未完成官方具体岗位核验",
+        "freshGraduate": "应届范围、获证及到岗时间待官方确认",
+        "ageText": "具体岗位年龄待官方图片正文确认",
+        "partyText": "党员条件待官方正文确认",
+        "overseas": "境外学历认证时限及专业对应待确认",
+        "research": "转载涉及国资产业、重大项目、能源经济、人口公共服务等研究，成果及经验门槛待官方确认",
+        "employment": "转载称与院属全资企业签劳动合同，不按母院隶属推定事业编",
+        "application": "官方公告为图片，图片请求405未实读；不同转载报名结束月份为11月或12月，无法核实真实截止，deadline=null、rolling=false"
+      },
+      "remainingVacancies": "官方具体岗位、原计划及当前空额均待确认，不采用转载综合人数",
+      "evidence": [
+        {
+          "note": "11月17日打开院官网秋季招聘公告，正文仅图片；图片下载HTTP405，未读到具体岗位正文，不标position。",
+          "url": "https://www.zdpi.org.cn/txtread.php?id=20063&sid=112005"
+        },
+        {
+          "note": "实读高才网11月6日转载：经济研究相关方向及人口/公共服务博士线索；正文称与院属全资企业签合同。其他转载结束月份不同，截止及官方条件均待核，保留lead、人数null。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/443500.html"
+        },
+        {
+          "note": "实读院情概况，确认母院为浙江省政府直属正厅级公益二类事业单位；此隶属不代表招聘合同为母院事业编。",
+          "url": "https://www.zdpi.org.cn/txtmm.php?titleName=%E9%99%A2%E6%83%85%E6%A6%82%E5%86%B5"
+        }
+      ],
+      "summary": "浙江政府直属研究院秋季招聘线索，含经济研究和人口公共服务博士方向；官方图片不可读，转载截止月份不一致、合同主体为院属企业待核，人数与截止均null。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
