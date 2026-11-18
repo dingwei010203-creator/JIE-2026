@@ -646,37 +646,6 @@
     "alternateUrls": []
   },
   {
-    "id": "auto-bc0ca98c8bcd0d",
-    "sourceId": "gd-szpu",
-    "institution": "深圳职业技术大学",
-    "region": "广东",
-    "city": "深圳",
-    "type": "职业院校",
-    "kind": "postdoc",
-    "title": "深圳职业技术大学博士后招聘公告（长期招聘） 05-21 2026",
-    "url": "https://www.szpu.edu.cn/info/1025/22744.htm",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-30T14:21:54+08:00",
-    "lastSeenAt": "2026-11-17T16:25:55+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "经济学院"
-    ],
-    "attachments": [],
-    "verificationIssues": [],
-    "contentHash": "cc2262b13757e452f1dbaa2f29a6ed0237d3b43f20c4ef4caa182c77bab502ca",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
     "id": "auto-29bd52b9fc984d",
     "sourceId": "gd-party-province",
     "institution": "中共广东省委党校",

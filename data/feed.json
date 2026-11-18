@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T16:27:55+08:00",
+  "generatedAt": "2026-11-18T09:45:49+08:00",
   "lastScanStartedAt": "2026-11-17T16:24:52+08:00",
   "lastScanCompletedAt": "2026-11-17T16:27:51+08:00",
-  "lastVerifiedAt": "2026-11-17T09:34:51+08:00",
+  "lastVerifiedAt": "2026-11-18T09:45:27+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -1900,7 +1900,7 @@
       "rolling": false,
       "headcount": 2,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-03T09:38:56+08:00",
+      "verifiedAt": "2026-11-18T09:45:27+08:00",
       "firstSeenAt": "2026-11-03T09:38:56+08:00",
       "majors": [
         "应用经济学",
@@ -1935,11 +1935,14 @@
         {
           "note": "已读人才类型和待遇表，C类青年英才40岁的一般年龄要求、放宽条件和10年服务期；未读到截止或滚动证据，deadline=null、rolling=false；补查未检得确认该岗剩余名额的公告。",
           "url": "https://www.zjyc.edu.cn/info/1028/21674.htm"
+        },
+        {
+          "note": "11月18日针对网页变更标记实读4月2日官网正文、岗位表序号5及人才类型/待遇/报名条款：数字经济博士2人及原条件未见实质变化；未列固定报名截止或滚动条款，仍为deadline=null、rolling=false。补查未确认停招或当前空额，不将重新展示视作新公告。",
+          "url": "https://www.zjyc.edu.cn/info/1028/21674.htm"
         }
       ],
       "summary": "补录4月具体岗位，数字经济教师原计划2名，接受应用经济学等博士。青年英才一般40岁内、C类服务期10年。11月2日为人事部页面展示日期；未明确截止或滚动条款，当前接收状态和空额待确认。",
-      "affiliation": "全日制本科独立学院；浙江农林大学与诸暨市合作共建、合作举办",
-      "reviewNeeded": true
+      "affiliation": "全日制本科独立学院；浙江农林大学与诸暨市合作共建、合作举办"
     },
     {
       "headcount": null,
@@ -2489,7 +2492,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-17T09:34:51+08:00",
+      "verifiedAt": "2026-11-18T09:45:27+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2553,10 +2556,13 @@
         {
           "note": "11月17日针对采集变更标记实读转载招聘全文，党员、12月31日报名与学历学位/留服认证条款未见实质变化；金华人社局原文仍不可访问。仅完成转载复核，维持lead、人数null，官方岗位表、停招与空额待核。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月18日针对变更标记实读转载全文，党员、12月31日报名与获证/认证条款未见实质变化；金华人社原文仍不可访问。维持lead、人数null，官方岗位表与停招/空额待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -3764,7 +3770,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-16T09:44:10+08:00",
+      "verifiedAt": "2026-11-18T09:45:27+08:00",
       "firstSeenAt": "2026-11-16T09:44:10+08:00",
       "majors": [
         "经济学、数字经济相关专业（据转载表）"
@@ -3789,10 +3795,13 @@
         {
           "note": "转载正文明确全年长期有效、计划动态更新，因此记录rolling线索、截止null；定向官网检索未找到可实读对应正式公告和岗位表，保留lead，不采用转载1人为已核实名额。",
           "url": "https://m.gaoxiaojob.com/announcement/detail/435339.html"
+        },
+        {
+          "note": "11月18日针对变更标记实读转载完整正文和数字经济/经济学具体行，35岁（含）、知名机构博士、英文授课及科研条件、长期有效未见实质变化。定向检索未找到可读对应官方岗位表，保持lead、人数null，当前空额待核。",
+          "url": "https://m.gaoxiaojob.com/announcement/detail/435339.html"
         }
       ],
-      "summary": "新增深大正式教师待核线索，转载为数字经济/经济学博士、35岁（含）、英文授课及科研条件，全年长期有效；单位官方岗位表和空额待核，保留lead、人数null。",
-      "reviewNeeded": true
+      "summary": "新增深大正式教师待核线索，转载为数字经济/经济学博士、35岁（含）、英文授课及科研条件，全年长期有效；单位官方岗位表和空额待核，保留lead、人数null。"
     },
     {
       "id": "suda-business-postdoc-chendongyu-20261105",
@@ -4108,6 +4117,98 @@
         }
       ],
       "summary": "浙江政府直属研究院秋季招聘线索，含经济研究和人口公共服务博士方向；官方图片不可读，转载截止月份不一致、合同主体为院属企业待核，人数与截止均null。"
+    },
+    {
+      "id": "szpu-econsocial-postdoc-20260521",
+      "institution": "深圳职业技术大学经济与社会发展研究院",
+      "region": "广东",
+      "city": "深圳",
+      "type": "职业院校",
+      "kind": "postdoc",
+      "title": "博士后 · 经济学等（经济与社会发展研究院）",
+      "positionCode": "经济与社会发展研究院博士后",
+      "url": "https://www.szpu.edu.cn/info/1025/22744.htm",
+      "publishedAt": "2026-05-21",
+      "headcount": 3,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-18T09:45:27+08:00",
+      "firstSeenAt": "2026-11-18T09:45:27+08:00",
+      "sourceAuthority": "official",
+      "affiliation": "高校下属研究院，归职业院校；深圳市博士后创新实践基地，与国内高校或研究院所合作",
+      "majors": [
+        "经济学",
+        "教育学、教育与人工智能、大数据分析、社会学"
+      ],
+      "requirements": {
+        "education": "取得博士学位3年内；具体博士学历及进站材料按联培单位审核",
+        "freshGraduate": "未限定毕业届别；已获博士学位，进站获证节点待确认",
+        "ageLimit": 35,
+        "ageText": "35周岁以下",
+        "partyText": "岗位表未单列党员条件",
+        "overseas": "境外学历认证材料及取得时限未单列，须确认联培单位要求",
+        "research": "本行其他要求列“无”；简历须含论文发表情况，不能据此推定无联培单位进站要求",
+        "employment": "博士后创新实践基地联培，工作地深圳南山区；高校科研博士后，不是政府科研院所正式岗位",
+        "application": "官网标题明确长期招聘，按岗位联系人邮箱投递PDF简历；未列固定报名截止和起始时刻"
+      },
+      "remainingVacancies": "3人为该行原计划，经济学与教育学、社会学等共享；当前剩余人数、联培名额及接收情况待确认",
+      "evidence": [
+        {
+          "note": "11月18日打开5月21日学校官方公告，直接读取所附《长期招聘20260706.pdf》，实读第18页并逐格核对：经济与社会发展研究院博士后3人，含经济学，35岁以下、获博士3年内，其他要求无。附件文件名不当作新发布日期。",
+          "url": "https://www.szpu.edu.cn/info/1025/22744.htm"
+        },
+        {
+          "note": "实读PDF应聘方式、基地与联培单位说明，官网题名明确长期招聘，无固定截止；定向检索未确认该行招满或更正，原计划不视为剩余名额。",
+          "url": "https://www.szpu.edu.cn/system/_content/download.jsp?owner=1950773726&urltype=news.DownloadAttachUrl&wbfileid=ED25271075684E3B5D38FE381B07EFF5"
+        }
+      ],
+      "summary": "补录官方旧公告中的经济学相关博士后具体行，原计划3人跨学科共享，35岁以下、获博士3年内；长期招聘无固定截止，当前空额及联培资格待核，单列博士后。"
+    },
+    {
+      "id": "nhei-postdoc-20261112-announcement",
+      "institution": "国家卫生健康委卫生发展研究中心",
+      "region": "北京",
+      "city": "北京",
+      "type": "政府科研院所",
+      "kind": "postdoc",
+      "title": "博士后 · 卫生健康政策研究（岗位需求附件待核）",
+      "url": "https://www.nhei.cn/nhei/c100048/202611/a7686e20a3fe4c88aaa8cd81ea4861ff.shtml",
+      "publishedAt": "2026-11-12",
+      "headcount": null,
+      "deadline": "2026-12-01T00:00:00+08:00",
+      "rolling": false,
+      "verifiedLevel": "announcement",
+      "verifiedAt": "2026-11-18T09:45:27+08:00",
+      "firstSeenAt": "2026-11-18T09:45:27+08:00",
+      "sourceAuthority": "official",
+      "affiliation": "国家卫生健康委政策研究和咨询机构；博士后单列",
+      "majors": [
+        "经济学相关岗位线索据转载索引，正式专业范围须读附件1"
+      ],
+      "requirements": {
+        "education": "官方索引正文为已获博士学位及学历不超过3年",
+        "freshGraduate": "未限定毕业届别，须已获博士学历学位；具体岗位进站时限待核",
+        "ageLimit": 35,
+        "ageText": "一般不超过35周岁",
+        "partyText": "正文要求良好政治素质，未单列党员；岗位特殊条件待附件确认",
+        "overseas": "境外学历认证及专业审核时限未明确，待确认",
+        "research": "有与研究方向相关的专业背景、较强科研能力；政策效应评估/公共卫生等方向见转载索引，完整专业、成果及岗位人数未核验",
+        "employment": "在站全职博士后研究，不能视为正式科研聘用岗位",
+        "application": "官方索引正文为11月30日24:00截止，规范记录为12月1日00:00+08:00；邮件提交附件2申请表，报名开始日未明确"
+      },
+      "remainingVacancies": "中心综合计划8人不作为经济学人数；官方具体岗位表未读到，原计划与当前空额均待核",
+      "evidence": [
+        {
+          "note": "11月18日读到官网搜索索引返回的完整公告正文，署11月12日，核对博士3年内、一般35岁、全职及11月30日24:00截止；11月17日为平台推广时间。原站反复超时、直接请求503，附件1未能读取，保持announcement、人数null。",
+          "url": "https://www.nhei.cn/nhei/c100048/202611/a7686e20a3fe4c88aaa8cd81ea4861ff.shtml"
+        },
+        {
+          "note": "转载职位索引提示政策效应评估和公共卫生等含经济学相关范围，但职位全文亦不可访问；不将索引一级学科和平台人数当作官方具体岗位核验。",
+          "url": "https://m.gaoxiaojob.com/job/detail/2398463.html"
+        }
+      ],
+      "summary": "新增11月12日官方博士后综合公告，11月30日24:00截止，博士获证3年内、一般35岁及全职；岗位附件不可读，经济学范围、人数及空额待核，不混入正式岗位。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
@@ -4751,37 +4852,6 @@
       "attachments": [],
       "verificationIssues": [],
       "contentHash": "ef66578a31ec73325c272c4ed20901ce8aaa49ea11402cef052806183afc6f64",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实",
-      "alternateUrls": []
-    },
-    {
-      "id": "auto-bc0ca98c8bcd0d",
-      "sourceId": "gd-szpu",
-      "institution": "深圳职业技术大学",
-      "region": "广东",
-      "city": "深圳",
-      "type": "职业院校",
-      "kind": "postdoc",
-      "title": "深圳职业技术大学博士后招聘公告（长期招聘） 05-21 2026",
-      "url": "https://www.szpu.edu.cn/info/1025/22744.htm",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-30T14:21:54+08:00",
-      "lastSeenAt": "2026-11-17T16:25:55+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "经济学院"
-      ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "cc2262b13757e452f1dbaa2f29a6ed0237d3b43f20c4ef4caa182c77bab502ca",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
