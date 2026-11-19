@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastVerifiedAt": "2026-11-18T09:45:27+08:00",
+  "lastVerifiedAt": "2026-11-19T09:13:46+08:00",
   "reviewPolicy": "具体岗位依据正文和岗位表；只读到综合计划或转载线索的不提升为已核验具体岗位。",
   "jobs": [
     {
@@ -2480,7 +2480,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-18T09:45:27+08:00",
+      "verifiedAt": "2026-11-19T09:13:46+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2547,6 +2547,10 @@
         },
         {
           "note": "11月18日针对变更标记实读转载全文，党员、12月31日报名与获证/认证条款未见实质变化；金华人社原文仍不可访问。维持lead、人数null，官方岗位表与停招/空额待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月19日针对采集变更标记实读转载全文，党员、12月31日报名及获证/留服认证条款未见实质变化；金华人社原文仍不可访问，未核实官方岗位表或停招/当前空额。维持lead、人数null。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
@@ -3758,7 +3762,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-18T09:45:27+08:00",
+      "verifiedAt": "2026-11-19T09:13:46+08:00",
       "firstSeenAt": "2026-11-16T09:44:10+08:00",
       "majors": [
         "经济学、数字经济相关专业（据转载表）"
@@ -3786,6 +3790,10 @@
         },
         {
           "note": "11月18日针对变更标记实读转载完整正文和数字经济/经济学具体行，35岁（含）、知名机构博士、英文授课及科研条件、长期有效未见实质变化。定向检索未找到可读对应官方岗位表，保持lead、人数null，当前空额待核。",
+          "url": "https://m.gaoxiaojob.com/announcement/detail/435339.html"
+        },
+        {
+          "note": "11月19日针对采集变更标记实读转载招聘正文、投递与聘用条款及数字经济/经济学具体岗位行，35岁（含）、博士机构、英文授课、科研条件和长期有效未见实质变化。定向官网检索仍未找到可读对应岗位表，维持lead、人数null及空额待核。",
           "url": "https://m.gaoxiaojob.com/announcement/detail/435339.html"
         }
       ],
@@ -4197,6 +4205,55 @@
         }
       ],
       "summary": "新增11月12日官方博士后综合公告，11月30日24:00截止，博士获证3年内、一般35岁及全职；岗位附件不可读，经济学范围、人数及空额待核，不混入正式岗位。"
+    },
+    {
+      "id": "ruc-econ-econometrics-2027-lead",
+      "institution": "中国人民大学经济学院",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "教师岗位1 · 计量经济学（官方岗位待核）",
+      "positionCode": "转载：经济学院教师岗位1",
+      "url": "https://www.gaoxiaojob.com/job/detail/2394086.html",
+      "alternateUrls": [
+        "https://zhaopin.ruc.edu.cn/zp.html#/notice/hjev-vUr51U2bqPsQAPGVlvyR9Q",
+        "https://www.gaoxiaojob.com/announcement/detail/445046.html"
+      ],
+      "publishedAt": "2026-11-12",
+      "headcount": null,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "verifiedAt": "2026-11-19T09:13:46+08:00",
+      "firstSeenAt": "2026-11-19T09:13:46+08:00",
+      "sourceAuthority": "repost",
+      "majors": [
+        "理论经济学、应用经济学（转载一级学科）",
+        "计量经济学研究方向（转载岗位正文）"
+      ],
+      "requirements": {
+        "education": "转载岗位要求博士研究生，正式学历学位与获证时限待核",
+        "freshGraduate": "转载正文对象为调动人员、博士后出站人员、海外留学回国人员等；不能用FAQ“应往届均可”推定本届博士符合，港澳学历适用待官方审核",
+        "ageText": "具体岗位年龄未列，待官方确认",
+        "partyText": "转载列政治方向和师德要求，未单列党员身份，正式条件待核",
+        "overseas": "境外学历认证时限、海外留学回国人员口径及港澳适用待确认",
+        "research": "从事计量经济学方向，具备扎实理论基础和较强教学科研能力；具体成果门槛待核，不推定满足",
+        "employment": "转载为事业编制教师；正式编制、聘期考核和校区安排待官方岗位核验",
+        "application": "转载具体岗位正文明确滚动招聘、分批面试试讲、招满即止；人才招聘网提交。平台元数据列12月31日，但正文未确认固定报名截止，deadline=null。11月12日为平台职位发布日，总公告落款11月4日"
+      },
+      "remainingVacancies": "转载具体行称1人，官方岗位表未实读，不计已核实名额；当前空额和接收状态待确认",
+      "evidence": [
+        {
+          "note": "11月19日实读具体职位正文：经济学院教师岗位1，计量经济学方向，博士及调动/博士后出站/海外留学回国人员等对象，正文有滚动招满条款。未采用平台FAQ或12月31日元数据认定应届资格和固定截止。",
+          "url": "https://www.gaoxiaojob.com/job/detail/2394086.html"
+        },
+        {
+          "note": "实读2027招聘转载总公告，署11月4日并定位官方人才招聘网；官方对应动态页面无可读正文，人事部可读列表仍展示上年度2026通知，未将旧文套入新岗。保持lead、人数null，未确认具体岗位更正或招满。",
+          "url": "https://zhaopin.ruc.edu.cn/zp.html#/notice/hjev-vUr51U2bqPsQAPGVlvyR9Q"
+        }
+      ],
+      "summary": "新增2027年度计量经济学教师待核线索，转载岗位对象为调动/博士后出站/海外留学回国人员等、滚动招满；官方岗位不可读，资格、空额待核，人数和固定截止null。"
     }
   ]
 }
