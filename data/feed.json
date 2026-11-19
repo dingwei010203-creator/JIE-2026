@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T09:14:12+08:00",
-  "lastScanStartedAt": "2026-11-18T15:53:01+08:00",
-  "lastScanCompletedAt": "2026-11-18T15:55:59+08:00",
+  "generatedAt": "2026-11-19T15:53:56+08:00",
+  "lastScanStartedAt": "2026-11-19T15:50:35+08:00",
+  "lastScanCompletedAt": "2026-11-19T15:53:56+08:00",
   "lastVerifiedAt": "2026-11-19T09:13:46+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
     "attempted": 79,
-    "ok": 33,
-    "partial": 6,
-    "failed": 40,
+    "ok": 32,
+    "partial": 8,
+    "failed": 39,
     "unattempted": 0
   },
   "coverageNote": "来源状态只反映本次已配置入口扫描；不代表四地所有单位或所有历史页已穷尽。自动线索不计入已核验岗位。",
@@ -595,7 +595,8 @@
       ],
       "summary": "全年招聘公告包含理论与应用经济学。全校151人的总计划未分摊为经济学名额，需继续核对具体岗位和人才层次。",
       "sourceId": "zj-zufe",
-      "affiliation": "浙江省属公办高校"
+      "affiliation": "浙江省属公办高校",
+      "reviewNeeded": true
     },
     {
       "id": "gd-party-J02",
@@ -1703,7 +1704,8 @@
         }
       ],
       "summary": "已核实接受经济学博士的专职研究员公告；跨学科计划8名，未单列经济学人数。未明确报名截止和滚动条款，当前接收状态需确认；境外认证最迟须在拟聘公示前提供。",
-      "affiliation": "浙江财经大学校内实验室，非政府直属科研院所"
+      "affiliation": "浙江财经大学校内实验室，非政府直属科研院所",
+      "reviewNeeded": true
     },
     {
       "institution": "中国人民大学国际学院（苏州研究院）",
@@ -2566,7 +2568,8 @@
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
+      "reviewNeeded": true
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -4545,42 +4548,6 @@
       "alternateUrls": []
     },
     {
-      "id": "auto-57db2f6addea78",
-      "sourceId": "gd-gz-party",
-      "institution": "中共广州市委党校",
-      "region": "广东",
-      "city": "广州",
-      "type": "党校",
-      "kind": "faculty",
-      "title": "中共广州市委党校（广州行政学院）2026年公开招聘专业技术人员公告",
-      "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202601/t20260127_10520.html",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:13:46+08:00",
-      "lastSeenAt": "2026-11-18T15:53:11+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        " | 公共管理教研部 | 1-2 | 教学科研岗 | 从事人口学领域相关专业教学、科研、决策咨询工作 | 专业技术岗 | 十级 | 1.0 | 研究生博士 | 人口学（A030302）；人口、资源与环境经济学（A020106） | 不限 | 否 |  | 1.近5年(2021年1月至报名首日)在CSSCI期刊（含扩展版）发表不少于2篇学术论文，其中至少1篇为第一作者（含导师一作且本人二作）；\n2.中共党员(含中共预备党员)。\n"
-      ],
-      "attachments": [
-        {
-          "label": "6年公开招聘专业技术人员岗位需求表.xls",
-          "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202601/W020260127600227666270.xls"
-        }
-      ],
-      "verificationIssues": [],
-      "contentHash": "0916a6bdd1ff6619803a1dc4ddf79ce3b82cf8b75c37565f601bd8a1b5d5519f",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实",
-      "alternateUrls": []
-    },
-    {
       "id": "auto-880042515c8e1f",
       "sourceId": "gd-hrss",
       "institution": "单位详见原公告",
@@ -4620,15 +4587,15 @@
       "alternateUrls": []
     },
     {
-      "id": "auto-c914e795d10963",
-      "sourceId": "gd-hrss",
-      "institution": "单位详见原公告",
+      "id": "auto-57db2f6addea78",
+      "sourceId": "gd-gz-party",
+      "institution": "中共广州市委党校",
       "region": "广东",
-      "city": "",
-      "type": "综合招聘平台",
+      "city": "广州",
+      "type": "党校",
       "kind": "faculty",
-      "title": "广东石油化工学院2026年公开招聘辅导员（第二批）公告",
-      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4949166.html",
+      "title": "中共广州市委党校（广州行政学院）2026年公开招聘专业技术人员公告",
+      "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202601/t20260127_10520.html",
       "publishedAt": null,
       "deadline": null,
       "rolling": false,
@@ -4636,25 +4603,21 @@
       "majors": [],
       "verifiedLevel": "lead",
       "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:14:13+08:00",
-      "lastSeenAt": "2026-11-18T15:53:26+08:00",
+      "firstSeenAt": "2026-10-29T12:13:46+08:00",
+      "lastSeenAt": "2026-11-19T15:50:45+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
-        "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（https://www.gdupt.edu.cn/）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
-        "4.国（境）内人员须于报名截止日前取得相应的毕业证书、学位证书；港澳学习、留学回国人员须于报名截止日前取得教育部中国留学服务中心境外学历、学位认证书。",
-        "（一）应聘人员年龄及工作经历计算至报名截止日。"
+        " | 公共管理教研部 | 1-2 | 教学科研岗 | 从事人口学领域相关专业教学、科研、决策咨询工作 | 专业技术岗 | 十级 | 1.0 | 研究生博士 | 人口学（A030302）；人口、资源与环境经济学（A020106） | 不限 | 否 |  | 1.近5年(2021年1月至报名首日)在CSSCI期刊（含扩展版）发表不少于2篇学术论文，其中至少1篇为第一作者（含导师一作且本人二作）；\n2.中共党员(含中共预备党员)。\n"
       ],
       "attachments": [
         {
-          "label": "附件：1.广东石油化工学院2026年公开招聘辅导员（第二批）岗位表",
-          "url": "https://hrss.gd.gov.cn/attachment/0/623/623882/4949166.xls"
+          "label": "6年公开招聘专业技术人员岗位需求表.xls",
+          "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202601/W020260127600227666270.xls"
         }
       ],
-      "verificationIssues": [
-        "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
-      ],
-      "contentHash": "e32ff2fc89bec0bde8b897ee9389c5348c04d4ac9cf787cb7e0f7deb0bc298b7",
+      "verificationIssues": [],
+      "contentHash": "0916a6bdd1ff6619803a1dc4ddf79ce3b82cf8b75c37565f601bd8a1b5d5519f",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
@@ -4677,7 +4640,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:14:27+08:00",
-      "lastSeenAt": "2026-11-18T15:53:37+08:00",
+      "lastSeenAt": "2026-11-19T15:51:14+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4717,7 +4680,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:14:40+08:00",
-      "lastSeenAt": "2026-11-18T15:53:52+08:00",
+      "lastSeenAt": "2026-11-19T15:51:32+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4751,7 +4714,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:14:44+08:00",
-      "lastSeenAt": "2026-11-18T15:53:53+08:00",
+      "lastSeenAt": "2026-11-19T15:51:34+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4782,7 +4745,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-30T14:21:53+08:00",
-      "lastSeenAt": "2026-11-18T15:53:56+08:00",
+      "lastSeenAt": "2026-11-19T15:51:36+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4794,6 +4757,80 @@
       "attachments": [],
       "verificationIssues": [],
       "contentHash": "ef66578a31ec73325c272c4ed20901ce8aaa49ea11402cef052806183afc6f64",
+      "sourceAuthority": "official",
+      "remainingVacancies": "未核实",
+      "alternateUrls": []
+    },
+    {
+      "id": "auto-29bd52b9fc984d",
+      "sourceId": "gd-party-province",
+      "institution": "中共广东省委党校",
+      "region": "广东",
+      "city": "广州",
+      "type": "党校",
+      "kind": "faculty",
+      "title": "23 2026-04 广东省云浮市“百万英才汇南粤”中共云浮市委党校招聘紧缺人才公告",
+      "url": "https://www.yunfu.gov.cn/rsj/zx/tzgg/content/post_2005412.html",
+      "publishedAt": null,
+      "deadline": null,
+      "rolling": false,
+      "headcount": null,
+      "majors": [],
+      "verifiedLevel": "lead",
+      "verifiedAt": null,
+      "firstSeenAt": "2026-10-30T14:21:50+08:00",
+      "lastSeenAt": "2026-11-19T15:51:44+08:00",
+      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+      "requirements": {},
+      "evidenceHints": [
+        "（一）报名方式及时间",
+        "采用电子邮件线上报名方式，时间为2026年4月27日至2026年6月20日。电子邮箱：YF8936975＠163.com，并请在邮件主题注明“招考岗位名称+姓名”（如“马克思主义哲学专业教师+张三”）。",
+        "根据岗位要求的资格条件，对报名人员提交的报名信息及印证材料进行资格审查，资格审查时间为2026年6月22日至6月26日。资格审查合格的人员均参加线上面谈，资格审查结果、线上面谈具体时间及相关要求将另行通知。线上面谈重点了解报名人员个人基本情况、科研成果情况，并考察其政治意识、责任意识、逻辑思维能力、语言表达等综合素质。线上面谈评估成绩满分为100分，合格分数线为70分，低于合格分数线的考生不得进入下一环节。",
+        "ICP备案：粤09015554号-1 公安备案：粤公网安备 44530202000010号 网站标识码：4453000050"
+      ],
+      "attachments": [],
+      "verificationIssues": [],
+      "contentHash": "b517a6be5b7a24ce7e3eb7ff5df4a714da8834b7a7bfd7334cdc7c53cdaf9dc7",
+      "sourceAuthority": "official",
+      "remainingVacancies": "未核实",
+      "alternateUrls": []
+    },
+    {
+      "id": "auto-c914e795d10963",
+      "sourceId": "gd-hrss",
+      "institution": "单位详见原公告",
+      "region": "广东",
+      "city": "",
+      "type": "综合招聘平台",
+      "kind": "faculty",
+      "title": "广东石油化工学院2026年公开招聘辅导员（第二批）公告",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4949166.html",
+      "publishedAt": null,
+      "deadline": null,
+      "rolling": false,
+      "headcount": null,
+      "majors": [],
+      "verifiedLevel": "lead",
+      "verifiedAt": null,
+      "firstSeenAt": "2026-10-29T12:14:13+08:00",
+      "lastSeenAt": "2026-11-19T15:51:29+08:00",
+      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+      "requirements": {},
+      "evidenceHints": [
+        "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（https://www.gdupt.edu.cn/）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
+        "4.国（境）内人员须于报名截止日前取得相应的毕业证书、学位证书；港澳学习、留学回国人员须于报名截止日前取得教育部中国留学服务中心境外学历、学位认证书。",
+        "（一）应聘人员年龄及工作经历计算至报名截止日。"
+      ],
+      "attachments": [
+        {
+          "label": "附件：1.广东石油化工学院2026年公开招聘辅导员（第二批）岗位表",
+          "url": "https://hrss.gd.gov.cn/attachment/0/623/623882/4949166.xls"
+        }
+      ],
+      "verificationIssues": [
+        "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
+      ],
+      "contentHash": "e32ff2fc89bec0bde8b897ee9389c5348c04d4ac9cf787cb7e0f7deb0bc298b7",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
@@ -4816,7 +4853,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-11-09T15:06:45+08:00",
-      "lastSeenAt": "2026-11-18T15:53:49+08:00",
+      "lastSeenAt": "2026-11-19T15:51:32+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4859,7 +4896,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:14:43+08:00",
-      "lastSeenAt": "2026-11-18T15:53:53+08:00",
+      "lastSeenAt": "2026-11-19T15:51:38+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4895,7 +4932,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:15:26+08:00",
-      "lastSeenAt": "2026-11-18T15:54:04+08:00",
+      "lastSeenAt": "2026-11-19T15:51:50+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4909,40 +4946,6 @@
       ],
       "verificationIssues": [],
       "contentHash": "dc84c445fdba1c6eab64b9434da9dcde147d9be137f6fc1f76e3ac73ce6ae80e",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实",
-      "alternateUrls": []
-    },
-    {
-      "id": "auto-29bd52b9fc984d",
-      "sourceId": "gd-party-province",
-      "institution": "中共广东省委党校",
-      "region": "广东",
-      "city": "广州",
-      "type": "党校",
-      "kind": "faculty",
-      "title": "23 2026-04 广东省云浮市“百万英才汇南粤”中共云浮市委党校招聘紧缺人才公告",
-      "url": "https://www.yunfu.gov.cn/rsj/zx/tzgg/content/post_2005412.html",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-30T14:21:50+08:00",
-      "lastSeenAt": "2026-11-18T15:54:16+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "（一）报名方式及时间",
-        "采用电子邮件线上报名方式，时间为2026年4月27日至2026年6月20日。电子邮箱：YF8936975＠163.com，并请在邮件主题注明“招考岗位名称+姓名”（如“马克思主义哲学专业教师+张三”）。",
-        "根据岗位要求的资格条件，对报名人员提交的报名信息及印证材料进行资格审查，资格审查时间为2026年6月22日至6月26日。资格审查合格的人员均参加线上面谈，资格审查结果、线上面谈具体时间及相关要求将另行通知。线上面谈重点了解报名人员个人基本情况、科研成果情况，并考察其政治意识、责任意识、逻辑思维能力、语言表达等综合素质。线上面谈评估成绩满分为100分，合格分数线为70分，低于合格分数线的考生不得进入下一环节。",
-        "ICP备案：粤09015554号-1 公安备案：粤公网安备 44530202000010号 网站标识码：4453000050"
-      ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "b517a6be5b7a24ce7e3eb7ff5df4a714da8834b7a7bfd7334cdc7c53cdaf9dc7",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
@@ -4965,7 +4968,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:15:43+08:00",
-      "lastSeenAt": "2026-11-18T15:54:18+08:00",
+      "lastSeenAt": "2026-11-19T15:52:05+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -4975,38 +4978,6 @@
       "attachments": [],
       "verificationIssues": [],
       "contentHash": "724b6eafee5c348c9fbf789e86bd06544179168e6f1674864910096d9dfb1ad0",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实",
-      "alternateUrls": []
-    },
-    {
-      "id": "auto-7b53db43ebf005",
-      "sourceId": "gd-gdufs",
-      "institution": "广东外语外贸大学",
-      "region": "广东",
-      "city": "广州",
-      "type": "普通高校",
-      "kind": "postdoc",
-      "title": "广东外语外贸大学2026年招聘师资博士后研究...",
-      "url": "https://rsc.gdufs.edu.cn/info/1083/12549.htm",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:15:07+08:00",
-      "lastSeenAt": "2026-11-18T15:54:10+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "我校获批设有外国语言文学博士后科研流动站、应用经济学博士后科研流动站和法学博士后科研流动站。学校现有33个外语语种，是华南地区外语语种最多的学校；2020年我校外国语言文学博士后科研流动站在全国博士后综合评估工作中被人社部评为“优秀”等次。学校应用经济学学科为广东省攀峰重点学科、广东省“冲补强”提升计划重点学科。法学专业被省教育厅批准为广东省优势重点学科，于2019年入选首批国家级一流本科专业建设点。",
-        "外国语言文学、应用语言学、翻译学、法学、国别与区域研究、比较文化研究、应用经济学、全球经济治理、金融学等。（具体招收单位详见附件1）"
-      ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "953842bb1225e7927b9433caee0285eac7bfc5ebb977d12b2bfd254e6d30c33a",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
@@ -5029,7 +5000,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-30T14:22:19+08:00",
-      "lastSeenAt": "2026-11-18T15:54:22+08:00",
+      "lastSeenAt": "2026-11-19T15:52:07+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -5055,6 +5026,38 @@
       "alternateUrls": []
     },
     {
+      "id": "auto-7b53db43ebf005",
+      "sourceId": "gd-gdufs",
+      "institution": "广东外语外贸大学",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "广东外语外贸大学2026年招聘师资博士后研究...",
+      "url": "https://rsc.gdufs.edu.cn/info/1083/12549.htm",
+      "publishedAt": null,
+      "deadline": null,
+      "rolling": false,
+      "headcount": null,
+      "majors": [],
+      "verifiedLevel": "lead",
+      "verifiedAt": null,
+      "firstSeenAt": "2026-10-29T12:15:07+08:00",
+      "lastSeenAt": "2026-11-19T15:51:58+08:00",
+      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+      "requirements": {},
+      "evidenceHints": [
+        "我校获批设有外国语言文学博士后科研流动站、应用经济学博士后科研流动站和法学博士后科研流动站。学校现有33个外语语种，是华南地区外语语种最多的学校；2020年我校外国语言文学博士后科研流动站在全国博士后综合评估工作中被人社部评为“优秀”等次。学校应用经济学学科为广东省攀峰重点学科、广东省“冲补强”提升计划重点学科。法学专业被省教育厅批准为广东省优势重点学科，于2019年入选首批国家级一流本科专业建设点。",
+        "外国语言文学、应用语言学、翻译学、法学、国别与区域研究、比较文化研究、应用经济学、全球经济治理、金融学等。（具体招收单位详见附件1）"
+      ],
+      "attachments": [],
+      "verificationIssues": [],
+      "contentHash": "953842bb1225e7927b9433caee0285eac7bfc5ebb977d12b2bfd254e6d30c33a",
+      "sourceAuthority": "official",
+      "remainingVacancies": "未核实",
+      "alternateUrls": []
+    },
+    {
       "id": "auto-cbabdedc61f24c",
       "sourceId": "bj-amr",
       "institution": "中国宏观经济研究院",
@@ -5072,7 +5075,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:15:58+08:00",
-      "lastSeenAt": "2026-11-18T15:54:25+08:00",
+      "lastSeenAt": "2026-11-19T15:52:14+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -5105,7 +5108,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-11-07T14:31:45+08:00",
-      "lastSeenAt": "2026-11-18T15:54:28+08:00",
+      "lastSeenAt": "2026-11-19T15:52:20+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -5115,72 +5118,6 @@
       "attachments": [],
       "verificationIssues": [],
       "contentHash": "a496c0de6b43c1ea33c1e97405d7f7e89d3c4d523267769e67742d3168e95ccb",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实",
-      "alternateUrls": []
-    },
-    {
-      "id": "auto-d0e9810124d47a",
-      "sourceId": "zj-zufe",
-      "institution": "浙江财经大学",
-      "region": "浙江",
-      "city": "杭州",
-      "type": "普通高校",
-      "kind": "postdoc",
-      "title": "浙江财经大学2026年博士后招聘公告2026-04-20",
-      "url": "https://rsc.zufe.edu.cn/info/1073/3738.htm",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:16:32+08:00",
-      "lastSeenAt": "2026-11-18T15:54:40+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "浙江财经大学是浙江省“双一流196工程”院校，坐落于中国历史文化名城杭州。其前身是创建于1974年的浙江财政银行学校，此后历经浙江财政学校、浙江财经学院等时期，2013年更名为浙江财经大学。半个世纪办学历程中，学校始终秉承“进德修业、与时偕行”校训，“明德笃学、抱朴守真、崇实创新、经世济民”精神，逐步发展成为一所特色鲜明、英彦蔚起、声誉日隆的省高水平大学建设高校。",
-        "应用经济学博士后科研流动站",
-        "我校一级学科博士学位授权点还包括工商管理学、公共管理学，与应用经济学、统计学有学科交叉的管理学博士也可以申请进入上述流动站，详见招收需求。",
-        "1、应用经济学博士后科研流动站2026年招收需求（点击链接）"
-      ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "5ad49bc31634a62a60b6d9ecd7300e8edacbbc6fd7b85c0385ce1d9677f0cf71",
-      "sourceAuthority": "official",
-      "remainingVacancies": "未核实",
-      "alternateUrls": []
-    },
-    {
-      "id": "auto-4d559ae7199ac5",
-      "sourceId": "zj-zufe",
-      "institution": "浙江财经大学",
-      "region": "浙江",
-      "city": "杭州",
-      "type": "普通高校",
-      "kind": "faculty",
-      "title": "浙江财经大学高等研究院2026年人才引进公告2026-04-13",
-      "url": "https://rsc.zufe.edu.cn/info/1073/3709.htm",
-      "publishedAt": null,
-      "deadline": null,
-      "rolling": false,
-      "headcount": null,
-      "majors": [],
-      "verifiedLevel": "lead",
-      "verifiedAt": null,
-      "firstSeenAt": "2026-10-29T12:16:41+08:00",
-      "lastSeenAt": "2026-11-18T15:54:44+08:00",
-      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-      "requirements": {},
-      "evidenceHints": [
-        "浙江财经大学高等研究院立足国家与浙江重大战略，聚焦智能经济（数字经济）、数智管理、人工智能、科技金融等前沿交叉领域，探索创新性科学理论、方法和技术。以交叉性、前沿性、国际化为建设宗旨，致力践行“孵化杰出人才、产出重大成果、推动文明进步”三大使命。",
-        "重点面向智能经济（数字经济）、数智管理、人工智能、科技金融、数智财税、数智财会、数据工程与科学、创新管理等前沿研究领域，不限于某一具体学科。"
-      ],
-      "attachments": [],
-      "verificationIssues": [],
-      "contentHash": "b705dcbbff5306f3bbc436c19eed3aa3c4ace0c26666b4d8c48dd50faed21cd0",
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
@@ -5203,7 +5140,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:16:19+08:00",
-      "lastSeenAt": "2026-11-18T15:54:38+08:00",
+      "lastSeenAt": "2026-11-19T15:52:27+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -5242,7 +5179,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:16:32+08:00",
-      "lastSeenAt": "2026-11-18T15:54:43+08:00",
+      "lastSeenAt": "2026-11-19T15:52:32+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -5281,7 +5218,7 @@
       "verifiedLevel": "lead",
       "verifiedAt": null,
       "firstSeenAt": "2026-10-29T12:16:42+08:00",
-      "lastSeenAt": "2026-11-18T15:54:46+08:00",
+      "lastSeenAt": "2026-11-19T15:52:35+08:00",
       "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
       "requirements": {},
       "evidenceHints": [
@@ -5301,6 +5238,72 @@
       "sourceAuthority": "official",
       "remainingVacancies": "未核实",
       "alternateUrls": []
+    },
+    {
+      "id": "auto-d0e9810124d47a",
+      "sourceId": "zj-zufe",
+      "institution": "浙江财经大学",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "浙江财经大学2026年博士后招聘公告2026-04-20",
+      "url": "https://rsc.zufe.edu.cn/info/1073/3738.htm",
+      "publishedAt": null,
+      "deadline": null,
+      "rolling": false,
+      "headcount": null,
+      "majors": [],
+      "verifiedLevel": "lead",
+      "verifiedAt": null,
+      "firstSeenAt": "2026-10-29T12:16:32+08:00",
+      "lastSeenAt": "2026-11-19T15:52:37+08:00",
+      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+      "requirements": {},
+      "evidenceHints": [
+        "浙江财经大学是浙江省“双一流196工程”院校，坐落于中国历史文化名城杭州。其前身是创建于1974年的浙江财政银行学校，此后历经浙江财政学校、浙江财经学院等时期，2013年更名为浙江财经大学。半个世纪办学历程中，学校始终秉承“进德修业、与时偕行”校训，“明德笃学、抱朴守真、崇实创新、经世济民”精神，逐步发展成为一所特色鲜明、英彦蔚起、声誉日隆的省高水平大学建设高校。",
+        "应用经济学博士后科研流动站",
+        "我校一级学科博士学位授权点还包括工商管理学、公共管理学，与应用经济学、统计学有学科交叉的管理学博士也可以申请进入上述流动站，详见招收需求。",
+        "1、应用经济学博士后科研流动站2026年招收需求（点击链接）"
+      ],
+      "attachments": [],
+      "verificationIssues": [],
+      "contentHash": "6e2fd3c7c660133b252c9831a0ad808b96ab03c3a37e1738af4f73305dedc8c6",
+      "sourceAuthority": "official",
+      "remainingVacancies": "未核实",
+      "alternateUrls": []
+    },
+    {
+      "id": "auto-4d559ae7199ac5",
+      "sourceId": "zj-zufe",
+      "institution": "浙江财经大学",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "浙江财经大学高等研究院2026年人才引进公告2026-04-13",
+      "url": "https://rsc.zufe.edu.cn/info/1073/3709.htm",
+      "publishedAt": null,
+      "deadline": null,
+      "rolling": false,
+      "headcount": null,
+      "majors": [],
+      "verifiedLevel": "lead",
+      "verifiedAt": null,
+      "firstSeenAt": "2026-10-29T12:16:41+08:00",
+      "lastSeenAt": "2026-11-19T15:52:40+08:00",
+      "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+      "requirements": {},
+      "evidenceHints": [
+        "浙江财经大学高等研究院立足国家与浙江重大战略，聚焦智能经济（数字经济）、数智管理、人工智能、科技金融等前沿交叉领域，探索创新性科学理论、方法和技术。以交叉性、前沿性、国际化为建设宗旨，致力践行“孵化杰出人才、产出重大成果、推动文明进步”三大使命。",
+        "重点面向智能经济（数字经济）、数智管理、人工智能、科技金融、数智财税、数智财会、数据工程与科学、创新管理等前沿研究领域，不限于某一具体学科。"
+      ],
+      "attachments": [],
+      "verificationIssues": [],
+      "contentHash": "41ce094b8d34e4f54acad06d30eafb57565b83ecd2e2bba2ec5dc4e855a684e2",
+      "sourceAuthority": "official",
+      "remainingVacancies": "未核实",
+      "alternateUrls": []
     }
   ],
   "sourceHealth": [
@@ -5313,7 +5316,7 @@
       "url": "https://drc.sz.gov.cn/tzgg/",
       "priority": 100,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5331,7 +5334,7 @@
       "url": "https://www.gdass.org/Tzgg.shtml",
       "priority": 100,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
       "status": "ok",
       "announcementsRead": 1,
       "leadsFound": 0,
@@ -5348,7 +5351,7 @@
       "url": "https://gdyjzx.gd.gov.cn/",
       "priority": 100,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5365,30 +5368,13 @@
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/",
       "priority": 100,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
       "status": "ok",
       "announcementsRead": 2,
       "leadsFound": 1,
       "errors": [],
       "finalUrl": "https://www.gzswdx.gov.cn/bszn/xyzp/",
       "scope": "访问1个入口，读取2则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "gd-hrss",
-      "institution": "广东省人社厅事业单位招聘",
-      "region": "广东",
-      "city": "",
-      "type": "综合招聘平台",
-      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/",
-      "priority": 100,
-      "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
-      "status": "ok",
-      "announcementsRead": 6,
-      "leadsFound": 3,
-      "errors": [],
-      "finalUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/",
-      "scope": "访问1个入口，读取6则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "gd-party-province",
@@ -5399,7 +5385,7 @@
       "url": "https://www.gddx.gov.cn/",
       "priority": 100,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
       "status": "partial",
       "announcementsRead": 2,
       "leadsFound": 2,
@@ -5413,6 +5399,43 @@
       "scope": "访问2个入口，读取2则公告；入口扫描不代表该单位已穷尽"
     },
     {
+      "id": "gd-hrss",
+      "institution": "广东省人社厅事业单位招聘",
+      "region": "广东",
+      "city": "",
+      "type": "综合招聘平台",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/",
+      "priority": 100,
+      "mode": "listing",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
+      "status": "partial",
+      "announcementsRead": 4,
+      "leadsFound": 2,
+      "errors": [
+        "广东省事业单位2026年集中公开招聘高校毕业生公告: The read operation timed out",
+        "广州中医药大学第三附属医院2026年第一批公开招聘工作人员公告: The read operation timed out"
+      ],
+      "finalUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/",
+      "scope": "访问1个入口，读取4则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "gd-gdaas-econ",
+      "institution": "广东省农科院农业经济与信息研究所",
+      "region": "广东",
+      "city": "广州",
+      "type": "政府科研院所",
+      "url": "https://www.gdaas.cn/iard/tzgg/index.html",
+      "priority": 99,
+      "mode": "listing",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
+      "status": "ok",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [],
+      "finalUrl": "https://www.gdaas.cn/iard/tzgg/index.html",
+      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
       "id": "gd-party-36",
       "institution": "深圳市委党校",
       "region": "广东",
@@ -5421,7 +5444,7 @@
       "url": "http://www.szps.gov.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
+      "checkedAt": "2026-11-19T15:50:35+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5439,7 +5462,7 @@
       "url": "http://www.zhswdx.cn",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:02+08:00",
+      "checkedAt": "2026-11-19T15:50:36+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5447,23 +5470,6 @@
         "robots.txt access restriction: HTTP 403"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "gd-gdaas-econ",
-      "institution": "广东省农科院农业经济与信息研究所",
-      "region": "广东",
-      "city": "广州",
-      "type": "政府科研院所",
-      "url": "https://www.gdaas.cn/iard/tzgg/index.html",
-      "priority": 99,
-      "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:01+08:00",
-      "status": "ok",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://www.gdaas.cn/iard/tzgg/index.html",
-      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "gd-party-42",
@@ -5474,7 +5480,7 @@
       "url": "http://www.hzdx.gov.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:07+08:00",
+      "checkedAt": "2026-11-19T15:50:41+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5491,66 +5497,12 @@
       "url": "http://www.sgdx.gov.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:06+08:00",
+      "checkedAt": "2026-11-19T15:50:39+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
         "HTTP Error 500: Internal Server Error"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "gd-party-46",
-      "institution": "江门市委党校",
-      "region": "广东",
-      "city": "江门",
-      "type": "党校",
-      "url": "https://jmdx.jiangmen.cn/",
-      "priority": 99,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:14+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "Remote end closed connection without response"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "gd-party-47",
-      "institution": "阳江市委党校",
-      "region": "广东",
-      "city": "阳江",
-      "type": "党校",
-      "url": "http://www.yjswdx.cn/",
-      "priority": 99,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:16+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "HTTP Error 502: Bad Gateway"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "gd-party-38",
-      "institution": "汕头市委党校",
-      "region": "广东",
-      "city": "汕头",
-      "type": "党校",
-      "url": "http://stswdx.org.cn/",
-      "priority": 99,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:03+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "<urlopen error timed out>"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
@@ -5563,12 +5515,48 @@
       "url": "http://www.fsswdx.gov.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:04+08:00",
+      "checkedAt": "2026-11-19T15:50:38+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
         "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "gd-party-46",
+      "institution": "江门市委党校",
+      "region": "广东",
+      "city": "江门",
+      "type": "党校",
+      "url": "https://jmdx.jiangmen.cn/",
+      "priority": 99,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:50:48+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "gd-party-47",
+      "institution": "阳江市委党校",
+      "region": "广东",
+      "city": "阳江",
+      "type": "党校",
+      "url": "http://www.yjswdx.cn/",
+      "priority": 99,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:50:53+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "HTTP Error 502: Bad Gateway"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
@@ -5581,7 +5569,7 @@
       "url": "http://www.mzsdx.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:06+08:00",
+      "checkedAt": "2026-11-19T15:50:39+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5599,7 +5587,7 @@
       "url": "http://dx.dg.gov.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:08+08:00",
+      "checkedAt": "2026-11-19T15:50:43+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5609,21 +5597,22 @@
       "scope": "本次未完成；不能据此判断无招聘"
     },
     {
-      "id": "gd-party-51",
-      "institution": "揭阳市委党校",
+      "id": "gd-party-38",
+      "institution": "汕头市委党校",
       "region": "广东",
-      "city": "揭阳",
+      "city": "汕头",
       "type": "党校",
-      "url": "http://www.jieyang.gd.cn/jyswdx",
+      "url": "http://stswdx.org.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:26+08:00",
-      "status": "ok",
+      "checkedAt": "2026-11-19T15:50:38+08:00",
+      "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "http://www.jieyang.gd.cn/jyswdx",
-      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
+      "errors": [
+        "<urlopen error timed out>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
     },
     {
       "id": "gd-shanwei-party",
@@ -5634,7 +5623,7 @@
       "url": "https://gdswdx.gov.cn/p1/index.html",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:28+08:00",
+      "checkedAt": "2026-11-19T15:51:01+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5643,22 +5632,21 @@
       "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
-      "id": "gd-party-48",
-      "institution": "湛江市委党校",
+      "id": "gd-party-51",
+      "institution": "揭阳市委党校",
       "region": "广东",
-      "city": "湛江",
+      "city": "揭阳",
       "type": "党校",
-      "url": "http://www.zjswdx.cn/",
+      "url": "http://www.jieyang.gd.cn/jyswdx",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:17+08:00",
-      "status": "error",
+      "checkedAt": "2026-11-19T15:51:00+08:00",
+      "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
-      "errors": [
-        "<urlopen error timed out>"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
+      "errors": [],
+      "finalUrl": "http://www.jieyang.gd.cn/jyswdx",
+      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "gd-party-49",
@@ -5669,7 +5657,25 @@
       "url": "http://ps.zhaoqing.gov.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:22+08:00",
+      "checkedAt": "2026-11-19T15:50:57+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "<urlopen error timed out>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "gd-party-48",
+      "institution": "湛江市委党校",
+      "region": "广东",
+      "city": "湛江",
+      "type": "党校",
+      "url": "http://www.zjswdx.cn/",
+      "priority": 99,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:50:55+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5687,7 +5693,7 @@
       "url": "http://www.zgczswdx.net/website/index",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:24+08:00",
+      "checkedAt": "2026-11-19T15:51:00+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5705,7 +5711,7 @@
       "url": "http://www.zsswdx.gov.cn/",
       "priority": 99,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:10+08:00",
+      "checkedAt": "2026-11-19T15:50:44+08:00",
       "status": "partial",
       "announcementsRead": 1,
       "leadsFound": 0,
@@ -5726,7 +5732,7 @@
       "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/index.html",
       "priority": 98,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:30+08:00",
+      "checkedAt": "2026-11-19T15:51:05+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5744,7 +5750,7 @@
       "url": "https://www.gdaas.cn/tzggn/rczp/mindex.html",
       "priority": 98,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:31+08:00",
+      "checkedAt": "2026-11-19T15:51:06+08:00",
       "status": "ok",
       "announcementsRead": 2,
       "leadsFound": 2,
@@ -5761,7 +5767,7 @@
       "url": "https://www.gzass.gd.cn/",
       "priority": 96,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:31+08:00",
+      "checkedAt": "2026-11-19T15:51:07+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5779,7 +5785,7 @@
       "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/",
       "priority": 96,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:34+08:00",
+      "checkedAt": "2026-11-19T15:51:14+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5797,7 +5803,7 @@
       "url": "https://www.gdis.org.cn/",
       "priority": 96,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:33+08:00",
+      "checkedAt": "2026-11-19T15:51:10+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5815,7 +5821,7 @@
       "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/",
       "priority": 84,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:35+08:00",
+      "checkedAt": "2026-11-19T15:51:14+08:00",
       "status": "ok",
       "announcementsRead": 2,
       "leadsFound": 0,
@@ -5832,7 +5838,7 @@
       "url": "https://www.gdqy.edu.cn/",
       "priority": 82,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:38+08:00",
+      "checkedAt": "2026-11-19T15:51:19+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5850,7 +5856,7 @@
       "url": "https://www.gdgm.edu.cn/",
       "priority": 82,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:37+08:00",
+      "checkedAt": "2026-11-19T15:51:15+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5868,7 +5874,7 @@
       "url": "https://www.szpu.edu.cn/",
       "priority": 82,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:41+08:00",
+      "checkedAt": "2026-11-19T15:51:22+08:00",
       "status": "ok",
       "announcementsRead": 6,
       "leadsFound": 4,
@@ -5885,30 +5891,12 @@
       "url": "https://www.gdit.edu.cn/",
       "priority": 82,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:41+08:00",
+      "checkedAt": "2026-11-19T15:51:25+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
         "<urlopen error [Errno 101] Network is unreachable>"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "gd-gdcp",
-      "institution": "广东交通职业技术学院",
-      "region": "广东",
-      "city": "广州",
-      "type": "职业院校",
-      "url": "https://www.gdcp.cn/",
-      "priority": 82,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:43+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "<urlopen error timed out>"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
@@ -5921,13 +5909,31 @@
       "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/index.htm",
       "priority": 82,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:37+08:00",
+      "checkedAt": "2026-11-19T15:51:14+08:00",
       "status": "ok",
       "announcementsRead": 6,
       "leadsFound": 3,
       "errors": [],
       "finalUrl": "https://www.gdcvi.edu.cn/xyxx/tzgg/index.htm",
       "scope": "访问1个入口，读取6则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "gd-gdcp",
+      "institution": "广东交通职业技术学院",
+      "region": "广东",
+      "city": "广州",
+      "type": "职业院校",
+      "url": "https://www.gdcp.cn/",
+      "priority": 82,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:51:32+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "<urlopen error [Errno 111] Connection refused>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
     },
     {
       "id": "gd-gdppla",
@@ -5938,13 +5944,13 @@
       "url": "https://www.gdxzzy.edu.cn/",
       "priority": 82,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:52+08:00",
+      "checkedAt": "2026-11-19T15:51:35+08:00",
       "status": "ok",
-      "announcementsRead": 5,
+      "announcementsRead": 6,
       "leadsFound": 0,
       "errors": [],
       "finalUrl": "https://www.gdxzzy.edu.cn/",
-      "scope": "访问3个入口，读取5则公告；入口扫描不代表该单位已穷尽"
+      "scope": "访问3个入口，读取6则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "zj-sx-party",
@@ -5955,7 +5961,7 @@
       "url": "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html",
       "priority": 81,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:53:57+08:00",
+      "checkedAt": "2026-11-19T15:51:40+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5972,7 +5978,7 @@
       "url": "https://rsc.jnu.edu.cn/",
       "priority": 78,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:03+08:00",
+      "checkedAt": "2026-11-19T15:51:46+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5990,7 +5996,7 @@
       "url": "https://rsc.wyu.edu.cn/",
       "priority": 78,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:09+08:00",
+      "checkedAt": "2026-11-19T15:51:50+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -5998,6 +6004,40 @@
         "<urlopen error [Errno -2] Name or service not known>"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "gd-peizheng",
+      "institution": "广东培正学院",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "url": "https://pzrensc.peizheng.edu.cn/zpxx/index.htm",
+      "priority": 78,
+      "mode": "listing",
+      "checkedAt": "2026-11-19T15:51:52+08:00",
+      "status": "ok",
+      "announcementsRead": 1,
+      "leadsFound": 0,
+      "errors": [],
+      "finalUrl": "https://pzrensc.peizheng.edu.cn/zpxx/index.htm",
+      "scope": "访问1个入口，读取1则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "gd-zcst",
+      "institution": "珠海科技学院",
+      "region": "广东",
+      "city": "珠海",
+      "type": "普通高校",
+      "url": "https://www.zcst.edu.cn/",
+      "priority": 78,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:51:51+08:00",
+      "status": "ok",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [],
+      "finalUrl": "https://www.zcst.edu.cn/",
+      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "gd-gduf",
@@ -6008,7 +6048,7 @@
       "url": "https://rsc.gduf.edu.cn/",
       "priority": 78,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:00+08:00",
+      "checkedAt": "2026-11-19T15:51:44+08:00",
       "status": "ok",
       "announcementsRead": 3,
       "leadsFound": 0,
@@ -6025,7 +6065,7 @@
       "url": "https://rsc.scnu.edu.cn/",
       "priority": 78,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:04+08:00",
+      "checkedAt": "2026-11-19T15:51:50+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6033,74 +6073,6 @@
         "Site access/verification restriction; not retried"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "gd-zcst",
-      "institution": "珠海科技学院",
-      "region": "广东",
-      "city": "珠海",
-      "type": "普通高校",
-      "url": "https://www.zcst.edu.cn/",
-      "priority": 78,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:10+08:00",
-      "status": "ok",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://www.zcst.edu.cn/",
-      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "gd-peizheng",
-      "institution": "广东培正学院",
-      "region": "广东",
-      "city": "广州",
-      "type": "普通高校",
-      "url": "https://pzrensc.peizheng.edu.cn/zpxx/index.htm",
-      "priority": 78,
-      "mode": "listing",
-      "checkedAt": "2026-11-18T15:54:11+08:00",
-      "status": "ok",
-      "announcementsRead": 1,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://pzrensc.peizheng.edu.cn/zpxx/index.htm",
-      "scope": "访问1个入口，读取1则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "gd-szu",
-      "institution": "深圳大学",
-      "region": "广东",
-      "city": "深圳",
-      "type": "普通高校",
-      "url": "https://hr.szu.edu.cn/",
-      "priority": 78,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:03+08:00",
-      "status": "ok",
-      "announcementsRead": 4,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://hr.szu.edu.cn/",
-      "scope": "访问3个入口，读取4则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "gd-gdufs",
-      "institution": "广东外语外贸大学",
-      "region": "广东",
-      "city": "广州",
-      "type": "普通高校",
-      "url": "https://rsc.gdufs.edu.cn/",
-      "priority": 78,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:01+08:00",
-      "status": "ok",
-      "announcementsRead": 6,
-      "leadsFound": 1,
-      "errors": [],
-      "finalUrl": "https://rsc.gdufs.edu.cn/",
-      "scope": "访问3个入口，读取6则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "gd-gdufe",
@@ -6111,7 +6083,7 @@
       "url": "https://rsc.gdufe.edu.cn/",
       "priority": 78,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:53:59+08:00",
+      "checkedAt": "2026-11-19T15:51:42+08:00",
       "status": "ok",
       "announcementsRead": 6,
       "leadsFound": 1,
@@ -6120,22 +6092,38 @@
       "scope": "访问3个入口，读取6则公告；入口扫描不代表该单位已穷尽"
     },
     {
-      "id": "js-nt-party",
-      "institution": "南通党建网高层次招聘",
-      "region": "江苏",
-      "city": "南通",
-      "type": "党校",
-      "url": "https://dj.nantong.gov.cn/ntdjw/tzggt/",
-      "priority": 69,
-      "mode": "listing",
-      "checkedAt": "2026-11-18T15:54:11+08:00",
-      "status": "error",
-      "announcementsRead": 0,
+      "id": "gd-gdufs",
+      "institution": "广东外语外贸大学",
+      "region": "广东",
+      "city": "广州",
+      "type": "普通高校",
+      "url": "https://rsc.gdufs.edu.cn/",
+      "priority": 78,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:51:45+08:00",
+      "status": "ok",
+      "announcementsRead": 6,
+      "leadsFound": 1,
+      "errors": [],
+      "finalUrl": "https://rsc.gdufs.edu.cn/",
+      "scope": "访问3个入口，读取6则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "gd-szu",
+      "institution": "深圳大学",
+      "region": "广东",
+      "city": "深圳",
+      "type": "普通高校",
+      "url": "https://hr.szu.edu.cn/",
+      "priority": 78,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:51:47+08:00",
+      "status": "ok",
+      "announcementsRead": 4,
       "leadsFound": 0,
-      "errors": [
-        "robots.txt access restriction: HTTP 403"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
+      "errors": [],
+      "finalUrl": "https://hr.szu.edu.cn/",
+      "scope": "访问3个入口，读取4则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "js-ass",
@@ -6146,12 +6134,30 @@
       "url": "https://www.jsass.org.cn/",
       "priority": 69,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:13+08:00",
+      "checkedAt": "2026-11-19T15:51:58+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
         "Empty page or client-rendered content"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "js-nt-party",
+      "institution": "南通党建网高层次招聘",
+      "region": "江苏",
+      "city": "南通",
+      "type": "党校",
+      "url": "https://dj.nantong.gov.cn/ntdjw/tzggt/",
+      "priority": 69,
+      "mode": "listing",
+      "checkedAt": "2026-11-19T15:51:57+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "robots.txt access restriction: HTTP 403"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
@@ -6164,7 +6170,7 @@
       "url": "https://www.sdx.js.cn/",
       "priority": 69,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:11+08:00",
+      "checkedAt": "2026-11-19T15:51:57+08:00",
       "status": "partial",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6183,7 +6189,7 @@
       "url": "https://ass.nanjing.gov.cn/ggtz/",
       "priority": 69,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:54:13+08:00",
+      "checkedAt": "2026-11-19T15:51:59+08:00",
       "status": "ok",
       "announcementsRead": 1,
       "leadsFound": 1,
@@ -6200,7 +6206,7 @@
       "url": "https://www.zjdx.gov.cn/",
       "priority": 69,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:15+08:00",
+      "checkedAt": "2026-11-19T15:52:02+08:00",
       "status": "partial",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6211,23 +6217,6 @@
       "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
-      "id": "js-jaas",
-      "institution": "江苏省农业科学院",
-      "region": "江苏",
-      "city": "南京",
-      "type": "政府科研院所",
-      "url": "https://www.jaas.ac.cn/",
-      "priority": 69,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:14+08:00",
-      "status": "ok",
-      "announcementsRead": 1,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://www.jaas.ac.cn/",
-      "scope": "访问2个入口，读取1则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
       "id": "zj-jx-party",
       "institution": "浙江红船干部学院 / 嘉兴市委党校",
       "region": "浙江",
@@ -6236,7 +6225,7 @@
       "url": "https://www.zjhcgbxy.com/",
       "priority": 69,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:15+08:00",
+      "checkedAt": "2026-11-19T15:52:03+08:00",
       "status": "ok",
       "announcementsRead": 4,
       "leadsFound": 0,
@@ -6253,65 +6242,13 @@
       "url": "https://www.amr.org.cn/",
       "priority": 69,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:19+08:00",
+      "checkedAt": "2026-11-19T15:52:09+08:00",
       "status": "ok",
       "announcementsRead": 1,
       "leadsFound": 1,
       "errors": [],
       "finalUrl": "https://www.amr.org.cn/",
       "scope": "访问2个入口，读取1则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "bj-drc",
-      "institution": "国务院发展研究中心",
-      "region": "北京",
-      "city": "北京",
-      "type": "政府科研院所",
-      "url": "https://www.drc.gov.cn/",
-      "priority": 69,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:24+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "Empty page or client-rendered content"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "bj-party",
-      "institution": "中共北京市委党校",
-      "region": "北京",
-      "city": "北京",
-      "type": "党校",
-      "url": "https://www.bai.gov.cn/bai/baixyxw/baitzgg/",
-      "priority": 69,
-      "mode": "listing",
-      "checkedAt": "2026-11-18T15:54:18+08:00",
-      "status": "ok",
-      "announcementsRead": 2,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://www.bai.gov.cn/bai/baixyxw/baitzgg/",
-      "scope": "访问1个入口，读取2则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "zj-ass",
-      "institution": "浙江省社会科学院",
-      "region": "浙江",
-      "city": "杭州",
-      "type": "社科院",
-      "url": "https://sky.zj.gov.cn/",
-      "priority": 69,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:16+08:00",
-      "status": "ok",
-      "announcementsRead": 4,
-      "leadsFound": 1,
-      "errors": [],
-      "finalUrl": "https://sky.zj.gov.cn/",
-      "scope": "访问3个入口，读取4则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "bj-ass",
@@ -6322,14 +6259,84 @@
       "url": "https://www.bass.org.cn/xxgk/gsgg/",
       "priority": 69,
       "mode": "listing",
-      "checkedAt": "2026-11-18T15:54:18+08:00",
+      "checkedAt": "2026-11-19T15:52:06+08:00",
+      "status": "ok",
+      "announcementsRead": 1,
+      "leadsFound": 0,
+      "errors": [],
+      "finalUrl": "https://www.bass.org.cn/xxgk/gsgg/",
+      "scope": "访问1个入口，读取1则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "bj-drc",
+      "institution": "国务院发展研究中心",
+      "region": "北京",
+      "city": "北京",
+      "type": "政府科研院所",
+      "url": "https://www.drc.gov.cn/",
+      "priority": 69,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:13+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
-        "<urlopen error timed out>"
+        "Empty page or client-rendered content"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "zj-ass",
+      "institution": "浙江省社会科学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "社科院",
+      "url": "https://sky.zj.gov.cn/",
+      "priority": 69,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:04+08:00",
+      "status": "ok",
+      "announcementsRead": 4,
+      "leadsFound": 1,
+      "errors": [],
+      "finalUrl": "https://sky.zj.gov.cn/",
+      "scope": "访问3个入口，读取4则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "js-jaas",
+      "institution": "江苏省农业科学院",
+      "region": "江苏",
+      "city": "南京",
+      "type": "政府科研院所",
+      "url": "https://www.jaas.ac.cn/",
+      "priority": 69,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:02+08:00",
+      "status": "partial",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "江苏省农业科学院2026年度博士后招收公告: <urlopen error [Errno 101] Network is unreachable>"
+      ],
+      "finalUrl": "https://www.jaas.ac.cn/",
+      "scope": "访问2个入口，读取0则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "bj-party",
+      "institution": "中共北京市委党校",
+      "region": "北京",
+      "city": "北京",
+      "type": "党校",
+      "url": "https://www.bai.gov.cn/bai/baixyxw/baitzgg/",
+      "priority": 69,
+      "mode": "listing",
+      "checkedAt": "2026-11-19T15:52:05+08:00",
+      "status": "ok",
+      "announcementsRead": 2,
+      "leadsFound": 0,
+      "errors": [],
+      "finalUrl": "https://www.bai.gov.cn/bai/baixyxw/baitzgg/",
+      "scope": "访问1个入口，读取2则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "bj-cass",
@@ -6340,7 +6347,7 @@
       "url": "https://www.cass.cn/",
       "priority": 69,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:24+08:00",
+      "checkedAt": "2026-11-19T15:52:14+08:00",
       "status": "ok",
       "announcementsRead": 6,
       "leadsFound": 3,
@@ -6357,7 +6364,7 @@
       "url": "https://www.chineseafs.org/",
       "priority": 69,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:21+08:00",
+      "checkedAt": "2026-11-19T15:52:09+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6375,48 +6382,12 @@
       "url": "https://rsc.njue.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:26+08:00",
+      "checkedAt": "2026-11-19T15:52:15+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
         "<urlopen error [Errno -2] Name or service not known>"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "js-nau",
-      "institution": "南京审计大学",
-      "region": "江苏",
-      "city": "南京",
-      "type": "普通高校",
-      "url": "https://renshi.nau.edu.cn/",
-      "priority": 58,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:27+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "<urlopen error [Errno -2] Name or service not known>"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "js-jvic",
-      "institution": "江苏经贸职业技术学院",
-      "region": "江苏",
-      "city": "南京",
-      "type": "职业院校",
-      "url": "https://www.jvic.edu.cn/",
-      "priority": 58,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:27+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "HTTP Error 412: Precondition Failed"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
@@ -6429,7 +6400,7 @@
       "url": "https://fzggw.jiangsu.gov.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:25+08:00",
+      "checkedAt": "2026-11-19T15:52:14+08:00",
       "status": "partial",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6440,6 +6411,24 @@
       "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
+      "id": "js-nau",
+      "institution": "南京审计大学",
+      "region": "江苏",
+      "city": "南京",
+      "type": "普通高校",
+      "url": "https://renshi.nau.edu.cn/",
+      "priority": 58,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:19+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "<urlopen error [Errno -2] Name or service not known>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
       "id": "js-jscc",
       "institution": "江苏财经职业技术学院",
       "region": "江苏",
@@ -6448,13 +6437,31 @@
       "url": "https://www.jscc.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:27+08:00",
+      "checkedAt": "2026-11-19T15:52:20+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [],
       "finalUrl": "https://www.jscc.edu.cn/",
       "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "js-jvic",
+      "institution": "江苏经贸职业技术学院",
+      "region": "江苏",
+      "city": "南京",
+      "type": "职业院校",
+      "url": "https://www.jvic.edu.cn/",
+      "priority": 58,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:20+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "HTTP Error 412: Precondition Failed"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
     },
     {
       "id": "zj-zjgsu",
@@ -6465,7 +6472,7 @@
       "url": "https://www.zjgsu.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:30+08:00",
+      "checkedAt": "2026-11-19T15:52:26+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6482,7 +6489,7 @@
       "url": "https://www.zfc.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:32+08:00",
+      "checkedAt": "2026-11-19T15:52:27+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6499,7 +6506,7 @@
       "url": "https://www.zjtie.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:38+08:00",
+      "checkedAt": "2026-11-19T15:52:36+08:00",
       "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6508,38 +6515,38 @@
       "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
-      "id": "bj-hrss",
-      "institution": "北京市人社局事业单位招聘",
-      "region": "北京",
-      "city": "北京",
+      "id": "zj-hrss",
+      "institution": "浙江省人社厅",
+      "region": "浙江",
+      "city": "杭州",
       "type": "综合招聘平台",
-      "url": "https://rsj.beijing.gov.cn/xxgk/xxgkzt/sydwzp/",
+      "url": "https://rlsbt.zj.gov.cn/",
       "priority": 58,
-      "mode": "listing",
-      "checkedAt": "2026-11-18T15:54:41+08:00",
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:21+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
-        "HTTP Error 404: Not Found"
+        "<urlopen error _ssl.c:994: The handshake operation timed out>"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
     {
-      "id": "bj-cueb",
-      "institution": "首都经济贸易大学",
-      "region": "北京",
-      "city": "北京",
-      "type": "普通高校",
-      "url": "https://renshi.cueb.edu.cn/",
+      "id": "zj-fgw",
+      "institution": "浙江省发展改革委所属单位招聘",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "综合招聘平台",
+      "url": "https://fzggw.zj.gov.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:44+08:00",
+      "checkedAt": "2026-11-19T15:52:22+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
-        "<urlopen error [Errno -2] Name or service not known>"
+        "<urlopen error _ssl.c:994: The handshake operation timed out>"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
@@ -6552,7 +6559,7 @@
       "url": "https://rsc.zufe.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:30+08:00",
+      "checkedAt": "2026-11-19T15:52:24+08:00",
       "status": "partial",
       "announcementsRead": 5,
       "leadsFound": 4,
@@ -6563,55 +6570,73 @@
       "scope": "访问3个入口，读取5则公告；入口扫描不代表该单位已穷尽"
     },
     {
-      "id": "zj-hrss",
-      "institution": "浙江省人社厅",
-      "region": "浙江",
-      "city": "杭州",
+      "id": "js-hrss",
+      "institution": "江苏省人社厅",
+      "region": "江苏",
+      "city": "南京",
       "type": "综合招聘平台",
-      "url": "https://rlsbt.zj.gov.cn/",
+      "url": "https://jshrss.jiangsu.gov.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:28+08:00",
+      "checkedAt": "2026-11-19T15:52:14+08:00",
+      "status": "ok",
+      "announcementsRead": 6,
+      "leadsFound": 0,
+      "errors": [],
+      "finalUrl": "https://jshrss.jiangsu.gov.cn/",
+      "scope": "访问3个入口，读取6则公告；入口扫描不代表该单位已穷尽"
+    },
+    {
+      "id": "zj-zjbc",
+      "institution": "浙江商业职业技术学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "职业院校",
+      "url": "https://www.zjbc.edu.cn/",
+      "priority": 58,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:29+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
-        "<urlopen error _ssl.c:994: The handshake operation timed out>"
+        "<urlopen error [Errno -3] Temporary failure in name resolution>"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
     {
-      "id": "bj-btbu",
-      "institution": "北京工商大学",
+      "id": "bj-cueb",
+      "institution": "首都经济贸易大学",
       "region": "北京",
       "city": "北京",
       "type": "普通高校",
-      "url": "https://rsc.btbu.edu.cn/",
+      "url": "https://renshi.cueb.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:44+08:00",
-      "status": "ok",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://inner.btbu.edu.cn/",
-      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "zj-fgw",
-      "institution": "浙江省发展改革委所属单位招聘",
-      "region": "浙江",
-      "city": "杭州",
-      "type": "综合招聘平台",
-      "url": "https://fzggw.zj.gov.cn/",
-      "priority": 58,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:30+08:00",
+      "checkedAt": "2026-11-19T15:52:41+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
-        "<urlopen error _ssl.c:994: The handshake operation timed out>"
+        "<urlopen error [Errno -2] Name or service not known>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "bj-hrss",
+      "institution": "北京市人社局事业单位招聘",
+      "region": "北京",
+      "city": "北京",
+      "type": "综合招聘平台",
+      "url": "https://rsj.beijing.gov.cn/xxgk/xxgkzt/sydwzp/",
+      "priority": 58,
+      "mode": "listing",
+      "checkedAt": "2026-11-19T15:52:41+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "HTTP Error 404: Not Found"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     },
@@ -6624,7 +6649,7 @@
       "url": "https://www.bjczy.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:49+08:00",
+      "checkedAt": "2026-11-19T15:52:43+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
@@ -6634,57 +6659,21 @@
       "scope": "本次未完成；不能据此判断无招聘"
     },
     {
-      "id": "zj-zjbc",
-      "institution": "浙江商业职业技术学院",
-      "region": "浙江",
-      "city": "杭州",
-      "type": "职业院校",
-      "url": "https://www.zjbc.edu.cn/",
-      "priority": 58,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:34+08:00",
-      "status": "error",
-      "announcementsRead": 0,
-      "leadsFound": 0,
-      "errors": [
-        "<urlopen error [Errno -3] Temporary failure in name resolution>"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
-    },
-    {
-      "id": "js-hrss",
-      "institution": "江苏省人社厅",
-      "region": "江苏",
-      "city": "南京",
-      "type": "综合招聘平台",
-      "url": "https://jshrss.jiangsu.gov.cn/",
-      "priority": 58,
-      "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:25+08:00",
-      "status": "ok",
-      "announcementsRead": 6,
-      "leadsFound": 0,
-      "errors": [],
-      "finalUrl": "https://jshrss.jiangsu.gov.cn/",
-      "scope": "访问3个入口，读取6则公告；入口扫描不代表该单位已穷尽"
-    },
-    {
-      "id": "bj-bwu",
-      "institution": "北京物资学院",
+      "id": "bj-btbu",
+      "institution": "北京工商大学",
       "region": "北京",
       "city": "北京",
       "type": "普通高校",
-      "url": "https://rsc.bwu.edu.cn/",
+      "url": "https://rsc.btbu.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:47+08:00",
-      "status": "error",
+      "checkedAt": "2026-11-19T15:52:42+08:00",
+      "status": "ok",
       "announcementsRead": 0,
       "leadsFound": 0,
-      "errors": [
-        "Empty page or client-rendered content"
-      ],
-      "scope": "本次未完成；不能据此判断无招聘"
+      "errors": [],
+      "finalUrl": "https://inner.btbu.edu.cn/",
+      "scope": "访问1个入口，读取0则公告；入口扫描不代表该单位已穷尽"
     },
     {
       "id": "bj-biem",
@@ -6695,12 +6684,30 @@
       "url": "https://www.biem.edu.cn/",
       "priority": 58,
       "mode": "homepage",
-      "checkedAt": "2026-11-18T15:54:49+08:00",
+      "checkedAt": "2026-11-19T15:52:43+08:00",
       "status": "error",
       "announcementsRead": 0,
       "leadsFound": 0,
       "errors": [
         "<urlopen error [Errno 101] Network is unreachable>"
+      ],
+      "scope": "本次未完成；不能据此判断无招聘"
+    },
+    {
+      "id": "bj-bwu",
+      "institution": "北京物资学院",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "url": "https://rsc.bwu.edu.cn/",
+      "priority": 58,
+      "mode": "homepage",
+      "checkedAt": "2026-11-19T15:52:43+08:00",
+      "status": "error",
+      "announcementsRead": 0,
+      "leadsFound": 0,
+      "errors": [
+        "Empty page or client-rendered content"
       ],
       "scope": "本次未完成；不能据此判断无招聘"
     }
@@ -6710,7 +6717,7 @@
       "query": "广东 (2026 OR 2027) 党校 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6718,7 +6725,7 @@
       "query": "广东 (2026 OR 2027) (社会科学院 OR 发展研究中心 OR 政府研究院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6726,7 +6733,7 @@
       "query": "广东 (2026 OR 2027) (高校 OR 大学 OR 职业学院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6734,7 +6741,7 @@
       "query": "江苏 (2026 OR 2027) 党校 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "江苏",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6742,7 +6749,7 @@
       "query": "江苏 (2026 OR 2027) (社会科学院 OR 发展研究中心 OR 政府研究院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "江苏",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6750,7 +6757,7 @@
       "query": "江苏 (2026 OR 2027) (高校 OR 大学 OR 职业学院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "江苏",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6758,7 +6765,7 @@
       "query": "浙江 (2026 OR 2027) 党校 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "浙江",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6766,7 +6773,7 @@
       "query": "浙江 (2026 OR 2027) (社会科学院 OR 发展研究中心 OR 政府研究院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "浙江",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6774,7 +6781,7 @@
       "query": "浙江 (2026 OR 2027) (高校 OR 大学 OR 职业学院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "浙江",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6782,7 +6789,7 @@
       "query": "北京 (2026 OR 2027) 党校 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "北京",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6790,7 +6797,7 @@
       "query": "北京 (2026 OR 2027) (社会科学院 OR 发展研究中心 OR 政府研究院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "北京",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6798,7 +6805,7 @@
       "query": "北京 (2026 OR 2027) (高校 OR 大学 OR 职业学院) 博士 招聘 (经济学 OR 金融学 OR 财政学)",
       "region": "北京",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6806,7 +6813,7 @@
       "query": "广州 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6814,7 +6821,7 @@
       "query": "深圳 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6822,7 +6829,7 @@
       "query": "珠海 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6830,7 +6837,7 @@
       "query": "汕头 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6838,7 +6845,7 @@
       "query": "佛山 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6846,7 +6853,7 @@
       "query": "韶关 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6854,7 +6861,7 @@
       "query": "河源 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6862,7 +6869,7 @@
       "query": "梅州 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6870,7 +6877,7 @@
       "query": "惠州 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6878,7 +6885,7 @@
       "query": "汕尾 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6886,7 +6893,7 @@
       "query": "东莞 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6894,7 +6901,7 @@
       "query": "中山 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6902,7 +6909,7 @@
       "query": "江门 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6910,7 +6917,7 @@
       "query": "阳江 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6918,7 +6925,7 @@
       "query": "湛江 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6926,7 +6933,7 @@
       "query": "茂名 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6934,7 +6941,7 @@
       "query": "肇庆 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6942,7 +6949,7 @@
       "query": "清远 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6950,7 +6957,7 @@
       "query": "潮州 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6958,7 +6965,7 @@
       "query": "揭阳 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6966,7 +6973,7 @@
       "query": "云浮 (2026 OR 2027) 党校 博士 招聘",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6974,7 +6981,7 @@
       "query": "深圳 光明区委党校 博士后 经济学 招聘 2026 2027",
       "region": "广东",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6982,7 +6989,7 @@
       "query": "南京 市委党校 经济学 科技创新 人文经济 2026 招聘 拟聘",
       "region": "江苏",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6990,7 +6997,7 @@
       "query": "常州 武进 党校 2026 招聘 拟聘 停招",
       "region": "江苏",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -6998,7 +7005,7 @@
       "query": "义乌 党校 经济学 2026 招聘 拟聘 截止",
       "region": "浙江",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -7006,7 +7013,7 @@
       "query": "嘉兴 党校 区域经济学 产业经济学 2026 招聘 后续",
       "region": "浙江",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     },
@@ -7014,7 +7021,7 @@
       "query": "绍兴 党校 2026 第二批 教师 经济学 招聘 岗位表",
       "region": "浙江",
       "status": "error",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "results": 0,
       "error": "robots.txt disallows this URL"
     }
@@ -7025,946 +7032,982 @@
       "url": "https://www.gdass.org/MessageInfo_10933.shtml",
       "sourceId": "gd-gdass",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:03+08:00"
+      "detectedAt": "2026-11-19T15:50:37+08:00"
     },
     {
       "title": "惠州市市直事业单位2025年公开招聘急需紧缺人才中共惠州市委党校招聘岗位拟聘用人员公告（第二批）",
       "url": "http://hzdx.gov.cn:80/xydt1/3461.jhtml",
       "sourceId": "gd-party-42",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:08+08:00"
+      "detectedAt": "2026-11-19T15:50:43+08:00"
     },
     {
       "title": "中共广州市委党校（广州行政学院）2026年公开招聘拟录用人员公示（第二批）",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202607/t20260714_10808.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校（广州行政学院）2026年公开招聘拟录用人员公示（第一批）",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202605/t20260527_10700.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校（广州行政学院）2026年公开招聘专业技术人员面试公告",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202604/t20260425_10669.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校(广州行政学院) 2025年第一次公开招聘拟录用人员公示（第三批）",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202512/t20251223_10451.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校(广州行政学院) 2025年第一次公开招聘拟录用人员公示（第二批）",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202511/t20251111_10374.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校(广州行政学院) 2025年第一次公开招聘拟录用人员公示（第一批）",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202507/t20250718_10192.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "广州市干部教育中心2025年集中公开招聘高校毕业生拟录用人员公示",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202507/t20250702_10176.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "广州市干部教育中心2025年集中公开招聘 高校毕业生考试综合成绩及入围体检 人员名单公告",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202505/t20250526_10097.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校（广州行政学院）2025年第一次公开招聘专业技术人员面试公告",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202505/t20250521_10090.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "广州市干部教育中心关于广东省事业单位2025年集中公开招聘高校毕业生资格复审和面试安排的公告",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202505/t20250513_10078.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校(广州行政学院) 2024年第一次公开招聘拟录用人员公示",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202405/t20240523_9698.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校2023年第一次公开招聘专业技术人员笔试成绩及进入面试人员公告",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202303/t20230323_8997.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "中共广州市委党校2022年第一次公开招聘 专业技术人员笔试成绩及进入面试人员公告",
       "url": "https://www.gzswdx.gov.cn/bszn/xyzp/202204/t20220414_8052.html",
       "sourceId": "gd-gz-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:06+08:00"
+      "detectedAt": "2026-11-19T15:50:40+08:00"
     },
     {
       "title": "2026年汕尾市公开招聘干部储备人才（中共汕尾市委党校招聘岗位）拟聘用人员公示 2026.07.14",
       "url": "https://gdswdx.gov.cn/p1/tzgg/20260714/38043.html",
       "sourceId": "gd-shanwei-party",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:31+08:00"
-    },
-    {
-      "title": "广东省事业单位2026年集中公开招聘高校毕业生笔试成绩公告",
-      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4876938.html",
-      "sourceId": "gd-hrss",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:04+08:00"
+      "detectedAt": "2026-11-19T15:51:05+08:00"
     },
     {
       "title": "广东省农业科学院2026年第二批公开招聘专业技术人员拟聘人员名单（第一批）公示",
       "url": "http://www.gdaas.cn/tzggn/rczp/content/post_1343384.html",
       "sourceId": "gd-gdaas",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:32+08:00"
+      "detectedAt": "2026-11-19T15:51:07+08:00"
     },
     {
       "title": "广东省农业科学院2026年第一批公开招聘工作人员拟聘人员名单公示",
       "url": "http://www.gdaas.cn/tzggn/rczp/content/post_1332716.html",
       "sourceId": "gd-gdaas",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:32+08:00"
+      "detectedAt": "2026-11-19T15:51:07+08:00"
     },
     {
       "title": "广东省农业科学院2026年集中公开招聘高校毕业生拟聘人员名单公示",
       "url": "http://www.gdaas.cn/tzggn/rczp/content/post_1329617.html",
       "sourceId": "gd-gdaas",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:32+08:00"
+      "detectedAt": "2026-11-19T15:51:07+08:00"
     },
     {
       "title": "广东省农业科学院2026年第一批公开招聘资格复审及直接业务考核公告",
       "url": "http://www.gdaas.cn/tzggn/rczp/content/post_1327746.html",
       "sourceId": "gd-gdaas",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:32+08:00"
+      "detectedAt": "2026-11-19T15:51:07+08:00"
     },
     {
       "title": "广东省农业科学院所属事业单位2026年集中公开招聘工作人员面试公告",
       "url": "http://www.gdaas.cn/tzggn/rczp/content/post_1324574.html",
       "sourceId": "gd-gdaas",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:32+08:00"
+      "detectedAt": "2026-11-19T15:51:07+08:00"
     },
     {
       "title": "中共南京市委党校（南京市行政学院、南京雨花台干部学院）2026年公开招聘拟聘用人...",
       "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202607/t20260713_5875752.html",
       "sourceId": "js-nj-party",
       "region": "江苏",
-      "detectedAt": "2026-11-18T15:53:38+08:00"
+      "detectedAt": "2026-11-19T15:51:18+08:00"
     },
     {
       "title": "中共南京市委党校（南京市行政学院、南京雨花台干部学院）2025年公开招聘拟聘用人...",
       "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202510/t20251016_5668598.html",
       "sourceId": "js-nj-party",
       "region": "江苏",
-      "detectedAt": "2026-11-18T15:53:38+08:00"
+      "detectedAt": "2026-11-19T15:51:18+08:00"
+    },
+    {
+      "title": "11.18 深圳职业技术大学2026年第二批滚动招聘选聘岗学校面试公告",
+      "url": "https://www.szpu.edu.cn/info/1046/23954.htm",
+      "sourceId": "gd-szpu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:28+08:00"
+    },
+    {
+      "title": "11.18 深圳职业技术大学2026年第二批滚动招聘公开招考附件2和附件5岗位综合素质考察成绩及入围学校面试公告",
+      "url": "https://www.szpu.edu.cn/info/1046/23952.htm",
+      "sourceId": "gd-szpu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:28+08:00"
     },
     {
       "title": "2026-11-10 深圳职业技术大学2026年第二批滚动招聘附件2和附件5岗位笔试成绩及综合素质考察公告",
       "url": "https://www.szpu.edu.cn/info/1046/23930.htm",
       "sourceId": "gd-szpu",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:48+08:00"
+      "detectedAt": "2026-11-19T15:51:28+08:00"
+    },
+    {
+      "title": "深圳职业技术大学2026年第二批滚动招聘选聘岗学校面试公告 11-18 2026",
+      "url": "https://www.szpu.edu.cn/info/1025/23953.htm",
+      "sourceId": "gd-szpu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:28+08:00"
+    },
+    {
+      "title": "深圳职业技术大学2026年第二批滚动招聘公开招考附件2和附件5岗位综合素质考察成绩及入围学校面试公告 11-18 2026",
+      "url": "https://www.szpu.edu.cn/info/1025/23951.htm",
+      "sourceId": "gd-szpu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:28+08:00"
     },
     {
       "title": "深圳职业技术大学2026年第二批滚动招聘附件2和附件5岗位笔试成绩及综合素质考察公告 11-10 2026",
       "url": "https://www.szpu.edu.cn/info/1025/23929.htm",
       "sourceId": "gd-szpu",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:48+08:00"
+      "detectedAt": "2026-11-19T15:51:28+08:00"
     },
     {
-      "title": "2026-11-16 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘体检公告",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/6136606aaa3a43a0bd2a59d3e71582f8.htm",
-      "sourceId": "gd-gdcvi",
+      "title": "广东省事业单位2026年集中公开招聘高校毕业生笔试成绩公告",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4876938.html",
+      "sourceId": "gd-hrss",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-11-13 广东建设职业技术学院2026年项目制（非事业编制）工作人员招聘进入资格复审人员名单公告",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/aecae2685a85456b8e725d21e56375f3.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-11-09 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘考试综合成绩公告",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/be553a7f1ebe4dac837eff0db7bc80bd.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-11-04 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘面试公告",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/8e4ecf892f1e4a178e90e4770f273f9e.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-10-27 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘笔试成绩及进入资格复审人员名单公告",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/4e782feecf1f4515b47cd0b3f114b404.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-10-22 广东建设职业技术学院2026年公开招聘博士研究生资格复审公告",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/ea80536750cd4b8193acb4137d780abe.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-08-10 广东建设职业技术学院2026年公开招聘工作人员拟聘用人员公示",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/85903c53537a4606a66ef73a18cc9f89.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-07-16 广东建设职业技术学院2026年第二批公开招聘工作人员体检公告（一）",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/d982a78e7f8f4e0794175968ee708202.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-07-13 广东建设职业技术学院2026年第二批公开招聘工作人员考试综合成绩公告（一）",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/6c99100888334999a4f808956f52c0a7.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "2026-07-06 广东建设职业技术学院2026年第二批公开招聘工作人员面试公告（一）",
-      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/193f3dcc2ce345a8ab39e2594bf16418.htm",
-      "sourceId": "gd-gdcvi",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:40+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年公开招聘教学科研人员体检递补公告（三）",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11964.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年公开招聘教学科研人员体检递补公告（二）",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11896.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年公开招聘教学科研人员体检递补公告",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11885.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年招聘实习指导教师（教学助理）拟聘人员公示",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11860.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年（第三批）招聘校编工作人员拟聘人员公示",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11859.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年公开招聘教学科研人员考试综合成绩及进入体检环节人员名单公…",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11855.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年（第三批）招聘校编工作人员考试成绩及进入体检环节人员名单…",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11854.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年（第三批）招聘校编工作人员面试公告",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11842.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员拟聘人员公示（二）",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11814.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员体检递补公告（二）",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11804.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年招聘实习指导教师（教学助理）面试公告",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11803.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年公开招聘教学科研人员资格复审及直接业务考核公告",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11800.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年集中公开招聘高校毕业生拟聘用人员公示",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11797.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员拟聘人员公示",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11768.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
-    },
-    {
-      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员体检递补公告",
-      "url": "https://www.gdxzzy.edu.cn/info/1122/11660.htm",
-      "sourceId": "gd-gdppla",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:53:59+08:00"
+      "detectedAt": "2026-11-19T15:50:46+08:00"
     },
     {
       "title": "中共中山市委党校2026年公开招聘事业单位人员拟聘用人员名单公...",
       "url": "http://www.zsswdx.gov.cn/gg/6953.htm",
       "sourceId": "gd-party-45",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:13+08:00"
+      "detectedAt": "2026-11-19T15:50:49+08:00"
     },
     {
       "title": "中共中山市委党校2026年公开招聘事业单位人员拟聘用人员名单公...",
       "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2620031.html",
       "sourceId": "gd-party-45",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:13+08:00"
+      "detectedAt": "2026-11-19T15:50:49+08:00"
     },
     {
       "title": "中共中山市委党校2026年公开招聘事业单位人员考试综合成绩与入...",
       "url": "http://www.zsswdx.gov.cn/gg/6918.htm",
       "sourceId": "gd-party-45",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:13+08:00"
+      "detectedAt": "2026-11-19T15:50:49+08:00"
     },
     {
       "title": "中共中山市委党校2024年第二期公开招聘事业单位人员拟聘用人员名单公示（第三批）“...",
       "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2528422.html",
       "sourceId": "gd-party-45",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:13+08:00"
+      "detectedAt": "2026-11-19T15:50:49+08:00"
     },
     {
       "title": "中共中山市委党校2024年第二期公开招聘事业单位人员拟聘用人员名单公示（第二批）",
       "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2494584.html",
       "sourceId": "gd-party-45",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:53:13+08:00"
+      "detectedAt": "2026-11-19T15:50:49+08:00"
+    },
+    {
+      "title": "2026-11-16 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘体检公告",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/6136606aaa3a43a0bd2a59d3e71582f8.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-11-13 广东建设职业技术学院2026年项目制（非事业编制）工作人员招聘进入资格复审人员名单公告",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/aecae2685a85456b8e725d21e56375f3.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-11-09 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘考试综合成绩公告",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/be553a7f1ebe4dac837eff0db7bc80bd.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-11-04 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘面试公告",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/8e4ecf892f1e4a178e90e4770f273f9e.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-10-27 广东建设职业技术学院2026年第二批校编（非事业编制）工作人员招聘笔试成绩及进入资格复审人员名单公告",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/4e782feecf1f4515b47cd0b3f114b404.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-10-22 广东建设职业技术学院2026年公开招聘博士研究生资格复审公告",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/ea80536750cd4b8193acb4137d780abe.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-08-10 广东建设职业技术学院2026年公开招聘工作人员拟聘用人员公示",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/85903c53537a4606a66ef73a18cc9f89.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-07-16 广东建设职业技术学院2026年第二批公开招聘工作人员体检公告（一）",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/d982a78e7f8f4e0794175968ee708202.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-07-13 广东建设职业技术学院2026年第二批公开招聘工作人员考试综合成绩公告（一）",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/6c99100888334999a4f808956f52c0a7.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
+    },
+    {
+      "title": "2026-07-06 广东建设职业技术学院2026年第二批公开招聘工作人员面试公告（一）",
+      "url": "https://www.gdcvi.edu.cn/xyxx/tzgg/193f3dcc2ce345a8ab39e2594bf16418.htm",
+      "sourceId": "gd-gdcvi",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:20+08:00"
     },
     {
       "title": "广东金融学院国际教育学院2026年招聘合同聘用制专任教师（第二批）拟聘人员公示",
       "url": "https://rsc.gduf.edu.cn/info/1045/2028.htm",
       "sourceId": "gd-gduf",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:06+08:00"
+      "detectedAt": "2026-11-19T15:51:52+08:00"
     },
     {
       "title": "广东金融学院国际教育学院2026年招聘合同聘用制专任教师（第二批）拟聘人员名单.xlsx",
       "url": "https://rsc.gduf.edu.cn/system/_content/download.jsp?owner=1361292744&urltype=news.DownloadAttachUrl&wbfileid=15479633",
       "sourceId": "gd-gduf",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:06+08:00"
+      "detectedAt": "2026-11-19T15:51:52+08:00"
     },
     {
       "title": "广东金融学院大数据与人工智能学院2026年招聘合同聘用制硕士专任教师第二阶段拟聘人员公示",
       "url": "https://rsc.gduf.edu.cn/info/1045/2027.htm",
       "sourceId": "gd-gduf",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:06+08:00"
+      "detectedAt": "2026-11-19T15:51:52+08:00"
     },
     {
-      "title": "转发：深圳大学总医院2026年9月公开选聘事业单位工作人员面试公告",
-      "url": "https://hr.szu.edu.cn/info/1013/25341.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年公开招聘教学科研人员体检递补公告（三）",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11964.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "深圳大学关于转发深圳大学附属中学2025年11月面向2026届应届毕业生赴外公开招聘教师拟聘人员公示",
-      "url": "https://hr.szu.edu.cn/info/1013/24751.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年公开招聘教学科研人员体检递补公告（二）",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11896.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "转发：深圳大学附属实验中学2026年5月面向2026年应届毕业生赴外公开招聘教师拟聘人员公示",
-      "url": "https://hr.szu.edu.cn/info/1013/24681.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年公开招聘教学科研人员体检递补公告",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11885.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "转发：深圳大学关于转发广东省事业单位2025年集中公开招聘高校毕业生深圳大学附属中学岗位拟聘人员公示",
-      "url": "https://hr.szu.edu.cn/info/1013/24631.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年招聘实习指导教师（教学助理）拟聘人员公示",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11860.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "转发:深圳大学附属中学2026年6月面向社会公开选聘教师拟聘人员公示",
-      "url": "https://hr.szu.edu.cn/info/1013/24621.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年（第三批）招聘校编工作人员拟聘人员公示",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11859.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "深圳大学2026年7月公开选聘高层次人才拟聘人员公示",
-      "url": "https://hr.szu.edu.cn/info/1017/25401.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年公开招聘教学科研人员考试综合成绩及进入体检环节人员名单公…",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11855.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "深圳大学2026年9月公开选聘高层次人才面试公告",
-      "url": "https://hr.szu.edu.cn/info/1017/25371.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年（第三批）招聘校编工作人员考试成绩及进入体检环节人员名单…",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11854.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "深圳大学2025年12月公开选聘高层次人才面试公告",
-      "url": "https://hr.szu.edu.cn/info/1017/21211.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年（第三批）招聘校编工作人员面试公告",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11842.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
-      "title": "深圳大学2025年9月公开选聘高层次人才面试公告",
-      "url": "https://hr.szu.edu.cn/info/1017/19841.htm",
-      "sourceId": "gd-szu",
+      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员拟聘人员公示（二）",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11814.htm",
+      "sourceId": "gd-gdppla",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:10+08:00"
+      "detectedAt": "2026-11-19T15:51:42+08:00"
+    },
+    {
+      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员体检递补公告（二）",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11804.htm",
+      "sourceId": "gd-gdppla",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:42+08:00"
+    },
+    {
+      "title": "广东行政职业学院2026年招聘实习指导教师（教学助理）面试公告",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11803.htm",
+      "sourceId": "gd-gdppla",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:42+08:00"
+    },
+    {
+      "title": "广东行政职业学院2026年公开招聘教学科研人员资格复审及直接业务考核公告",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11800.htm",
+      "sourceId": "gd-gdppla",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:42+08:00"
+    },
+    {
+      "title": "广东行政职业学院2026年集中公开招聘高校毕业生拟聘用人员公示",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11797.htm",
+      "sourceId": "gd-gdppla",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:42+08:00"
+    },
+    {
+      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员拟聘人员公示",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11768.htm",
+      "sourceId": "gd-gdppla",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:42+08:00"
+    },
+    {
+      "title": "广东行政职业学院2026年（第二批）招聘校编工作人员体检递补公告",
+      "url": "https://www.gdxzzy.edu.cn/info/1122/11660.htm",
+      "sourceId": "gd-gdppla",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:42+08:00"
     },
     {
       "title": "南京市社会科学院及所属事业单位2026年公开招聘高层次人才拟聘用人员名单公示（一）",
       "url": "https://ass.nanjing.gov.cn/ggtz/202610/t20261008_5921816.html",
       "sourceId": "js-nj-ass",
       "region": "江苏",
-      "detectedAt": "2026-11-18T15:54:16+08:00"
+      "detectedAt": "2026-11-19T15:52:02+08:00"
     },
     {
       "title": "南京市社会科学院及所属事业单位2026年公开招聘高层次人才资格复审通过人员名单",
       "url": "https://ass.nanjing.gov.cn/ggtz/202607/t20260716_5878426.html",
       "sourceId": "js-nj-ass",
       "region": "江苏",
-      "detectedAt": "2026-11-18T15:54:16+08:00"
-    },
-    {
-      "title": "2026年11月经济贸易学院公开招聘非事业编制工作人员资格复审及笔试、面试公告",
-      "url": "https://rsc.gdufs.edu.cn/info/1016/13859.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "2026年11月体育部公开招聘临时聘用工作人员的资格复审及面试公告",
-      "url": "https://rsc.gdufs.edu.cn/info/1016/13839.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "2026年11月经济贸易学院公开招聘临时聘用工作人员资格复审、笔试及面试公告",
-      "url": "https://rsc.gdufs.edu.cn/info/1016/13819.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员资格复审公告",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/12919.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员笔试成绩公告",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/12859.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员拟聘人员公示",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/13309.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员综合成绩表",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/13049.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员5月27日面试成绩",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/13039.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员5月26日面试成绩",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/13029.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
-    },
-    {
-      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员5月25日面试成绩",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/12999.htm",
-      "sourceId": "gd-gdufs",
-      "region": "广东",
-      "detectedAt": "2026-11-18T15:54:08+08:00"
+      "detectedAt": "2026-11-19T15:52:02+08:00"
     },
     {
       "title": "广东财经大学2026年公开招聘辅导员成绩公告",
       "url": "https://rsc.gdufe.edu.cn/2026/0709/c7198a241308/page.htm",
       "sourceId": "gd-gdufe",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:06+08:00"
+      "detectedAt": "2026-11-19T15:51:52+08:00"
     },
     {
       "title": "广东财经大学2026年公开招聘辅导员笔试成绩公告",
       "url": "https://rsc.gdufe.edu.cn/2026/0703/c7198a241103/page.htm",
       "sourceId": "gd-gdufe",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:06+08:00"
+      "detectedAt": "2026-11-19T15:51:52+08:00"
     },
     {
       "title": "广东财经大学2026年公开招聘辅导员现场资格复审及面试通知",
       "url": "https://rsc.gdufe.edu.cn/2026/0706/c7198a241164/page.htm",
       "sourceId": "gd-gdufe",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:06+08:00"
+      "detectedAt": "2026-11-19T15:51:52+08:00"
     },
     {
       "title": "广东财经大学2025年集中公开招聘高层次和急需紧缺人才资格复审结...",
       "url": "https://rsc.gdufe.edu.cn/2025/0618/c7198a222499/page.htm",
       "sourceId": "gd-gdufe",
       "region": "广东",
-      "detectedAt": "2026-11-18T15:54:06+08:00"
+      "detectedAt": "2026-11-19T15:51:52+08:00"
     },
     {
-      "title": "2026.03.06 中共北京市委党校（北京行政学院）公开招聘应届毕业生（含博士后人员）面试公告",
-      "url": "https://www.bai.gov.cn/bai/baixyxw/baitzgg/202603/t20260306_4551440.html",
-      "sourceId": "bj-party",
-      "region": "北京",
-      "detectedAt": "2026-11-18T15:54:22+08:00"
+      "title": "2026年11月经济贸易学院公开招聘非事业编制工作人员资格复审及笔试、面试公告",
+      "url": "https://rsc.gdufs.edu.cn/info/1016/13859.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "2026年11月体育部公开招聘临时聘用工作人员的资格复审及面试公告",
+      "url": "https://rsc.gdufs.edu.cn/info/1016/13839.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "2026年11月经济贸易学院公开招聘临时聘用工作人员资格复审、笔试及面试公告",
+      "url": "https://rsc.gdufs.edu.cn/info/1016/13819.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员资格复审公告",
+      "url": "https://rsc.gdufs.edu.cn/info/1093/12919.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员笔试成绩公告",
+      "url": "https://rsc.gdufs.edu.cn/info/1093/12859.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员拟聘人员公示",
+      "url": "https://rsc.gdufs.edu.cn/info/1093/13309.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员综合成绩表",
+      "url": "https://rsc.gdufs.edu.cn/info/1093/13049.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员5月27日面试成绩",
+      "url": "https://rsc.gdufs.edu.cn/info/1093/13039.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员5月26日面试成绩",
+      "url": "https://rsc.gdufs.edu.cn/info/1093/13029.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "广东外语外贸大学2026年公开招聘事业编制工作人员5月25日面试成绩",
+      "url": "https://rsc.gdufs.edu.cn/info/1093/12999.htm",
+      "sourceId": "gd-gdufs",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:51:56+08:00"
+    },
+    {
+      "title": "转发：深圳大学总医院2026年9月公开选聘事业单位工作人员面试公告",
+      "url": "https://hr.szu.edu.cn/info/1013/25341.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "深圳大学关于转发深圳大学附属中学2025年11月面向2026届应届毕业生赴外公开招聘教师拟聘人员公示",
+      "url": "https://hr.szu.edu.cn/info/1013/24751.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "转发：深圳大学附属实验中学2026年5月面向2026年应届毕业生赴外公开招聘教师拟聘人员公示",
+      "url": "https://hr.szu.edu.cn/info/1013/24681.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "转发：深圳大学关于转发广东省事业单位2025年集中公开招聘高校毕业生深圳大学附属中学岗位拟聘人员公示",
+      "url": "https://hr.szu.edu.cn/info/1013/24631.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "转发:深圳大学附属中学2026年6月面向社会公开选聘教师拟聘人员公示",
+      "url": "https://hr.szu.edu.cn/info/1013/24621.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "深圳大学2026年7月公开选聘高层次人才拟聘人员公示",
+      "url": "https://hr.szu.edu.cn/info/1017/25401.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "深圳大学2026年9月公开选聘高层次人才面试公告",
+      "url": "https://hr.szu.edu.cn/info/1017/25371.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "深圳大学2025年12月公开选聘高层次人才面试公告",
+      "url": "https://hr.szu.edu.cn/info/1017/21211.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
+    },
+    {
+      "title": "深圳大学2025年9月公开选聘高层次人才面试公告",
+      "url": "https://hr.szu.edu.cn/info/1017/19841.htm",
+      "sourceId": "gd-szu",
+      "region": "广东",
+      "detectedAt": "2026-11-19T15:52:00+08:00"
     },
     {
       "title": "浙江省社会科学院2026年度公开招聘拟聘用人员公示 发布时间：2026-08-25 查看详情 >",
       "url": "https://sky.zj.gov.cn/gbrs_show?id=20356",
       "sourceId": "zj-ass",
       "region": "浙江",
-      "detectedAt": "2026-11-18T15:54:21+08:00"
+      "detectedAt": "2026-11-19T15:52:13+08:00"
     },
     {
       "title": "浙江省社会科学院2026年公开招聘补充考察人员公告 发布时间：2026-08-04 查看详情 >",
       "url": "https://sky.zj.gov.cn/gbrs_show?id=19026",
       "sourceId": "zj-ass",
       "region": "浙江",
-      "detectedAt": "2026-11-18T15:54:21+08:00"
+      "detectedAt": "2026-11-19T15:52:13+08:00"
     },
     {
       "title": "浙江省社会科学院2026年公开招聘拟考察人员通知 发布时间：2026-07-31 查看详情 >",
       "url": "https://sky.zj.gov.cn/gbrs_show?id=19942",
       "sourceId": "zj-ass",
       "region": "浙江",
-      "detectedAt": "2026-11-18T15:54:21+08:00"
+      "detectedAt": "2026-11-19T15:52:13+08:00"
     },
     {
       "title": "浙江省社会科学院2025年度公开招聘拟聘用人员公示 发布时间：2025-10-28 查看详情 >",
       "url": "https://sky.zj.gov.cn/gbrs_show?id=19460",
       "sourceId": "zj-ass",
       "region": "浙江",
-      "detectedAt": "2026-11-18T15:54:21+08:00"
+      "detectedAt": "2026-11-19T15:52:13+08:00"
     },
     {
       "title": "浙江省社会学院2025年公开招聘政治学研究岗位补充考察人员公告 发布时间：2025-07-29 查看详情 >",
       "url": "https://sky.zj.gov.cn/gbrs_show?id=20341",
       "sourceId": "zj-ass",
       "region": "浙江",
-      "detectedAt": "2026-11-18T15:54:21+08:00"
+      "detectedAt": "2026-11-19T15:52:13+08:00"
     },
     {
       "title": "浙江省社会科学院2025年公开招聘综合成绩 发布时间：2025-07-23 查看详情 >",
       "url": "https://sky.zj.gov.cn/gbrs_show?id=20476",
       "sourceId": "zj-ass",
       "region": "浙江",
-      "detectedAt": "2026-11-18T15:54:21+08:00"
+      "detectedAt": "2026-11-19T15:52:13+08:00"
+    },
+    {
+      "title": "2026.03.06 中共北京市委党校（北京行政学院）公开招聘应届毕业生（含博士后人员）面试公告",
+      "url": "https://www.bai.gov.cn/bai/baixyxw/baitzgg/202603/t20260306_4551440.html",
+      "sourceId": "bj-party",
+      "region": "北京",
+      "detectedAt": "2026-11-19T15:52:10+08:00"
     }
   ],
   "reviewedChecks": {
-    "https://rsc.zufe.edu.cn/info/1073/3759.htm": {
-      "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
-      "status": "reachable",
-      "contentHash": "bc5c92eb36fd6bd822250a306a36ffc4495e48aea18b80d1623c3b2c35eca819"
-    },
-    "https://www.zdpi.org.cn/txtread.php?id=20063&sid=112005": {
-      "url": "https://www.zdpi.org.cn/txtread.php?id=20063&sid=112005",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
-      "status": "reachable",
-      "contentHash": "986f38e1b9629b9e2bb15615b029bf89219f849fe5b88eb8ed0129d864add925"
-    },
-    "https://open.beijing.gov.cn/html/borui/HR5.html": {
-      "url": "https://open.beijing.gov.cn/html/borui/HR5.html",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
-      "status": "unreachable",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html": {
-      "url": "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
-      "status": "reachable",
-      "contentHash": "9151f7baff9c8f4867b8cb6f213908a9071d475446ddc94099c237b19af4483a"
-    },
-    "https://www.nai.edu.cn/info/1141/70841.htm": {
-      "url": "https://www.nai.edu.cn/info/1141/70841.htm",
-      "checkedAt": "2026-11-18T15:55:18+08:00",
-      "status": "reachable",
-      "contentHash": "312c3187b7773601a408ea7c1a210ea6d6e35c04e2e97c4810289dbfba5860d1"
-    },
-    "https://www.gaoxiaojob.com/announcement/detail/353048.html": {
-      "url": "https://www.gaoxiaojob.com/announcement/detail/353048.html",
-      "checkedAt": "2026-11-18T15:55:19+08:00",
-      "status": "reachable",
-      "contentHash": "79dc3fa438da2fe36f99b035d86430fdff989d30d8dbcbaf805af2cf8b730543"
-    },
-    "https://drc.sz.gov.cn/fzlm/sylb/content/post_11987365.html": {
-      "url": "https://drc.sz.gov.cn/fzlm/sylb/content/post_11987365.html",
-      "checkedAt": "2026-11-18T15:55:20+08:00",
-      "status": "unreachable",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
-    },
-    "https://hr.szu.edu.cn/info/1016/25181.htm": {
-      "url": "https://hr.szu.edu.cn/info/1016/25181.htm",
-      "checkedAt": "2026-11-18T15:55:20+08:00",
-      "status": "reachable",
-      "contentHash": "f72b07a6d9eaeb6db86007925b207c9f208e37de04eb91280d96c3d086dfd8a8",
-      "changedAt": "2026-11-11T15:02:31+08:00"
-    },
-    "https://www.szpu.edu.cn/info/1025/22744.htm": {
-      "url": "https://www.szpu.edu.cn/info/1025/22744.htm",
-      "checkedAt": "2026-11-18T15:55:21+08:00",
-      "status": "reachable",
-      "contentHash": "cc2262b13757e452f1dbaa2f29a6ed0237d3b43f20c4ef4caa182c77bab502ca"
-    },
-    "https://rsc.zufe.edu.cn/info/1073/3604.htm": {
-      "url": "https://rsc.zufe.edu.cn/info/1073/3604.htm",
-      "checkedAt": "2026-11-18T15:55:22+08:00",
-      "status": "reachable",
-      "contentHash": "39384a311bebd61ed0163385590b4defd9005dd1f18577d778be9813ed7a10c8"
-    },
-    "https://www-new.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm": {
-      "url": "https://www-new.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm",
-      "checkedAt": "2026-11-18T15:55:23+08:00",
-      "status": "reachable",
-      "contentHash": "1dd6db0fbc764ee5ab0ce5f7cf231e91aba9e531f8f7c7d52f49f7c96869841d"
-    },
-    "https://gggl.just.edu.cn/rczp/list.htm": {
-      "url": "https://gggl.just.edu.cn/rczp/list.htm",
-      "checkedAt": "2026-11-18T15:55:23+08:00",
-      "status": "reachable",
-      "contentHash": "5e026bb425225a0c808d402e281a053cbead129b1ed8d677ad7c1c3bec92bbfc"
-    },
-    "https://www.gdaas.cn/tzggn/rczp/content/post_1331727.html": {
-      "url": "https://www.gdaas.cn/tzggn/rczp/content/post_1331727.html",
-      "checkedAt": "2026-11-18T15:55:23+08:00",
-      "status": "reachable",
-      "contentHash": "132e946b2c1884d8feba3865fb6d879810f1720c74217609ed1c19aae21c0c1d"
-    },
-    "https://jshrss.jiangsu.gov.cn/art/2026/4/16/art_78506_11758754.html": {
-      "url": "https://jshrss.jiangsu.gov.cn/art/2026/4/16/art_78506_11758754.html",
-      "checkedAt": "2026-11-18T15:55:24+08:00",
-      "status": "reachable",
-      "contentHash": "b3958dc64447a1cd126ebef0a475374a5ef4995aca23857ca95eac6215e80c38"
-    },
-    "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html": {
-      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html",
-      "checkedAt": "2026-11-18T15:55:25+08:00",
-      "status": "reachable",
-      "contentHash": "ec5b7ea239ee8b1a7df0fb391f812f2f4f55e748d8c2dafd77bc38ec9be20c0a"
-    },
-    "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm": {
-      "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm",
-      "checkedAt": "2026-11-18T15:55:26+08:00",
-      "status": "unreachable",
-      "contentHash": "62d910db27a029b6ed62911445450e0b08365b846cedd322d49bd34328900001",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
-    },
-    "https://www.gddx.gov.cn/info/1207/37645.htm": {
-      "url": "https://www.gddx.gov.cn/info/1207/37645.htm",
-      "checkedAt": "2026-11-18T15:55:27+08:00",
-      "status": "reachable",
-      "contentHash": "64cac5a07ac56d5ad2efb652c4da78bcfb067b3f1ed1d292916a9ff1ef48bd8d"
-    },
-    "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/t20260206_5788860.html": {
-      "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/t20260206_5788860.html",
-      "checkedAt": "2026-11-18T15:55:28+08:00",
-      "status": "reachable",
-      "contentHash": "ef444d8647b9d783e5ed800ad6c4818252e33d6a177c46ac1f9a47dfda56363b"
-    },
-    "https://rcite.gdufs.edu.cn/info/1124/3107.htm": {
-      "url": "https://rcite.gdufs.edu.cn/info/1124/3107.htm",
-      "checkedAt": "2026-11-18T15:55:28+08:00",
-      "status": "reachable",
-      "contentHash": "f2fff536d600375f89954a41be052336cd46f3c27afac43ce962415c71399698"
-    },
-    "https://www.safe.gov.cn/safe/2026/1015/27985.html": {
-      "url": "https://www.safe.gov.cn/safe/2026/1015/27985.html",
-      "checkedAt": "2026-11-18T15:55:28+08:00",
-      "status": "reachable",
-      "contentHash": "a7e8ae62da4358e6c0c865bf6b2f998ebd441458b921c2de9da57c46517e2bf7"
-    },
-    "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4891473.html": {
-      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4891473.html",
-      "checkedAt": "2026-11-18T15:55:29+08:00",
-      "status": "reachable",
-      "contentHash": "009186435677c6c256bcb5d2da5fc5d80f4936459c7819fcbeea60d866462187"
-    },
-    "https://www.zjyc.edu.cn/info/1028/21674.htm": {
-      "url": "https://www.zjyc.edu.cn/info/1028/21674.htm",
-      "checkedAt": "2026-11-18T15:55:29+08:00",
-      "status": "reachable",
-      "contentHash": "a6bf21a31b384c39cba63e9b7bbdc26c78bf4ed5a8f2da9be4e603832eadf959",
-      "error": "HTTP Error 503: Service Temporarily Unavailable",
-      "changedAt": "2026-11-17T16:27:39+08:00"
-    },
-    "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm": {
-      "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm",
-      "checkedAt": "2026-11-18T15:55:30+08:00",
-      "status": "reachable",
-      "contentHash": "b22b803b880dc8efb9488051fd355c0c995a4eb88eb00c55ce19e6e2be02ea91"
-    },
-    "https://www.phbs.pku.edu.cn/info/1471/181291.htm": {
-      "url": "https://www.phbs.pku.edu.cn/info/1471/181291.htm",
-      "checkedAt": "2026-11-18T15:55:30+08:00",
-      "status": "reachable",
-      "contentHash": "114412036d0a4be3938e71038a2004bf76c26813dcc6dd8f3af12900b5ee3c8b",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html": {
-      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html",
-      "checkedAt": "2026-11-18T15:55:32+08:00",
-      "status": "unreachable",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
-    },
-    "https://www.phbs.pku.edu.cn/info/1451/129371.htm": {
-      "url": "https://www.phbs.pku.edu.cn/info/1451/129371.htm",
-      "checkedAt": "2026-11-18T15:55:32+08:00",
-      "status": "reachable",
-      "contentHash": "2aa86a717c3e537dcc66d13b24f65d08b3eea0ad06eb89727855e592ff6194d3",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    "https://www.zzjc.edu.cn/info/1026/20911.htm": {
-      "url": "https://www.zzjc.edu.cn/info/1026/20911.htm",
-      "checkedAt": "2026-11-18T15:55:32+08:00",
-      "status": "reachable",
-      "contentHash": "03be1aa647327231fe895dc2a0c3334e4091f98ceeb41178b244b7b79c1304c5"
-    },
-    "https://www.phbs.pku.edu.cn/info/1471/181611.htm": {
-      "url": "https://www.phbs.pku.edu.cn/info/1471/181611.htm",
-      "checkedAt": "2026-11-18T15:55:33+08:00",
-      "status": "reachable",
-      "contentHash": "a15544cd92bff3daf94a43aa7b2a8fb529f74b862ad49258f7f9eb361a7ec95a",
-      "error": "HTTP Error 502: Bad Gateway"
-    },
-    "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm": {
-      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
-      "checkedAt": "2026-11-18T15:55:34+08:00",
-      "status": "reachable",
-      "contentHash": "2daeef95d06b6e0f36a0240831811d0e0a54c481e233f672612aa32caca1eaa8"
-    },
-    "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/7c3618482d5f40fd83dbd5b3bb2932ec.shtml": {
-      "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/7c3618482d5f40fd83dbd5b3bb2932ec.shtml",
-      "checkedAt": "2026-11-18T15:55:35+08:00",
-      "status": "unreachable",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
-    },
-    "https://www.zjdx.gov.cn/col/col1229656576/art/2025/art_a96cf7e1b13e42c69ff2b5368ac5e060.html": {
-      "url": "https://www.zjdx.gov.cn/col/col1229656576/art/2025/art_a96cf7e1b13e42c69ff2b5368ac5e060.html",
-      "checkedAt": "2026-11-18T15:55:37+08:00",
-      "status": "reachable",
-      "contentHash": "2bbe66b9ca8eaf6f61cbdc6ef676af5d8bcc07f5531b071c95b992159393aa70"
-    },
-    "https://lingnan.sysu.edu.cn/article/3913": {
-      "url": "https://lingnan.sysu.edu.cn/article/3913",
-      "checkedAt": "2026-11-18T15:55:37+08:00",
-      "status": "unreachable",
-      "error": "robots.txt access restriction: HTTP 403"
-    },
-    "https://m.gaoxiaojob.com/announcement/detail/435339.html": {
-      "url": "https://m.gaoxiaojob.com/announcement/detail/435339.html",
-      "checkedAt": "2026-11-18T15:55:38+08:00",
-      "status": "reachable",
-      "contentHash": "9cbc49498b509b7f5cc7eecdd6f9c9cc19e5ff688cad265ebfab288e43a4ccfe",
-      "changedAt": "2026-11-18T15:55:40+08:00"
-    },
-    "https://nsd.pku.edu.cn/sylm/xw/024418697d1c4c21b09deafb7e90c83e.htm": {
-      "url": "https://nsd.pku.edu.cn/sylm/xw/024418697d1c4c21b09deafb7e90c83e.htm",
-      "checkedAt": "2026-11-18T15:55:38+08:00",
-      "status": "reachable",
-      "contentHash": "d5421e2d52384ec804aa6317189c9acf25ad96f4eff36e87074e875496a369dc"
-    },
-    "https://ipp.scut.edu.cn/2025/0609/c36428a593582/page.htm": {
-      "url": "https://ipp.scut.edu.cn/2025/0609/c36428a593582/page.htm",
-      "checkedAt": "2026-11-18T15:55:39+08:00",
-      "status": "reachable",
-      "contentHash": "006c50d46444f47d7edf7be8708892905e442c0e70353f0776e6cdad5d24612c"
-    },
-    "https://rcite.gdufs.edu.cn/info/1139/3137.htm": {
-      "url": "https://rcite.gdufs.edu.cn/info/1139/3137.htm",
-      "checkedAt": "2026-11-18T15:55:39+08:00",
-      "status": "reachable",
-      "contentHash": "1ad5ffd9115f659e990fa1f6582daf4c84454d00ec6a01755389e1c381fa8fe4"
-    },
-    "https://www.nhei.cn/nhei/c100048/202611/a7686e20a3fe4c88aaa8cd81ea4861ff.shtml": {
-      "url": "https://www.nhei.cn/nhei/c100048/202611/a7686e20a3fe4c88aaa8cd81ea4861ff.shtml",
-      "checkedAt": "2026-11-18T15:55:40+08:00",
-      "status": "unreachable",
-      "error": "<urlopen error timed out>"
-    },
-    "https://www.zjhcgbxy.com/gsgg/48723.jhtml": {
-      "url": "https://www.zjhcgbxy.com/gsgg/48723.jhtml",
-      "checkedAt": "2026-11-18T15:55:42+08:00",
-      "status": "reachable",
-      "contentHash": "4110284231891b018885472cc6af13437f68f7f9ea8b59190e5c27327ba5d9fe"
-    },
-    "https://hr.pku.edu.cn/rczp/xzjf/ldhtzp/5a4dbb3516aa4d169d8f880f905b6643.htm": {
-      "url": "https://hr.pku.edu.cn/rczp/xzjf/ldhtzp/5a4dbb3516aa4d169d8f880f905b6643.htm",
-      "checkedAt": "2026-11-18T15:55:42+08:00",
-      "status": "reachable",
-      "contentHash": "4d0049109824e189cb0493b1df96320b06074353f13d369177e92682194afa7c"
-    },
-    "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=2&postTypeCode=1": {
-      "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=2&postTypeCode=1",
-      "checkedAt": "2026-11-18T15:55:42+08:00",
-      "status": "reachable",
-      "contentHash": "c1be2589910772ba174163665c10fc696f0f36819af120afcd96c284de05e163"
-    },
-    "https://hr.szu.edu.cn/info/1070/23981.htm": {
-      "url": "https://hr.szu.edu.cn/info/1070/23981.htm",
-      "checkedAt": "2026-11-18T15:55:43+08:00",
-      "status": "reachable",
-      "contentHash": "406d77dad1f29103d89db2ae823c9eeae552a015a5000c77c5217423fa0b32c1"
-    },
-    "https://career.scnu.edu.cn/detail/online?id=3629754": {
-      "url": "https://career.scnu.edu.cn/detail/online?id=3629754",
-      "checkedAt": "2026-11-18T15:55:43+08:00",
-      "status": "unreachable",
-      "error": "Site access/verification restriction; not retried"
-    },
-    "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml": {
-      "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml",
-      "checkedAt": "2026-11-18T15:55:43+08:00",
-      "status": "unreachable",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
-    },
     "https://career.cuhk.edu.cn/job/view/id/470082": {
       "url": "https://career.cuhk.edu.cn/job/view/id/470082",
-      "checkedAt": "2026-11-18T15:55:44+08:00",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "status": "reachable",
       "contentHash": "26a79e4bc60711a9045a4060feb09e35129c769f71aea00fabd54b79c665f592",
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>",
       "changedAt": "2026-11-14T14:59:17+08:00"
     },
-    "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html": {
-      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html",
-      "checkedAt": "2026-11-18T15:55:44+08:00",
+    "https://www.phbs.pku.edu.cn/info/1451/129371.htm": {
+      "url": "https://www.phbs.pku.edu.cn/info/1451/129371.htm",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
       "status": "reachable",
-      "contentHash": "1073db6c6746939d6663b752b465df28e05086d78f6a6214248a914ed0c4f351"
+      "contentHash": "2aa86a717c3e537dcc66d13b24f65d08b3eea0ad06eb89727855e592ff6194d3",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "https://www.gddx.gov.cn/info/1207/37645.htm": {
+      "url": "https://www.gddx.gov.cn/info/1207/37645.htm",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
+      "status": "reachable",
+      "contentHash": "64cac5a07ac56d5ad2efb652c4da78bcfb067b3f1ed1d292916a9ff1ef48bd8d"
+    },
+    "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/7c3618482d5f40fd83dbd5b3bb2932ec.shtml": {
+      "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/7c3618482d5f40fd83dbd5b3bb2932ec.shtml",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
+      "status": "unreachable",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
+    },
+    "https://hr.szu.edu.cn/info/1016/25391.htm": {
+      "url": "https://hr.szu.edu.cn/info/1016/25391.htm",
+      "checkedAt": "2026-11-19T15:53:07+08:00",
+      "status": "reachable",
+      "contentHash": "5362b6d99bd31448a00891d42da6e1d44a674e89a4b5717a5e3accf31b97e16b",
+      "changedAt": "2026-11-11T15:02:19+08:00"
+    },
+    "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm": {
+      "url": "https://rsc.suda.edu.cn/08/eb/c276a723179/pagem.htm",
+      "checkedAt": "2026-11-19T15:53:08+08:00",
+      "status": "reachable",
+      "contentHash": "b22b803b880dc8efb9488051fd355c0c995a4eb88eb00c55ce19e6e2be02ea91"
+    },
+    "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=2&postTypeCode=1": {
+      "url": "https://pzrszp.peizheng.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=gpy&page=2&postTypeCode=1",
+      "checkedAt": "2026-11-19T15:53:11+08:00",
+      "status": "reachable",
+      "contentHash": "c1be2589910772ba174163665c10fc696f0f36819af120afcd96c284de05e163"
+    },
+    "https://www.zjyc.edu.cn/info/1028/21674.htm": {
+      "url": "https://www.zjyc.edu.cn/info/1028/21674.htm",
+      "checkedAt": "2026-11-19T15:53:12+08:00",
+      "status": "reachable",
+      "contentHash": "a6bf21a31b384c39cba63e9b7bbdc26c78bf4ed5a8f2da9be4e603832eadf959",
+      "error": "HTTP Error 503: Service Temporarily Unavailable",
+      "changedAt": "2026-11-17T16:27:39+08:00"
+    },
+    "https://rcite.gdufs.edu.cn/info/1139/3137.htm": {
+      "url": "https://rcite.gdufs.edu.cn/info/1139/3137.htm",
+      "checkedAt": "2026-11-19T15:53:14+08:00",
+      "status": "reachable",
+      "contentHash": "1ad5ffd9115f659e990fa1f6582daf4c84454d00ec6a01755389e1c381fa8fe4"
+    },
+    "https://www.nai.edu.cn/info/1141/70841.htm": {
+      "url": "https://www.nai.edu.cn/info/1141/70841.htm",
+      "checkedAt": "2026-11-19T15:53:16+08:00",
+      "status": "reachable",
+      "contentHash": "312c3187b7773601a408ea7c1a210ea6d6e35c04e2e97c4810289dbfba5860d1"
+    },
+    "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/t20260206_5788860.html": {
+      "url": "https://dx.nanjing.gov.cn/xwpd_0/tzgg_78621/202602/t20260206_5788860.html",
+      "checkedAt": "2026-11-19T15:53:17+08:00",
+      "status": "reachable",
+      "contentHash": "ef444d8647b9d783e5ed800ad6c4818252e33d6a177c46ac1f9a47dfda56363b"
+    },
+    "https://drc.sz.gov.cn/fzlm/sylb/content/post_11987365.html": {
+      "url": "https://drc.sz.gov.cn/fzlm/sylb/content/post_11987365.html",
+      "checkedAt": "2026-11-19T15:53:17+08:00",
+      "status": "unreachable",
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    },
+    "https://www.zjdx.gov.cn/col/col1229656576/art/2025/art_a96cf7e1b13e42c69ff2b5368ac5e060.html": {
+      "url": "https://www.zjdx.gov.cn/col/col1229656576/art/2025/art_a96cf7e1b13e42c69ff2b5368ac5e060.html",
+      "checkedAt": "2026-11-19T15:53:17+08:00",
+      "status": "reachable",
+      "contentHash": "2bbe66b9ca8eaf6f61cbdc6ef676af5d8bcc07f5531b071c95b992159393aa70"
+    },
+    "https://www.gaoxiaojob.com/announcement/detail/442262.html": {
+      "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html",
+      "checkedAt": "2026-11-19T15:53:17+08:00",
+      "status": "reachable",
+      "contentHash": "b2dba0dd4802a875389c3e436e42fd970a429c08d7ff185763bd24dae2faa250",
+      "changedAt": "2026-11-19T15:53:20+08:00"
+    },
+    "https://ipp.scut.edu.cn/2025/0609/c36428a593582/page.htm": {
+      "url": "https://ipp.scut.edu.cn/2025/0609/c36428a593582/page.htm",
+      "checkedAt": "2026-11-19T15:53:18+08:00",
+      "status": "reachable",
+      "contentHash": "006c50d46444f47d7edf7be8708892905e442c0e70353f0776e6cdad5d24612c"
+    },
+    "https://www.zdpi.org.cn/txtread.php?id=20063&sid=112005": {
+      "url": "https://www.zdpi.org.cn/txtread.php?id=20063&sid=112005",
+      "checkedAt": "2026-11-19T15:53:18+08:00",
+      "status": "reachable",
+      "contentHash": "986f38e1b9629b9e2bb15615b029bf89219f849fe5b88eb8ed0129d864add925"
+    },
+    "https://rcite.gdufs.edu.cn/info/1124/3107.htm": {
+      "url": "https://rcite.gdufs.edu.cn/info/1124/3107.htm",
+      "checkedAt": "2026-11-19T15:53:19+08:00",
+      "status": "reachable",
+      "contentHash": "f2fff536d600375f89954a41be052336cd46f3c27afac43ce962415c71399698"
+    },
+    "https://hr.szu.edu.cn/info/1016/25181.htm": {
+      "url": "https://hr.szu.edu.cn/info/1016/25181.htm",
+      "checkedAt": "2026-11-19T15:53:19+08:00",
+      "status": "reachable",
+      "contentHash": "f72b07a6d9eaeb6db86007925b207c9f208e37de04eb91280d96c3d086dfd8a8",
+      "changedAt": "2026-11-11T15:02:31+08:00"
+    },
+    "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm": {
+      "url": "https://rsc.zjtie.edu.cn/2026/0312/c240a130787/page.htm",
+      "checkedAt": "2026-11-19T15:53:20+08:00",
+      "status": "reachable",
+      "contentHash": "2daeef95d06b6e0f36a0240831811d0e0a54c481e233f672612aa32caca1eaa8"
+    },
+    "https://www.nhei.cn/nhei/c100048/202611/a7686e20a3fe4c88aaa8cd81ea4861ff.shtml": {
+      "url": "https://www.nhei.cn/nhei/c100048/202611/a7686e20a3fe4c88aaa8cd81ea4861ff.shtml",
+      "checkedAt": "2026-11-19T15:53:20+08:00",
+      "status": "unreachable",
+      "error": "<urlopen error timed out>"
+    },
+    "https://jshrss.jiangsu.gov.cn/art/2026/4/16/art_78506_11758754.html": {
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/4/16/art_78506_11758754.html",
+      "checkedAt": "2026-11-19T15:53:22+08:00",
+      "status": "reachable",
+      "contentHash": "b3958dc64447a1cd126ebef0a475374a5ef4995aca23857ca95eac6215e80c38"
+    },
+    "https://www.zjhcgbxy.com/gsgg/48723.jhtml": {
+      "url": "https://www.zjhcgbxy.com/gsgg/48723.jhtml",
+      "checkedAt": "2026-11-19T15:53:23+08:00",
+      "status": "reachable",
+      "contentHash": "4110284231891b018885472cc6af13437f68f7f9ea8b59190e5c27327ba5d9fe"
+    },
+    "https://nsd.pku.edu.cn/sylm/xw/024418697d1c4c21b09deafb7e90c83e.htm": {
+      "url": "https://nsd.pku.edu.cn/sylm/xw/024418697d1c4c21b09deafb7e90c83e.htm",
+      "checkedAt": "2026-11-19T15:53:23+08:00",
+      "status": "reachable",
+      "contentHash": "d5421e2d52384ec804aa6317189c9acf25ad96f4eff36e87074e875496a369dc"
+    },
+    "https://www.zzjc.edu.cn/info/1026/20911.htm": {
+      "url": "https://www.zzjc.edu.cn/info/1026/20911.htm",
+      "checkedAt": "2026-11-19T15:53:24+08:00",
+      "status": "reachable",
+      "contentHash": "03be1aa647327231fe895dc2a0c3334e4091f98ceeb41178b244b7b79c1304c5"
+    },
+    "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4891473.html": {
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4891473.html",
+      "checkedAt": "2026-11-19T15:53:25+08:00",
+      "status": "reachable",
+      "contentHash": "009186435677c6c256bcb5d2da5fc5d80f4936459c7819fcbeea60d866462187"
+    },
+    "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml": {
+      "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202603/c3348f852b544726a73c06049b1628e7.shtml",
+      "checkedAt": "2026-11-19T15:53:28+08:00",
+      "status": "unreachable",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
+    },
+    "https://hr.szu.edu.cn/info/1070/23981.htm": {
+      "url": "https://hr.szu.edu.cn/info/1070/23981.htm",
+      "checkedAt": "2026-11-19T15:53:28+08:00",
+      "status": "reachable",
+      "contentHash": "406d77dad1f29103d89db2ae823c9eeae552a015a5000c77c5217423fa0b32c1"
+    },
+    "https://rlzy.gdbtu.edu.cn/info/1262/1351.htm": {
+      "url": "https://rlzy.gdbtu.edu.cn/info/1262/1351.htm",
+      "checkedAt": "2026-11-19T15:53:28+08:00",
+      "status": "reachable",
+      "contentHash": "698f363e73641f6551d989c554ee258a638be8f18a414e9eff85052917265702"
+    },
+    "https://open.beijing.gov.cn/html/borui/HR5.html": {
+      "url": "https://open.beijing.gov.cn/html/borui/HR5.html",
+      "checkedAt": "2026-11-19T15:53:28+08:00",
+      "status": "unreachable",
+      "error": "robots.txt access restriction: HTTP 403"
+    },
+    "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html": {
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4916210.html",
+      "checkedAt": "2026-11-19T15:53:30+08:00",
+      "status": "reachable",
+      "contentHash": "ec5b7ea239ee8b1a7df0fb391f812f2f4f55e748d8c2dafd77bc38ec9be20c0a"
+    },
+    "https://lingnan.sysu.edu.cn/article/3913": {
+      "url": "https://lingnan.sysu.edu.cn/article/3913",
+      "checkedAt": "2026-11-19T15:53:32+08:00",
+      "status": "unreachable",
+      "error": "robots.txt access restriction: HTTP 403"
+    },
+    "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html": {
+      "url": "https://sxdx.sx.gov.cn/col/col1483091/art/2026/art_2c28ecab43c34b0798f01e4ade2479e9.html",
+      "checkedAt": "2026-11-19T15:53:34+08:00",
+      "status": "reachable",
+      "contentHash": "9151f7baff9c8f4867b8cb6f213908a9071d475446ddc94099c237b19af4483a"
+    },
+    "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm": {
+      "url": "https://www.idf.pku.edu.cn/xwdt/551d56793b6b479fa807a86e5287229a.htm",
+      "checkedAt": "2026-11-19T15:53:35+08:00",
+      "status": "unreachable",
+      "contentHash": "62d910db27a029b6ed62911445450e0b08365b846cedd322d49bd34328900001",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+    },
+    "https://www.phbs.pku.edu.cn/info/1471/181291.htm": {
+      "url": "https://www.phbs.pku.edu.cn/info/1471/181291.htm",
+      "checkedAt": "2026-11-19T15:53:35+08:00",
+      "status": "reachable",
+      "contentHash": "114412036d0a4be3938e71038a2004bf76c26813dcc6dd8f3af12900b5ee3c8b",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "https://m.gaoxiaojob.com/announcement/detail/435339.html": {
+      "url": "https://m.gaoxiaojob.com/announcement/detail/435339.html",
+      "checkedAt": "2026-11-19T15:53:35+08:00",
+      "status": "reachable",
+      "contentHash": "9cbc49498b509b7f5cc7eecdd6f9c9cc19e5ff688cad265ebfab288e43a4ccfe",
+      "changedAt": "2026-11-18T15:55:40+08:00"
+    },
+    "https://www.gaoxiaojob.com/job/detail/2394086.html": {
+      "url": "https://www.gaoxiaojob.com/job/detail/2394086.html",
+      "checkedAt": "2026-11-19T15:53:37+08:00",
+      "status": "reachable",
+      "contentHash": "d1110220eada771b1680ea8e755b09f80b8949e0fd86a703b7a110306ce31a7c"
+    },
+    "https://rsc.zufe.edu.cn/info/1073/3604.htm": {
+      "url": "https://rsc.zufe.edu.cn/info/1073/3604.htm",
+      "checkedAt": "2026-11-19T15:53:37+08:00",
+      "status": "reachable",
+      "contentHash": "5058f6f3c76b4c20d214a57638897ab72b38bbe5521756477c7b6dcf3d056ad2",
+      "changedAt": "2026-11-19T15:53:40+08:00"
+    },
+    "https://career.scnu.edu.cn/detail/online?id=3629754": {
+      "url": "https://career.scnu.edu.cn/detail/online?id=3629754",
+      "checkedAt": "2026-11-19T15:53:38+08:00",
+      "status": "unreachable",
+      "error": "Site access/verification restriction; not retried"
     },
     "https://nubs.nju.edu.cn/d9/72/c8896a842098/pagem.htm": {
       "url": "https://nubs.nju.edu.cn/d9/72/c8896a842098/pagem.htm",
-      "checkedAt": "2026-11-18T15:55:47+08:00",
+      "checkedAt": "2026-11-19T15:53:38+08:00",
       "status": "reachable",
       "contentHash": "b244cc1ddd7922026074b5725ef0f8cddbf853199a9496fc08a1c2c9b0260291",
       "changedAt": "2026-11-02T14:45:40+08:00"
     },
-    "https://rlzy.gdbtu.edu.cn/info/1262/1351.htm": {
-      "url": "https://rlzy.gdbtu.edu.cn/info/1262/1351.htm",
-      "checkedAt": "2026-11-18T15:55:48+08:00",
-      "status": "reachable",
-      "contentHash": "698f363e73641f6551d989c554ee258a638be8f18a414e9eff85052917265702"
+    "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html": {
+      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/rsxx/zkzp/content/post_12892460.html",
+      "checkedAt": "2026-11-19T15:53:39+08:00",
+      "status": "unreachable",
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
-    "https://www.gaoxiaojob.com/announcement/detail/442262.html": {
-      "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html",
-      "checkedAt": "2026-11-18T15:55:49+08:00",
+    "https://www.szpu.edu.cn/info/1025/22744.htm": {
+      "url": "https://www.szpu.edu.cn/info/1025/22744.htm",
+      "checkedAt": "2026-11-19T15:53:39+08:00",
       "status": "reachable",
-      "contentHash": "aaac96d60918ac49e5398738b6ca836e394eea5205f13be3024003adb133f58d",
-      "changedAt": "2026-11-18T15:55:52+08:00"
+      "contentHash": "cc2262b13757e452f1dbaa2f29a6ed0237d3b43f20c4ef4caa182c77bab502ca"
     },
-    "https://hr.szu.edu.cn/info/1016/25391.htm": {
-      "url": "https://hr.szu.edu.cn/info/1016/25391.htm",
-      "checkedAt": "2026-11-18T15:55:50+08:00",
+    "https://www.gaoxiaojob.com/announcement/detail/353048.html": {
+      "url": "https://www.gaoxiaojob.com/announcement/detail/353048.html",
+      "checkedAt": "2026-11-19T15:53:40+08:00",
       "status": "reachable",
-      "contentHash": "5362b6d99bd31448a00891d42da6e1d44a674e89a4b5717a5e3accf31b97e16b",
-      "changedAt": "2026-11-11T15:02:19+08:00"
+      "contentHash": "79dc3fa438da2fe36f99b035d86430fdff989d30d8dbcbaf805af2cf8b730543"
+    },
+    "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html": {
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html",
+      "checkedAt": "2026-11-19T15:53:40+08:00",
+      "status": "reachable",
+      "contentHash": "1073db6c6746939d6663b752b465df28e05086d78f6a6214248a914ed0c4f351"
+    },
+    "https://www.safe.gov.cn/safe/2026/1015/27985.html": {
+      "url": "https://www.safe.gov.cn/safe/2026/1015/27985.html",
+      "checkedAt": "2026-11-19T15:53:40+08:00",
+      "status": "reachable",
+      "contentHash": "a7e8ae62da4358e6c0c865bf6b2f998ebd441458b921c2de9da57c46517e2bf7"
+    },
+    "https://www.gdaas.cn/tzggn/rczp/content/post_1331727.html": {
+      "url": "https://www.gdaas.cn/tzggn/rczp/content/post_1331727.html",
+      "checkedAt": "2026-11-19T15:53:41+08:00",
+      "status": "reachable",
+      "contentHash": "132e946b2c1884d8feba3865fb6d879810f1720c74217609ed1c19aae21c0c1d"
+    },
+    "https://gggl.just.edu.cn/rczp/list.htm": {
+      "url": "https://gggl.just.edu.cn/rczp/list.htm",
+      "checkedAt": "2026-11-19T15:53:41+08:00",
+      "status": "reachable",
+      "contentHash": "5e026bb425225a0c808d402e281a053cbead129b1ed8d677ad7c1c3bec92bbfc"
+    },
+    "https://rsc.zufe.edu.cn/info/1073/3759.htm": {
+      "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm",
+      "checkedAt": "2026-11-19T15:53:42+08:00",
+      "status": "reachable",
+      "contentHash": "4019c287383f7a7a3f46083937f83a7c95c4648570074ee03ea25caaad21f482",
+      "changedAt": "2026-11-19T15:53:45+08:00"
+    },
+    "https://www.phbs.pku.edu.cn/info/1471/181611.htm": {
+      "url": "https://www.phbs.pku.edu.cn/info/1471/181611.htm",
+      "checkedAt": "2026-11-19T15:53:43+08:00",
+      "status": "reachable",
+      "contentHash": "a15544cd92bff3daf94a43aa7b2a8fb529f74b862ad49258f7f9eb361a7ec95a",
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    "https://hr.pku.edu.cn/rczp/xzjf/ldhtzp/5a4dbb3516aa4d169d8f880f905b6643.htm": {
+      "url": "https://hr.pku.edu.cn/rczp/xzjf/ldhtzp/5a4dbb3516aa4d169d8f880f905b6643.htm",
+      "checkedAt": "2026-11-19T15:53:45+08:00",
+      "status": "reachable",
+      "contentHash": "4d0049109824e189cb0493b1df96320b06074353f13d369177e92682194afa7c"
+    },
+    "https://www-new.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm": {
+      "url": "https://www-new.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm",
+      "checkedAt": "2026-11-19T15:53:45+08:00",
+      "status": "reachable",
+      "contentHash": "1dd6db0fbc764ee5ab0ce5f7cf231e91aba9e531f8f7c7d52f49f7c96869841d"
     }
   }
 }
