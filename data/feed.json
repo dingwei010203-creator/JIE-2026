@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:53:57+08:00",
+  "generatedAt": "2026-11-20T09:09:44+08:00",
   "lastScanStartedAt": "2026-11-19T15:50:35+08:00",
   "lastScanCompletedAt": "2026-11-19T15:53:56+08:00",
-  "lastVerifiedAt": "2026-11-19T09:13:46+08:00",
+  "lastVerifiedAt": "2026-11-20T09:09:25+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -579,24 +579,34 @@
       "kind": "faculty",
       "headcount": null,
       "publishedAt": "2026-03-13",
-      "deadline": "2026-12-31",
+      "deadline": null,
       "rolling": true,
       "verifiedLevel": "announcement",
-      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "verifiedAt": "2026-11-20T09:09:25+08:00",
       "requirements": {
-        "overseas": "需核对具体岗位对学历、成果及人才层次的要求"
+        "overseas": "留学回国人员如应聘时尚无留服境外学历学位认证，须最迟在拟聘公示前提交，否则不保留资格；港澳材料由单位审核",
+        "education": "具体岗位学历、成果和人才层次须读人才引进计划附件；综合公告不代替具体岗位",
+        "freshGraduate": "综合正文未限定毕业届别或统一获证时限，按具体岗位审核",
+        "application": "3月13日公告明确2026年全年实施、招满为止，以邮件投递各用人部门；未列固定报名截止日，不能将全年计划自动换算为12月31日"
       },
       "remainingVacancies": "未核实，请以招聘单位最新确认为准",
       "evidence": [
         {
           "note": "原公告全年实施，招满为止；151人为全校计划，并非经济学岗位人数。",
           "url": "https://rsc.zufe.edu.cn/info/1073/3604.htm"
+        },
+        {
+          "note": "11月20日针对网页变更标记实读3月13日官方完整正文，确认全年实施、招满为止及留服认证最迟拟聘公示前提交。纠正原deadline=2026-12-31为null：原文未明确固定报名截止，该修正不是延期。岗位计划XLSX下载要求验证码，未读取，不升级具体岗位或采用全校151人为经济学人数。",
+          "url": "https://rsc.zufe.edu.cn/info/1073/3604.htm"
+        },
+        {
+          "note": "补查读到10月13日拟聘公示，涉及A07-26-20杰出人才、管理学；不能据个别公示判断经济学岗位剩余名额或全校招满。",
+          "url": "https://rcb.zufe.edu.cn/info/1018/1477.htm"
         }
       ],
-      "summary": "全年招聘公告包含理论与应用经济学。全校151人的总计划未分摊为经济学名额，需继续核对具体岗位和人才层次。",
+      "summary": "年度综合公告含理论与应用经济学，2026年全年实施、招满为止；未明确固定报名截止，已撤去原推定12月31日。岗位附件需验证码，维持announcement、人数null；资格与当前空额待核。",
       "sourceId": "zj-zufe",
-      "affiliation": "浙江省属公办高校",
-      "reviewNeeded": true
+      "affiliation": "浙江省属公办高校"
     },
     {
       "id": "gd-party-J02",
@@ -1681,7 +1691,7 @@
       "deadline": null,
       "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-01T09:04:17+08:00",
+      "verifiedAt": "2026-11-20T09:09:25+08:00",
       "firstSeenAt": "2026-11-01T09:04:17+08:00",
       "requirements": {
         "education": "海内外应届博士毕业生或中青年学者，经济学、金融学等相关领域",
@@ -1701,11 +1711,14 @@
         {
           "note": "正文无明确报名截止、无常年或招满即止条款，deadline为null、rolling=false；留服认证最迟在拟聘公示前取得。",
           "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm"
+        },
+        {
+          "note": "11月20日针对变更标记实读6月10日官方完整招聘正文，复核经济学等博士、一般40岁、独立科研能力、交叉背景/应用经验优先及留服认证最迟拟聘公示前，未见实质变化。仍无固定报名截止或滚动条款，人数null；检索未确认经济学独立空额或官方招满，转载下线不作为停招证据。",
+          "url": "https://rsc.zufe.edu.cn/info/1073/3759.htm"
         }
       ],
       "summary": "已核实接受经济学博士的专职研究员公告；跨学科计划8名，未单列经济学人数。未明确报名截止和滚动条款，当前接收状态需确认；境外认证最迟须在拟聘公示前提供。",
-      "affiliation": "浙江财经大学校内实验室，非政府直属科研院所",
-      "reviewNeeded": true
+      "affiliation": "浙江财经大学校内实验室，非政府直属科研院所"
     },
     {
       "institution": "中国人民大学国际学院（苏州研究院）",
@@ -2494,7 +2507,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-19T09:13:46+08:00",
+      "verifiedAt": "2026-11-20T09:09:25+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2566,10 +2579,13 @@
         {
           "note": "11月19日针对采集变更标记实读转载全文，党员、12月31日报名及获证/留服认证条款未见实质变化；金华人社原文仍不可访问，未核实官方岗位表或停招/当前空额。维持lead、人数null。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月20日针对变更标记实读高才网招聘正文及报名、获证条款，党员、12月31日报名与学历学位/留服认证要求未见实质变化；金华人社原文仍不可访问。维持lead、人数null，官方岗位需求表、停招与空额待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -3688,7 +3704,7 @@
       "deadline": "2026-11-19",
       "rolling": false,
       "verifiedLevel": "lead",
-      "verifiedAt": "2026-11-15T09:42:25+08:00",
+      "verifiedAt": "2026-11-20T09:09:25+08:00",
       "firstSeenAt": "2026-11-15T09:42:25+08:00",
       "sourceAuthority": "repost",
       "majors": [
@@ -3710,9 +3726,14 @@
         {
           "note": "11月15日实读平台招聘全文，11月13日为平台发布日，正文有健康经济学研究、经济学等背景、研究生优先（可放宽本科）及11月19日报名截止；非博士专设。定向官网检索未找到对应原文，仅作为lead，不将平台1人计入已核实名额。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/353048.html"
+        },
+        {
+          "note": "11月20日实读平台完整招聘正文，报名截止仍为11月19日，未检得可确认的官方延期，按已知转载期限标closed。仅为科研项目助理，非博士专设；仍无单位官方原文，不认定已招满或岗位核验成功。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/353048.html"
         }
       ],
-      "summary": "新增广东科研助理线索：平台11月13日发布，11月19日截止，健康经济学/医疗保障研究，接受经济学等背景、研究生优先。尚无单位官网原文，保留lead，空额、合同和资格待核。"
+      "summary": "已过转载正文11月19日报名截止，标closed并保留lead；健康经济学/医疗保障科研项目助理，研究生优先、优秀者可放宽本科，非博士专设。单位原文、合同与录用结果待核。",
+      "closed": true
     },
     {
       "id": "szu-mingde-postdoc-digital-econ-20260511",
