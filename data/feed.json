@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T15:41:37+08:00",
+  "generatedAt": "2026-11-22T09:40:35+08:00",
   "lastScanStartedAt": "2026-11-21T15:38:20+08:00",
   "lastScanCompletedAt": "2026-11-21T15:41:36+08:00",
-  "lastVerifiedAt": "2026-11-21T10:02:26+08:00",
+  "lastVerifiedAt": "2026-11-22T09:40:06+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -2512,7 +2512,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-21T10:02:26+08:00",
+      "verifiedAt": "2026-11-22T09:40:06+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2592,10 +2592,13 @@
         {
           "note": "11月21日针对网页变更标记实读转载全文，党员、12月31日报名及获证/留服认证要求未见变化；金华人社原文仍不可读。维持lead、人数null，官方岗位表、停招及空额待核。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月22日针对网页变更标记实读转载招聘全文，党员、12月31日报名及获证/留服认证条款未见变化；人社局原文仍不可访问，补查未确认停招或当前空额。保持lead、人数null，官方岗位表待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
-      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。",
-      "reviewNeeded": true
+      "summary": "新增党校专任教师待核线索，转载接受理论/应用经济学博士、须党员，38岁（特定条件40岁），报名至12月31日招满即止。官方正文及需求表不可读，保持lead。"
     },
     {
       "id": "hiic-macro-researcher-20261104-lead",
@@ -4680,6 +4683,303 @@
       ],
       "summary": "长聘副教授正式岗位1名，截止2027年2月18日；相关博士、一流机构经历及突出教学研究成果要求，不仅凭博士学历判断符合。",
       "affiliation": "教育部直属高校商学院，按普通高校归类"
+    },
+    {
+      "institution": "广东科贸职业学院",
+      "region": "广东",
+      "city": "广州 / 清远",
+      "type": "职业院校",
+      "kind": "faculty",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html",
+      "alternateUrls": [
+        "https://www.gdkm.edu.cn/rlzyb/rczp"
+      ],
+      "publishedAt": "2026-11-20",
+      "headcount": null,
+      "startDate": "2026-11-24T00:00:00+08:00",
+      "deadline": "2026-12-04T23:59:00+08:00",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-22T09:40:06+08:00",
+      "firstSeenAt": "2026-11-22T09:40:06+08:00",
+      "affiliation": "广东省教育厅所属公办职业院校；校编非事业编（据转载，官方待核）",
+      "remainingVacancies": "仅转载岗位行可读，官方原计划及当前空额未核实，人数null",
+      "id": "gdkm-batch5-sm01-20261120-lead",
+      "title": "第五批 · 商贸学院专任教师 SM01（官方待核）",
+      "positionCode": "SM01",
+      "majors": [
+        "A0202应用经济学、职业技术教育学、新闻传播学、管理科学与工程、工商管理、广播电视艺术学等（据转载）"
+      ],
+      "requirements": {
+        "education": "转载为博士研究生/博士；正高、副高及高技能人才有学历放宽条款，具体官方条件待核",
+        "freshGraduate": "转载面向2027届普通高校应届及社会人员；2027届国内毕业生可至2027年9月30日获证，其他国内人员须报名前获证，不将2026公告等同2026届",
+        "overseas": "转载明确港澳台学习及境外留学人员须于报名首日前取得留服认证和成绩单等，报名须上传毕业证/认证；相近专业另需中外文成绩单和课程对比证明。官方时限待复核，不推定符合",
+        "ageLimit": 45,
+        "ageText": "转载博士45周岁以下，含本数；正高55岁以下，突出或急需可适当放宽；年龄/工作经历计算至报名首日，官方待核",
+        "partyText": "转载表称除MK01思政岗外其他岗位不作党员要求，官方待核",
+        "research": "须提供课题、论文、专利及奖项佐证，并参加教学展示、科研展示和答辩；未读到官方量化门槛",
+        "employment": "转载明确学校编制（非事业编制）、劳动合同；三个校区须服从安排",
+        "application": "转载明确首轮11月24日0:00至12月4日23:59，整体滚动招满即止；后续轮次须依学校新公告，未确认实际延期。网络报名每人限一岗",
+        "professionalScope": "转载以博士学历报考须符合博士阶段专业要求；各学历阶段及本科专业的完整审核要求需以官方原表为准，不以本科经济类范围替代博士专业"
+      },
+      "evidence": [
+        {
+          "note": "11月22日实读11月20日第五批完整转载正文及岗位表SM01，该行列应用经济学A0202；首轮报名/港澳认证/年龄及校编非事业编条款已读。仅转载证据，不将全校40人或本行转载人数计为核实名额。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html"
+        },
+        {
+          "note": "11月22日尝试学校人才招聘栏目，网页工具不可读、常规HTTP访问403；未绕过限制，未实读官方正文或附件，保留lead。补查未确认本批更正、延期或招满通知。",
+          "url": "https://www.gdkm.edu.cn/rlzyb/rczp"
+        }
+      ],
+      "summary": "新增商贸学院SM01待核线索，转载接受应用经济学博士，首轮11月24日开始至12月4日23:59；港澳认证须报名首日前，校编非事业编。官方403，人数null、条件待确认。"
+    },
+    {
+      "institution": "广东科贸职业学院",
+      "region": "广东",
+      "city": "广州 / 清远",
+      "type": "职业院校",
+      "kind": "faculty",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html",
+      "alternateUrls": [
+        "https://www.gdkm.edu.cn/rlzyb/rczp"
+      ],
+      "publishedAt": "2026-11-20",
+      "headcount": null,
+      "startDate": "2026-11-24T00:00:00+08:00",
+      "deadline": "2026-12-04T23:59:00+08:00",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-22T09:40:06+08:00",
+      "firstSeenAt": "2026-11-22T09:40:06+08:00",
+      "affiliation": "广东省教育厅所属公办职业院校；校编非事业编（据转载，官方待核）",
+      "remainingVacancies": "仅转载岗位行可读，官方原计划及当前空额未核实，人数null",
+      "id": "gdkm-batch5-wm01-20261120-lead",
+      "title": "第五批 · 外语外贸学院专任教师 WM01（官方待核）",
+      "positionCode": "WM01",
+      "majors": [
+        "A0202应用经济学、外国语言文学、新闻传播学、工商管理（据转载）"
+      ],
+      "requirements": {
+        "education": "转载为博士研究生/博士；正高、副高及高技能人才有学历放宽条款，具体官方条件待核",
+        "freshGraduate": "转载面向2027届普通高校应届及社会人员；2027届国内毕业生可至2027年9月30日获证，其他国内人员须报名前获证，不将2026公告等同2026届",
+        "overseas": "转载明确港澳台学习及境外留学人员须于报名首日前取得留服认证和成绩单等，报名须上传毕业证/认证；相近专业另需中外文成绩单和课程对比证明。官方时限待复核，不推定符合",
+        "ageLimit": 45,
+        "ageText": "转载博士45周岁以下，含本数；正高55岁以下，突出或急需可适当放宽；年龄/工作经历计算至报名首日，官方待核",
+        "partyText": "转载表称除MK01思政岗外其他岗位不作党员要求，官方待核",
+        "research": "须提供课题、论文、专利及奖项佐证，并参加教学展示、科研展示和答辩；未读到官方量化门槛",
+        "employment": "转载明确学校编制（非事业编制）、劳动合同；三个校区须服从安排",
+        "application": "转载明确首轮11月24日0:00至12月4日23:59，整体滚动招满即止；后续轮次须依学校新公告，未确认实际延期。网络报名每人限一岗",
+        "professionalScope": "转载以博士学历报考须符合博士阶段专业要求；各学历阶段及本科专业的完整审核要求需以官方原表为准，不以本科经济类范围替代博士专业"
+      },
+      "evidence": [
+        {
+          "note": "11月22日实读11月20日第五批完整转载正文及岗位表WM01，该行列应用经济学A0202；首轮报名/港澳认证/年龄及校编非事业编条款已读。仅转载证据，不将全校40人或本行转载人数计为核实名额。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html"
+        },
+        {
+          "note": "11月22日尝试学校人才招聘栏目，网页工具不可读、常规HTTP访问403；未绕过限制，未实读官方正文或附件，保留lead。补查未确认本批更正、延期或招满通知。",
+          "url": "https://www.gdkm.edu.cn/rlzyb/rczp"
+        }
+      ],
+      "summary": "新增外语外贸学院WM01待核线索，转载接受应用经济学博士，首轮11月24日开始至12月4日23:59；港澳认证须报名首日前，校编非事业编。官方403，人数null、条件待确认。"
+    },
+    {
+      "institution": "广东科贸职业学院",
+      "region": "广东",
+      "city": "广州 / 清远",
+      "type": "职业院校",
+      "kind": "faculty",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html",
+      "alternateUrls": [
+        "https://www.gdkm.edu.cn/rlzyb/rczp"
+      ],
+      "publishedAt": "2026-11-20",
+      "headcount": null,
+      "startDate": "2026-11-24T00:00:00+08:00",
+      "deadline": "2026-12-04T23:59:00+08:00",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-22T09:40:06+08:00",
+      "firstSeenAt": "2026-11-22T09:40:06+08:00",
+      "affiliation": "广东省教育厅所属公办职业院校；校编非事业编（据转载，官方待核）",
+      "remainingVacancies": "仅转载岗位行可读，官方原计划及当前空额未核实，人数null",
+      "id": "gdkm-batch5-gl01-20261120-lead",
+      "title": "第五批 · 管理学院专任教师 GL01（官方待核）",
+      "positionCode": "GL01",
+      "majors": [
+        "A0202应用经济学、管理科学与工程、工商管理、农业经济管理、机械工程、控制科学与工程、计算机科学与技术（据转载）"
+      ],
+      "requirements": {
+        "education": "转载为博士研究生/博士；正高、副高及高技能人才有学历放宽条款，具体官方条件待核",
+        "freshGraduate": "转载面向2027届普通高校应届及社会人员；2027届国内毕业生可至2027年9月30日获证，其他国内人员须报名前获证，不将2026公告等同2026届",
+        "overseas": "转载明确港澳台学习及境外留学人员须于报名首日前取得留服认证和成绩单等，报名须上传毕业证/认证；相近专业另需中外文成绩单和课程对比证明。官方时限待复核，不推定符合",
+        "ageLimit": 45,
+        "ageText": "转载博士45周岁以下，含本数；正高55岁以下，突出或急需可适当放宽；年龄/工作经历计算至报名首日，官方待核",
+        "partyText": "转载表称除MK01思政岗外其他岗位不作党员要求，官方待核",
+        "research": "须提供课题、论文、专利及奖项佐证，并参加教学展示、科研展示和答辩；未读到官方量化门槛",
+        "employment": "转载明确学校编制（非事业编制）、劳动合同；三个校区须服从安排",
+        "application": "转载明确首轮11月24日0:00至12月4日23:59，整体滚动招满即止；后续轮次须依学校新公告，未确认实际延期。网络报名每人限一岗",
+        "professionalScope": "转载以博士学历报考须符合博士阶段专业要求；各学历阶段及本科专业的完整审核要求需以官方原表为准，不以本科经济类范围替代博士专业"
+      },
+      "evidence": [
+        {
+          "note": "11月22日实读11月20日第五批完整转载正文及岗位表GL01，该行列应用经济学A0202；首轮报名/港澳认证/年龄及校编非事业编条款已读。仅转载证据，不将全校40人或本行转载人数计为核实名额。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html"
+        },
+        {
+          "note": "11月22日尝试学校人才招聘栏目，网页工具不可读、常规HTTP访问403；未绕过限制，未实读官方正文或附件，保留lead。补查未确认本批更正、延期或招满通知。",
+          "url": "https://www.gdkm.edu.cn/rlzyb/rczp"
+        }
+      ],
+      "summary": "新增管理学院GL01待核线索，转载接受应用经济学博士，首轮11月24日开始至12月4日23:59；港澳认证须报名首日前，校编非事业编。官方403，人数null、条件待确认。"
+    },
+    {
+      "institution": "广东科贸职业学院",
+      "region": "广东",
+      "city": "广州 / 清远",
+      "type": "职业院校",
+      "kind": "faculty",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html",
+      "alternateUrls": [
+        "https://www.gdkm.edu.cn/rlzyb/rczp"
+      ],
+      "publishedAt": "2026-11-20",
+      "headcount": null,
+      "startDate": "2026-11-24T00:00:00+08:00",
+      "deadline": "2026-12-04T23:59:00+08:00",
+      "rolling": true,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-22T09:40:06+08:00",
+      "firstSeenAt": "2026-11-22T09:40:06+08:00",
+      "affiliation": "广东省教育厅所属公办职业院校；校编非事业编（据转载，官方待核）",
+      "remainingVacancies": "仅转载岗位行可读，官方原计划及当前空额未核实，人数null",
+      "id": "gdkm-batch5-kj01-20261120-lead",
+      "title": "第五批 · 会计学院专任教师 KJ01（官方待核）",
+      "positionCode": "KJ01",
+      "majors": [
+        "A0202应用经济学、会计学、会计硕士（据转载）"
+      ],
+      "requirements": {
+        "education": "转载为博士研究生/博士；正高、副高及高技能人才有学历放宽条款，具体官方条件待核",
+        "freshGraduate": "转载面向2027届普通高校应届及社会人员；2027届国内毕业生可至2027年9月30日获证，其他国内人员须报名前获证，不将2026公告等同2026届",
+        "overseas": "转载明确港澳台学习及境外留学人员须于报名首日前取得留服认证和成绩单等，报名须上传毕业证/认证；相近专业另需中外文成绩单和课程对比证明。官方时限待复核，不推定符合",
+        "ageLimit": 45,
+        "ageText": "转载博士45周岁以下，含本数；正高55岁以下，突出或急需可适当放宽；年龄/工作经历计算至报名首日，官方待核",
+        "partyText": "转载表称除MK01思政岗外其他岗位不作党员要求，官方待核",
+        "research": "须提供课题、论文、专利及奖项佐证，并参加教学展示、科研展示和答辩；未读到官方量化门槛",
+        "employment": "转载明确学校编制（非事业编制）、劳动合同；三个校区须服从安排",
+        "application": "转载明确首轮11月24日0:00至12月4日23:59，整体滚动招满即止；后续轮次须依学校新公告，未确认实际延期。网络报名每人限一岗",
+        "professionalScope": "转载以博士学历报考须符合博士阶段专业要求；各学历阶段及本科专业的完整审核要求需以官方原表为准，不以本科经济类范围替代博士专业"
+      },
+      "evidence": [
+        {
+          "note": "11月22日实读11月20日第五批完整转载正文及岗位表KJ01，该行列应用经济学A0202；首轮报名/港澳认证/年龄及校编非事业编条款已读。仅转载证据，不将全校40人或本行转载人数计为核实名额。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/447250.html"
+        },
+        {
+          "note": "11月22日尝试学校人才招聘栏目，网页工具不可读、常规HTTP访问403；未绕过限制，未实读官方正文或附件，保留lead。补查未确认本批更正、延期或招满通知。",
+          "url": "https://www.gdkm.edu.cn/rlzyb/rczp"
+        }
+      ],
+      "summary": "新增会计学院KJ01待核线索，转载接受应用经济学博士，首轮11月24日开始至12月4日23:59；港澳认证须报名首日前，校编非事业编。官方403，人数null、条件待确认。"
+    },
+    {
+      "id": "hzcu-business-postdoc-official",
+      "institution": "浙大城市学院商学院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "商学院博士后 · 应用经济学/工商管理",
+      "url": "https://www.hzcu.edu.cn/rczp/rczp/bshzpgg/zpgw.htm",
+      "publishedAt": null,
+      "headcount": null,
+      "deadline": null,
+      "rolling": true,
+      "verifiedLevel": "position",
+      "sourceAuthority": "official",
+      "verifiedAt": "2026-11-22T09:40:06+08:00",
+      "firstSeenAt": "2026-11-22T09:40:06+08:00",
+      "majors": [
+        "应用经济学",
+        "工商管理"
+      ],
+      "affiliation": "高校商学院；依托浙江大学流动站、两校双导师指导的博士后，非政府研究机构或正式教师岗位",
+      "requirements": {
+        "education": "近三年内获得博士学位",
+        "ageLimit": 35,
+        "ageText": "年龄不超过35周岁",
+        "freshGraduate": "近三年内获博士；具体获证/进站日期及应届待获证口径待确认",
+        "overseas": "境外学历认证材料与提交时限未单列，待确认",
+        "research": "毕业于知名高校/科研院所或所在学科有较高影响力；相关领域第一作者发表重要影响力论文，或相当水平业绩。不推定个人符合",
+        "employment": "须全脱产开展博士后研究；依托浙江大学流动站双导师指导",
+        "partyText": "正文未单列党员身份条件",
+        "application": "官网应聘方式明确全年接受博士后申请，邮件提交简历、学历学位、现任职证明和500字学术简介；无固定报名截止"
+      },
+      "remainingVacancies": "官方具体行未列计划人数；当前空额待确认",
+      "evidence": [
+        {
+          "note": "11月22日实读官网博士后招聘条件及岗位表第8行：商学院、应用经济学/工商管理，近三年获博士、35岁以内、全脱产及论文/业绩要求，未列人数和发布日期。",
+          "url": "https://www.hzcu.edu.cn/rczp/rczp/bshzpgg/zpgw.htm"
+        },
+        {
+          "note": "11月22日实读官方应聘方式，明确学校全年接受博士后申请；未推算12月31日固定截止，deadline=null、rolling=true。",
+          "url": "https://www.hzcu.edu.cn/rczp/rczp/bshzpgg/ypfs.htm"
+        }
+      ],
+      "summary": "新增官网具体应用经济学博士后岗位，全年接受申请；近三年博士、35岁以内、全脱产及研究成果要求，名额与境外认证待确认，博士后单列。"
+    },
+    {
+      "id": "hzcu-urban-strategy-postdoc-20261116-lead",
+      "institution": "浙大城市学院城市发展与战略研究院",
+      "region": "浙江",
+      "city": "杭州",
+      "type": "普通高校",
+      "kind": "postdoc",
+      "title": "城市发展与战略研究博士后（经济学方向及官方岗位表待核）",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/445457.html",
+      "alternateUrls": [
+        "https://mp.weixin.qq.com/s/G9E3BbWsL48MaqpcriR_Ow"
+      ],
+      "publishedAt": "2026-11-16",
+      "headcount": null,
+      "deadline": null,
+      "rolling": false,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-22T09:40:06+08:00",
+      "firstSeenAt": "2026-11-22T09:40:06+08:00",
+      "majors": [
+        "理论经济学、应用经济学等（转载学科标签，具体导师方向待官方岗位表核验）"
+      ],
+      "requirements": {
+        "education": "转载要求近三年内取得博士学位",
+        "ageText": "转载年龄原则上不超过35周岁",
+        "freshGraduate": "具体获证与进站日期待官方确认",
+        "overseas": "境外认证时限未读到，待确认",
+        "research": "转载要求相关领域重要影响力一作论文或相当科研业绩；大数据分析/数字治理或交叉背景优先",
+        "employment": "转载为浙大城市学院与浙江大学双导师联合培养博士后、全脱产；非正式教研岗位",
+        "partyText": "转载未单列党员身份条件",
+        "application": "转载为邮件申请，未给明确截止或滚动条款；不能用学校通用全年受理直接替代本研究院批次安排"
+      },
+      "affiliation": "高校下属研究院，普通高校归类，不因服务政府决策归作政府科研院所",
+      "remainingVacancies": "转载总计3名跨方向，未实读官方分导师岗位表；人数null、剩余名额待核",
+      "evidence": [
+        {
+          "note": "11月22日实读11月16日平台完整公告：研究院博士后招聘、近三年获博士、原则35岁、全脱产和论文要求；3人为研究院总计划且仅转载，不计经济学名额。具体方向链接为微信，未完成岗位表核验。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/445457.html"
+        },
+        {
+          "note": "转载指向的微信来源本次不可打开；学校通用表对应行仍为法学/公共管理，不能替代本次经济学相关研究方向核验，保留lead，不认定平台下线为官方停招。",
+          "url": "https://mp.weixin.qq.com/s/G9E3BbWsL48MaqpcriR_Ow"
+        }
+      ],
+      "summary": "11月16日新发研究院博士后转载线索，经济学具体方向、导师岗位及空额待官方核验；35岁和三年内博士等条件不推定符合，人数/截止null。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
