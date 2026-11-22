@@ -245,7 +245,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:13:46+08:00",
-    "lastSeenAt": "2026-11-21T15:38:30+08:00",
+    "lastSeenAt": "2026-11-22T15:21:27+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -281,7 +281,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:24+08:00",
-    "lastSeenAt": "2026-11-21T15:38:44+08:00",
+    "lastSeenAt": "2026-11-22T15:21:37+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -296,6 +296,85 @@
     ],
     "verificationIssues": [],
     "contentHash": "54d0aa282fed2f11799dd74b14b16c49176155b2a757f35d450463df4c181f45",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-880042515c8e1f",
+    "sourceId": "gd-hrss",
+    "institution": "单位详见原公告",
+    "region": "广东",
+    "city": "",
+    "type": "综合招聘平台",
+    "kind": "faculty",
+    "title": "广州中医药大学第三附属医院2026年第一批公开招聘工作人员公告",
+    "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4953420.html",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:14:05+08:00",
+    "lastSeenAt": "2026-11-22T15:21:43+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "（3）政治面貌要求为中共党员的，由现党组织关系所在的党委或党总支（党支部）出具党员身份证明，开具时间离报名首日不超过1个月。",
+      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（www.gzhtcm3.com/rczp/zpxx.htm）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。"
+    ],
+    "attachments": [
+      {
+        "label": "广州中医药大学第三附属医院2026年第一批公开招聘工作人员岗位表",
+        "url": "https://hrss.gd.gov.cn/attachment/0/624/624787/4953420.xls"
+      }
+    ],
+    "verificationIssues": [
+      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
+    ],
+    "contentHash": "ed3b0f7d8f0e9e571d2d51b1282a2d32696e348063e7036632cddbe264c5f86a",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-c914e795d10963",
+    "sourceId": "gd-hrss",
+    "institution": "单位详见原公告",
+    "region": "广东",
+    "city": "",
+    "type": "综合招聘平台",
+    "kind": "faculty",
+    "title": "广东石油化工学院2026年公开招聘辅导员（第二批）公告",
+    "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4949166.html",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-29T12:14:13+08:00",
+    "lastSeenAt": "2026-11-22T15:21:47+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（https://www.gdupt.edu.cn/）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
+      "4.国（境）内人员须于报名截止日前取得相应的毕业证书、学位证书；港澳学习、留学回国人员须于报名截止日前取得教育部中国留学服务中心境外学历、学位认证书。",
+      "（一）应聘人员年龄及工作经历计算至报名截止日。"
+    ],
+    "attachments": [
+      {
+        "label": "附件：1.广东石油化工学院2026年公开招聘辅导员（第二批）岗位表",
+        "url": "https://hrss.gd.gov.cn/attachment/0/623/623882/4949166.xls"
+      }
+    ],
+    "verificationIssues": [
+      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
+    ],
+    "contentHash": "e32ff2fc89bec0bde8b897ee9389c5348c04d4ac9cf787cb7e0f7deb0bc298b7",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -318,7 +397,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:27+08:00",
-    "lastSeenAt": "2026-11-21T15:38:59+08:00",
+    "lastSeenAt": "2026-11-22T15:21:52+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -358,7 +437,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:50+08:00",
-    "lastSeenAt": "2026-11-21T15:39:13+08:00",
+    "lastSeenAt": "2026-11-22T15:22:09+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -370,85 +449,6 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "b517a6be5b7a24ce7e3eb7ff5df4a714da8834b7a7bfd7334cdc7c53cdaf9dc7",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-880042515c8e1f",
-    "sourceId": "gd-hrss",
-    "institution": "单位详见原公告",
-    "region": "广东",
-    "city": "",
-    "type": "综合招聘平台",
-    "kind": "faculty",
-    "title": "广州中医药大学第三附属医院2026年第一批公开招聘工作人员公告",
-    "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4953420.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:14:05+08:00",
-    "lastSeenAt": "2026-11-21T15:39:06+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "（3）政治面貌要求为中共党员的，由现党组织关系所在的党委或党总支（党支部）出具党员身份证明，开具时间离报名首日不超过1个月。",
-      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（www.gzhtcm3.com/rczp/zpxx.htm）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。"
-    ],
-    "attachments": [
-      {
-        "label": "广州中医药大学第三附属医院2026年第一批公开招聘工作人员岗位表",
-        "url": "https://hrss.gd.gov.cn/attachment/0/624/624787/4953420.xls"
-      }
-    ],
-    "verificationIssues": [
-      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
-    ],
-    "contentHash": "ed3b0f7d8f0e9e571d2d51b1282a2d32696e348063e7036632cddbe264c5f86a",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-c914e795d10963",
-    "sourceId": "gd-hrss",
-    "institution": "单位详见原公告",
-    "region": "广东",
-    "city": "",
-    "type": "综合招聘平台",
-    "kind": "faculty",
-    "title": "广东石油化工学院2026年公开招聘辅导员（第二批）公告",
-    "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4949166.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-29T12:14:13+08:00",
-    "lastSeenAt": "2026-11-21T15:39:11+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（https://www.gdupt.edu.cn/）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
-      "4.国（境）内人员须于报名截止日前取得相应的毕业证书、学位证书；港澳学习、留学回国人员须于报名截止日前取得教育部中国留学服务中心境外学历、学位认证书。",
-      "（一）应聘人员年龄及工作经历计算至报名截止日。"
-    ],
-    "attachments": [
-      {
-        "label": "附件：1.广东石油化工学院2026年公开招聘辅导员（第二批）岗位表",
-        "url": "https://hrss.gd.gov.cn/attachment/0/623/623882/4949166.xls"
-      }
-    ],
-    "verificationIssues": [
-      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
-    ],
-    "contentHash": "e32ff2fc89bec0bde8b897ee9389c5348c04d4ac9cf787cb7e0f7deb0bc298b7",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -471,7 +471,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:40+08:00",
-    "lastSeenAt": "2026-11-21T15:39:14+08:00",
+    "lastSeenAt": "2026-11-22T15:22:08+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -505,7 +505,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:21:53+08:00",
-    "lastSeenAt": "2026-11-21T15:39:17+08:00",
+    "lastSeenAt": "2026-11-22T15:22:10+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -539,7 +539,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-09T15:06:45+08:00",
-    "lastSeenAt": "2026-11-21T15:39:12+08:00",
+    "lastSeenAt": "2026-11-22T15:22:05+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -582,7 +582,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:14:43+08:00",
-    "lastSeenAt": "2026-11-21T15:39:16+08:00",
+    "lastSeenAt": "2026-11-22T15:22:08+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -618,7 +618,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:26+08:00",
-    "lastSeenAt": "2026-11-21T15:39:26+08:00",
+    "lastSeenAt": "2026-11-22T15:22:18+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -654,7 +654,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:07+08:00",
-    "lastSeenAt": "2026-11-21T15:39:26+08:00",
+    "lastSeenAt": "2026-11-22T15:22:19+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -686,7 +686,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-30T14:22:19+08:00",
-    "lastSeenAt": "2026-11-21T15:39:39+08:00",
+    "lastSeenAt": "2026-11-22T15:22:29+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -729,7 +729,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:43+08:00",
-    "lastSeenAt": "2026-11-21T15:39:42+08:00",
+    "lastSeenAt": "2026-11-22T15:22:34+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -739,49 +739,6 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "724b6eafee5c348c9fbf789e86bd06544179168e6f1674864910096d9dfb1ad0",
-    "sourceAuthority": "official",
-    "remainingVacancies": "未核实",
-    "alternateUrls": []
-  },
-  {
-    "id": "auto-9f624b80133da4",
-    "sourceId": "gd-scnu",
-    "institution": "华南师范大学",
-    "region": "广东",
-    "city": "广州",
-    "type": "普通高校",
-    "kind": "faculty",
-    "title": "华南师范大学2026年公开招聘工作人员公告",
-    "url": "https://rsc.scnu.edu.cn/a/20260408/1015.html",
-    "publishedAt": null,
-    "deadline": null,
-    "rolling": false,
-    "headcount": null,
-    "majors": [],
-    "verifiedLevel": "lead",
-    "verifiedAt": null,
-    "firstSeenAt": "2026-10-30T14:22:22+08:00",
-    "lastSeenAt": "2026-11-21T15:39:50+08:00",
-    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
-    "requirements": {},
-    "evidenceHints": [
-      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（http://rsc.scnu.edu.cn）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
-      "4.国内普通高校2026年应届毕业生须在2026年7月31日前取得相应的毕业证书、学位证书；2026年应届港澳学习、留学回国人员须于报名截止日前取得相应的学位证书和教育部中国留学服务中心境外学历、学位认证书；其他人员须在报名截止日前取得相应的毕业证书、学位证书，其中有境外留学经历的还须取得相应的教育部学历学位认证书。",
-      "招聘岗位考试方式为笔试+面试的应聘人员在笔试前应确认是否参加笔试。报名确认的时间等相关事宜通过本单位门户网站另行发布，未按要求进行确认的应聘人员报名不成功。",
-      "报名成功的应聘人员请登录报名系统，自行下载打印准考证。准考证打印时间通过本单位门户网站另行发布。",
-      "笔试主要测评基本能力和岗位所需的专业素质。笔试时间通过本单位门户网站另行发布。本次笔试计划在广州市和北京市设立考点，具体实施视报名情况而定。笔试包括综合能力测试和申论两个科目，每个科目满分均为100分，笔试成绩按照综合能力测试、申论成绩各占50%的比例合成。",
-      "（二）应聘人员年龄及工作经历计算至报名截止日。"
-    ],
-    "attachments": [
-      {
-        "label": "华南师范大学2026年公开招聘工作人员岗位表.xls",
-        "url": "https://statics.scnu.edu.cn/pics/rsc/2026/0408/1775615392306060.xls"
-      }
-    ],
-    "verificationIssues": [
-      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
-    ],
-    "contentHash": "7e7861f90b45f43ad803a2408afe65517282ceab3b18fadbbb7cb52c2a81740a",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -804,7 +761,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:15:58+08:00",
-    "lastSeenAt": "2026-11-21T15:39:53+08:00",
+    "lastSeenAt": "2026-11-22T15:22:41+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -837,7 +794,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-11-07T14:31:45+08:00",
-    "lastSeenAt": "2026-11-21T15:39:57+08:00",
+    "lastSeenAt": "2026-11-22T15:22:46+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -847,6 +804,49 @@
     "attachments": [],
     "verificationIssues": [],
     "contentHash": "a496c0de6b43c1ea33c1e97405d7f7e89d3c4d523267769e67742d3168e95ccb",
+    "sourceAuthority": "official",
+    "remainingVacancies": "未核实",
+    "alternateUrls": []
+  },
+  {
+    "id": "auto-9f624b80133da4",
+    "sourceId": "gd-scnu",
+    "institution": "华南师范大学",
+    "region": "广东",
+    "city": "广州",
+    "type": "普通高校",
+    "kind": "faculty",
+    "title": "华南师范大学2026年公开招聘工作人员公告",
+    "url": "https://rsc.scnu.edu.cn/a/20260408/1015.html",
+    "publishedAt": null,
+    "deadline": null,
+    "rolling": false,
+    "headcount": null,
+    "majors": [],
+    "verifiedLevel": "lead",
+    "verifiedAt": null,
+    "firstSeenAt": "2026-10-30T14:22:22+08:00",
+    "lastSeenAt": "2026-11-22T15:22:46+08:00",
+    "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
+    "requirements": {},
+    "evidenceHints": [
+      "1.应聘人员在招聘公告规定的时间内登录广东省人力资源和社会保障厅网站（https://hrss.gd.gov.cn/）或单位网站（http://rsc.scnu.edu.cn）详细了解招聘岗位及有关条件，每人限报一个岗位，否则报名无效。",
+      "4.国内普通高校2026年应届毕业生须在2026年7月31日前取得相应的毕业证书、学位证书；2026年应届港澳学习、留学回国人员须于报名截止日前取得相应的学位证书和教育部中国留学服务中心境外学历、学位认证书；其他人员须在报名截止日前取得相应的毕业证书、学位证书，其中有境外留学经历的还须取得相应的教育部学历学位认证书。",
+      "招聘岗位考试方式为笔试+面试的应聘人员在笔试前应确认是否参加笔试。报名确认的时间等相关事宜通过本单位门户网站另行发布，未按要求进行确认的应聘人员报名不成功。",
+      "报名成功的应聘人员请登录报名系统，自行下载打印准考证。准考证打印时间通过本单位门户网站另行发布。",
+      "笔试主要测评基本能力和岗位所需的专业素质。笔试时间通过本单位门户网站另行发布。本次笔试计划在广州市和北京市设立考点，具体实施视报名情况而定。笔试包括综合能力测试和申论两个科目，每个科目满分均为100分，笔试成绩按照综合能力测试、申论成绩各占50%的比例合成。",
+      "（二）应聘人员年龄及工作经历计算至报名截止日。"
+    ],
+    "attachments": [
+      {
+        "label": "华南师范大学2026年公开招聘工作人员岗位表.xls",
+        "url": "https://statics.scnu.edu.cn/pics/rsc/2026/0408/1775615392306060.xls"
+      }
+    ],
+    "verificationIssues": [
+      "岗位附件未解析：Unsupported format, or corrupt file: Expected BOF record; found b'<?xml ve'"
+    ],
+    "contentHash": "7e7861f90b45f43ad803a2408afe65517282ceab3b18fadbbb7cb52c2a81740a",
     "sourceAuthority": "official",
     "remainingVacancies": "未核实",
     "alternateUrls": []
@@ -869,7 +869,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-11-21T15:40:15+08:00",
+    "lastSeenAt": "2026-11-22T15:23:00+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -903,7 +903,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:41+08:00",
-    "lastSeenAt": "2026-11-21T15:40:20+08:00",
+    "lastSeenAt": "2026-11-22T15:23:03+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -935,7 +935,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:19+08:00",
-    "lastSeenAt": "2026-11-21T15:40:08+08:00",
+    "lastSeenAt": "2026-11-22T15:22:55+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -974,7 +974,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:32+08:00",
-    "lastSeenAt": "2026-11-21T15:40:12+08:00",
+    "lastSeenAt": "2026-11-22T15:23:00+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
@@ -1013,7 +1013,7 @@
     "verifiedLevel": "lead",
     "verifiedAt": null,
     "firstSeenAt": "2026-10-29T12:16:42+08:00",
-    "lastSeenAt": "2026-11-21T15:40:23+08:00",
+    "lastSeenAt": "2026-11-22T15:23:06+08:00",
     "summary": "官方公告已发现；经济学对应岗位、应届与港澳学历条件须逐项核验。",
     "requirements": {},
     "evidenceHints": [
