@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastVerifiedAt": "2026-11-22T09:40:06+08:00",
+  "lastVerifiedAt": "2026-11-23T09:16:19+08:00",
   "reviewPolicy": "具体岗位依据正文和岗位表；只读到综合计划或转载线索的不提升为已核验具体岗位。",
   "jobs": [
     {
@@ -2500,7 +2500,7 @@
       "rolling": true,
       "verifiedLevel": "lead",
       "sourceAuthority": "repost",
-      "verifiedAt": "2026-11-22T09:40:06+08:00",
+      "verifiedAt": "2026-11-23T09:16:19+08:00",
       "firstSeenAt": "2026-11-07T09:11:59+08:00",
       "majors": [
         "理论经济学（据转载）",
@@ -2583,6 +2583,10 @@
         },
         {
           "note": "11月22日针对网页变更标记实读转载招聘全文，党员、12月31日报名及获证/留服认证条款未见变化；人社局原文仍不可访问，补查未确认停招或当前空额。保持lead、人数null，官方岗位表待核。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
+        },
+        {
+          "note": "11月23日针对网页变更标记实读转载招聘全文，党员、12月31日报名及学历学位/留服认证条款未见实质变化；人社局原文仍不可访问，补查未确认停招或当前空额。保持lead、人数null，官方需求表继续待核。",
           "url": "https://www.gaoxiaojob.com/announcement/detail/442262.html"
         }
       ],
@@ -4968,6 +4972,59 @@
         }
       ],
       "summary": "11月16日新发研究院博士后转载线索，经济学具体方向、导师岗位及空额待官方核验；35岁和三年内博士等条件不推定符合，人数/截止null。"
+    },
+    {
+      "id": "nbu-shangbang-d-20261113-lead",
+      "institution": "宁波大学“商帮经济与文化”智能计算实验室",
+      "region": "浙江",
+      "city": "宁波",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "专职科研岗 · 包玉刚人才D类（官方岗位表待核）",
+      "url": "https://www.gaoxiaojob.com/job/detail/2397272.html",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/445757.html",
+        "https://rlsbt.zj.gov.cn/col/col1229743683/art/2026/art_8fe741291c59450b84e51470b06446e4.html"
+      ],
+      "publishedAt": "2026-11-13",
+      "headcount": null,
+      "deadline": "2027-03-10",
+      "rolling": false,
+      "verifiedLevel": "lead",
+      "sourceAuthority": "repost",
+      "verifiedAt": "2026-11-23T09:16:19+08:00",
+      "firstSeenAt": "2026-11-23T09:16:19+08:00",
+      "majors": [
+        "应用经济学、中国史、计算机科学与技术（据具体岗位转载）"
+      ],
+      "affiliation": "高校下属实验室，归普通高校；非政府直属科研院所，非博士后",
+      "requirements": {
+        "education": "转载具体岗位为博士研究生，完整官方学历学位要求待核",
+        "freshGraduate": "转载总公告允许2027年普通高校应届凭推荐表/就业协议、境外未毕业者凭学籍证明复审；不能采用平台FAQ推定应往届均可，岗位中级职称及获证时限仍需核实",
+        "ageLimit": 38,
+        "ageText": "具体职位转载列38周岁及以下；总公告转载给出1987年1月1日以后出生的38岁口径，官方岗位表未读到，待确认",
+        "research": "转载具体职位要求中级职称；教学科研及社会服务能力、人才D类具体论文/项目/职称认定门槛待官方确认，不推定新博士满足",
+        "overseas": "境外学历认证材料及最晚取得时限未读到官方规定，待确认；留学未毕业学籍证明不等于免认证",
+        "partyText": "转载仅列政治、师德要求，未单列党员身份；官方待核",
+        "employment": "转载总公告为事业单位报备员额管理；具体专职科研岗位聘用和考核办法待官方核验",
+        "application": "转载总公告落款2026年11月13日，平台具体职位11月16日发布；正文明确报名至2027年3月10日，学校人才系统报名。未读到滚动招满条款，不标rolling"
+      },
+      "remainingVacancies": "转载本行2名跨应用经济学、中国史、计算机方向，官方表未读到，人数null、当前空额待确认",
+      "evidence": [
+        {
+          "note": "11月23日实读具体职位转载：包玉刚人才D类专职科研岗、实验室、博士、中级职称、38岁及以下、应用经济学/中国史/计算机；11月16日为平台发布日，不采用自动FAQ判断资格。",
+          "url": "https://www.gaoxiaojob.com/job/detail/2397272.html"
+        },
+        {
+          "note": "实读转载总公告全文，落款11月13日，报名至2027年3月10日；官方省人社公告不可访问、岗位XLS链接超时，未完成官方具体岗位核验。保留lead和人数null，未确认更正/延期/招满。",
+          "url": "https://rlsbt.zj.gov.cn/col/col1229743683/art/2026/art_8fe741291c59450b84e51470b06446e4.html"
+        },
+        {
+          "note": "实读学校官网可读的6月1日综合公告：属于旧人才引进框架，未把该页当成本次11月岗位的截止、人数及应届口径证据，未混用两版条件。",
+          "url": "https://recruit.nbu.edu.cn/info/1009/2521.htm"
+        }
+      ],
+      "summary": "新增应用经济学相关专职科研待核线索，转载38岁及以下且要求中级职称、至2027年3月10日报名；官方新岗位表不可读，不判断个人符合，人数null。"
     }
   ]
 }
