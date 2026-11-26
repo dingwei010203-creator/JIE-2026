@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:05:20+08:00",
+  "generatedAt": "2026-11-26T09:37:48+08:00",
   "lastScanStartedAt": "2026-11-25T17:02:06+08:00",
   "lastScanCompletedAt": "2026-11-25T17:05:19+08:00",
-  "lastVerifiedAt": "2026-11-25T09:07:47+08:00",
+  "lastVerifiedAt": "2026-11-26T09:37:08+08:00",
   "scanMode": "offline-rebuild",
   "scanSummary": {
     "configured": 79,
@@ -1304,7 +1304,7 @@
       "deadline": "2026-11-30",
       "rolling": false,
       "remainingVacancies": "当前剩余名额未核实，以招聘单位确认为准",
-      "verifiedAt": "2026-10-30T09:21:21+08:00",
+      "verifiedAt": "2026-11-26T09:37:08+08:00",
       "firstSeenAt": "2026-10-30T09:21:21+08:00",
       "id": "safe-ferc-postdoc-20261015",
       "institution": "国家外汇管理局外汇研究中心",
@@ -1335,6 +1335,10 @@
         },
         {
           "note": "报名截至11月30日，以收到邮件为准；应届学位证明、境外认证、代表作及推荐信要求见正文。",
+          "url": "https://www.safe.gov.cn/safe/2026/1015/27985.html"
+        },
+        {
+          "note": "11月26日临近截止实读外汇局正式公告全文，仍为11月30日按邮件收到时间截止；核对35岁以下、即将获博士可用答辩决议、国外学历认证、两篇以上论文代表作及两封推荐信等要求。定向补查未确认延期，跨方向总计划4人不作经济学名额或剩余人数。",
           "url": "https://www.safe.gov.cn/safe/2026/1015/27985.html"
         }
       ],
@@ -1646,7 +1650,7 @@
       "headcount": null,
       "rolling": false,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-01T09:04:17+08:00",
+      "verifiedAt": "2026-11-26T09:37:08+08:00",
       "firstSeenAt": "2026-11-01T09:04:17+08:00",
       "remainingVacancies": "具体计划人数及当前剩余名额未公开确认",
       "id": "borui-assistant-researcher-20260804",
@@ -1668,7 +1672,7 @@
         "partyText": "同等条件下中共党员优先，未列为必备资格",
         "research": "具备独立研究能力，掌握有关领域学科知识或实践经验；流利使用英语；规定行业政策研究等经历优先",
         "employment": "北京市登记类事业单位，由北京市商务局举办；签订劳动合同，不能据此推定纳入事业编制；非北京生源应届生需符合进京条件",
-        "application": "公告要求2026年11月30日前完成报名；通过智联校园搜索单位及对应岗位"
+        "application": "公告要求2026年11月30日前完成报名；通过智联校园搜索单位及对应岗位；背景调查时，国外高校毕业生须由所在院系教授提供就业推荐信，英语证明等材料备查"
       },
       "evidence": [
         {
@@ -1677,6 +1681,10 @@
         },
         {
           "note": "公告日期8月4日，报名11月30日前完成；2027年8月是国内应届生取得学历学位时限，不能当作报名截止；岗位人数未列。",
+          "url": "https://open.beijing.gov.cn/html/borui/HR5.html"
+        },
+        {
+          "note": "11月26日临近截止实读开放北京正式公告全文：仍须11月30日前报名，博士或硕士加5年经验、流利英语；留学归国就业报到口径及进京条件另审，2027年8月获证时限不是报名截止。未确认延期及当前空额。",
           "url": "https://open.beijing.gov.cn/html/borui/HR5.html"
         }
       ],
@@ -4234,7 +4242,7 @@
       "deadline": null,
       "rolling": true,
       "verifiedLevel": "position",
-      "verifiedAt": "2026-11-18T09:45:27+08:00",
+      "verifiedAt": "2026-11-26T09:37:08+08:00",
       "firstSeenAt": "2026-11-18T09:45:27+08:00",
       "sourceAuthority": "official",
       "affiliation": "高校下属研究院，归职业院校；深圳市博士后创新实践基地，与国内高校或研究院所合作",
@@ -4262,10 +4270,13 @@
         {
           "note": "实读PDF应聘方式、基地与联培单位说明，官网题名明确长期招聘，无固定截止；定向检索未确认该行招满或更正，原计划不视为剩余名额。",
           "url": "https://www.szpu.edu.cn/system/_content/download.jsp?owner=1950773726&urltype=news.DownloadAttachUrl&wbfileid=ED25271075684E3B5D38FE381B07EFF5"
+        },
+        {
+          "note": "11月26日针对变更标记下载官方所附长期招聘PDF，视觉实读第18页及第20页应聘、联培说明：该行仍含经济学、原计划3人跨学科共享，获博士3年内、35岁以下，其他要求栏为无。未确认招满或现存名额；保持博士后单列及固定截止null。",
+          "url": "https://www.szpu.edu.cn/system/_content/download.jsp?owner=1950773726&urltype=news.DownloadAttachUrl&wbfileid=ED25271075684E3B5D38FE381B07EFF5"
         }
       ],
-      "summary": "补录官方旧公告中的经济学相关博士后具体行，原计划3人跨学科共享，35岁以下、获博士3年内；长期招聘无固定截止，当前空额及联培资格待核，单列博士后。",
-      "reviewNeeded": true
+      "summary": "补录官方旧公告中的经济学相关博士后具体行，原计划3人跨学科共享，35岁以下、获博士3年内；长期招聘无固定截止，当前空额及联培资格待核，单列博士后。"
     },
     {
       "id": "nhei-postdoc-20261112-announcement",
@@ -4281,7 +4292,7 @@
       "deadline": "2026-12-01T00:00:00+08:00",
       "rolling": false,
       "verifiedLevel": "announcement",
-      "verifiedAt": "2026-11-18T09:45:27+08:00",
+      "verifiedAt": "2026-11-26T09:37:08+08:00",
       "firstSeenAt": "2026-11-18T09:45:27+08:00",
       "sourceAuthority": "official",
       "affiliation": "国家卫生健康委政策研究和咨询机构；博士后单列",
@@ -4308,6 +4319,10 @@
         {
           "note": "转载职位索引提示政策效应评估和公共卫生等含经济学相关范围，但职位全文亦不可访问；不将索引一级学科和平台人数当作官方具体岗位核验。",
           "url": "https://m.gaoxiaojob.com/job/detail/2398463.html"
+        },
+        {
+          "note": "11月26日临近截止实读中心正式公告正文，仍为11月30日24:00截止、博士获证不超3年、一般35岁及全职。定位附件1 DOCX但常规下载403，未完成经济学具体岗位、专业与人数核验；保持announcement、人数null，不把综合8人计作经济学名额。",
+          "url": "https://www.nhei.cn/nhei/c100048/202611/a7686e20a3fe4c88aaa8cd81ea4861ff.shtml"
         }
       ],
       "summary": "新增11月12日官方博士后综合公告，11月30日24:00截止，博士获证3年内、一般35岁及全职；岗位附件不可读，经济学范围、人数及空额待核，不混入正式岗位。"
@@ -5199,6 +5214,59 @@
         }
       ],
       "summary": "11月23日新发2027年度第一批事业编制综合公告，科研教学11月24日起至12月13日18:00报名；国内应届和留学回国分开定义，认证、年龄及成果需核。经济学具体岗位表403未读，保留announcement、人数null，不计已核验经济学岗位。"
+    },
+    {
+      "id": "usts-business-2026-batch2-20261124-announcement",
+      "institution": "苏州科技大学",
+      "region": "江苏",
+      "city": "苏州",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "第二批 · 商学院教师线索（正式岗位表及博士专业待核）",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/11/24/art_78506_11863997.html",
+      "alternateUrls": [
+        "https://xiaozhaobao.com.cn/job/37679790"
+      ],
+      "publishedAt": "2026-11-24",
+      "startDate": "2026-11-27T09:00:00+08:00",
+      "deadline": "2026-12-29T16:00:00+08:00",
+      "rolling": true,
+      "headcount": null,
+      "verifiedLevel": "announcement",
+      "verifiedAt": "2026-11-26T09:37:08+08:00",
+      "firstSeenAt": "2026-11-26T09:37:08+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "据转载检索索引：金融、管理科学与工程；是否接受经济学博士及对应专业代码待正式岗位表确认"
+      ],
+      "requirements": {
+        "education": "具体博士学历学位、职称与岗位编号须以官方附件为准；转载索引称商学院教师为博士岗位，尚未实读官方行",
+        "freshGraduate": "正式公告未把2026年度直接等同2026届；应届须报名时无工作单位，2027年8月31日前毕业获证，具体岗位应届/社会人员对象待表",
+        "ageText": "公告通用条件：博士不超过40岁（1986年1月1日之后出生），副高45岁、正高50岁；具体岗位特殊要求待表",
+        "partyText": "通用条件未单列党员身份；商学院具体岗位是否有要求待官方表，不能推定免党员",
+        "overseas": "国（境）外同期毕业人员2027年8月31日前完成留服认证；复审须认证证明。港澳适用及待认证时的材料口径待确认",
+        "research": "具体学科方向、成果、工作经历和职称门槛未实读官方附件，待确认；复审须学术成果等证明",
+        "employment": "省教育厅主管全额拨款事业单位招聘；办理事业单位聘用及备案，最低服务3年（含试用期），具体商学院岗位安排待表",
+        "application": "11月27日9:00至12月29日16:00省属事业单位平台报名，每人限1岗；公告明确长期招聘、招满即止，不设开考比例。12月30日为初审截止，12月31日为申辩/异议处理，均非报名截止"
+      },
+      "remainingVacancies": "转载索引称商学院1人，但官方附件下载403未实读，不作已核实原计划；当前空额和是否继续接收待核",
+      "attachments": [
+        {
+          "label": "官方第二批岗位表（本次下载403，未实读）",
+          "url": "https://jshrss.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=1b5cd94a473a41a2abc0b758af9cc74a.xlsx"
+        }
+      ],
+      "evidence": [
+        {
+          "note": "11月26日实读江苏人社正式公告全文，核对11月24日发布、11月27日开始及12月29日16:00报名截止、通用年龄、应届与认证规则和招满即止。仅完成公告层面核验。",
+          "url": "https://jshrss.jiangsu.gov.cn/art/2026/11/24/art_78506_11863997.html"
+        },
+        {
+          "note": "公开检索转载索引提示商学院教师、金融/管理科学与工程方向；转载具体页不可访问，正式XLSX常规下载403。未读到岗位代码或博士专业行，保持announcement、headcount=null，不推定经济学博士均可报；未确认更正或延期。",
+          "url": "https://xiaozhaobao.com.cn/job/37679790"
+        }
+      ],
+      "summary": "新增11月24日第二批综合公告关联商学院待核线索，11月27日起至12月29日16:00报名、招满即止。正式岗位表403，金融方向与经济学博士专业对应、人数、成果和空额待核；不计已核实具体经济学岗位。"
     },
     {
       "id": "auto-1dc3b0c952a3ac",
