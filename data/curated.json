@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastVerifiedAt": "2026-11-27T09:14:24+08:00",
+  "lastVerifiedAt": "2026-11-28T09:53:03+08:00",
   "reviewPolicy": "具体岗位依据正文和岗位表；只读到综合计划或转载线索的不提升为已核验具体岗位。",
   "jobs": [
     {
@@ -298,15 +298,16 @@
       "deadline": "2026-12-01",
       "rolling": false,
       "verifiedLevel": "lead",
-      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "verifiedAt": "2026-11-28T09:53:03+08:00",
       "requirements": {
         "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
         "freshGraduate": "即将获博士者按公告证明要求报名",
         "ageLimit": 40,
         "ageText": "一般不超过40周岁，以报名截止日计算",
         "overseas": "境外学历认证、进站手续及相关专业背景需核对",
-        "research": "优先考虑国际经贸、量化分析、产业或相关交叉领域研究经验",
-        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制"
+        "research": "据实读转载：优先经济学（国际贸易、产业、区域等）及相关交叉专业，须有贸易规则、产业经济、量化建模或相关经历；项目管理、小语种或流利英语、论文专著等为优先因素，未列统一量化成果硬门槛，官方待核",
+        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制",
+        "application": "11月28日实读新增转载全文：仅通过公告所列线上平台接收，报名截至2026年12月1日，资格初审后另行通知纸质材料；未确认延期或招满。原单位网站及所指公众号未能读取，仍待官方复核"
       },
       "remainingVacancies": "未核实，请以招聘单位最新确认为准",
       "evidence": [
@@ -321,12 +322,20 @@
         {
           "note": "11月1日审核原有证据：依据为华南师大就业网转载；本轮转载正文只返回动态模板，原单位官网超时，未获得可复核的原单位正式公告。修正等级为lead，保留原verifiedAt，不将访问尝试当实质复核。",
           "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "11月28日实读10月27日平台转载完整正文和本方向条件，确认12月1日截止、近3年博士或已答辩附进站前获学位证明、一般40岁、两年全脱产及各方向交叉经历。三个方向合计3名、原则各1可调剂仅为转载，仍不计核实名额。新定位其所指公众号但不可读，原单位网站超时，保持lead、headcount=null。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/440484.html"
         }
       ],
       "summary": "博士后方向线索，原记录依据高校转载，尚待原单位正式公告实质核验；原文条件、经济学专业范围及现存名额待确认，不计入已核验具体岗位。",
       "sourceId": "gd-gdis",
       "sourceAuthority": "university-repost",
-      "affiliation": "广东省市场监督管理局直属公益二类事业单位"
+      "affiliation": "广东省市场监督管理局直属公益二类事业单位",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/440484.html",
+        "https://mp.weixin.qq.com/s/5c9kO0WQ5ywZ8EiisPscUg"
+      ]
     },
     {
       "id": "gdis-postdoc-ip",
@@ -345,15 +354,16 @@
       "deadline": "2026-12-01",
       "rolling": false,
       "verifiedLevel": "lead",
-      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "verifiedAt": "2026-11-28T09:53:03+08:00",
       "requirements": {
         "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
         "freshGraduate": "即将获博士者按公告证明要求报名",
         "ageLimit": 40,
         "ageText": "一般不超过40周岁，以报名截止日计算",
         "overseas": "境外学历认证、进站手续及相关专业背景需核对",
-        "research": "优先考虑国际经贸、量化分析、产业或相关交叉领域研究经验",
-        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制"
+        "research": "据实读转载：优先理工科与经济学、情报学交叉复合背景，须具量化、模型、大数据和产业研判能力及相关知识产权/国际经贸等经历；不能仅凭经济学博士推定符合，官方待核",
+        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制",
+        "application": "11月28日实读新增转载全文：仅通过公告所列线上平台接收，报名截至2026年12月1日，资格初审后另行通知纸质材料；未确认延期或招满。原单位网站及所指公众号未能读取，仍待官方复核"
       },
       "remainingVacancies": "未核实，请以招聘单位最新确认为准",
       "evidence": [
@@ -368,12 +378,20 @@
         {
           "note": "11月1日审核原有证据：依据为华南师大就业网转载；本轮转载正文只返回动态模板，原单位官网超时，未获得可复核的原单位正式公告。修正等级为lead，保留原verifiedAt，不将访问尝试当实质复核。",
           "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "11月28日实读10月27日平台转载完整正文和本方向条件，确认12月1日截止、近3年博士或已答辩附进站前获学位证明、一般40岁、两年全脱产及各方向交叉经历。三个方向合计3名、原则各1可调剂仅为转载，仍不计核实名额。新定位其所指公众号但不可读，原单位网站超时，保持lead、headcount=null。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/440484.html"
         }
       ],
       "summary": "博士后方向线索，原记录依据高校转载，尚待原单位正式公告实质核验；原文条件、经济学专业范围及现存名额待确认，不计入已核验具体岗位。",
       "sourceId": "gd-gdis",
       "sourceAuthority": "university-repost",
-      "affiliation": "广东省市场监督管理局直属公益二类事业单位"
+      "affiliation": "广东省市场监督管理局直属公益二类事业单位",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/440484.html",
+        "https://mp.weixin.qq.com/s/5c9kO0WQ5ywZ8EiisPscUg"
+      ]
     },
     {
       "id": "gdis-postdoc-standards",
@@ -392,15 +410,16 @@
       "deadline": "2026-12-01",
       "rolling": false,
       "verifiedLevel": "lead",
-      "verifiedAt": "2026-10-29T12:22:22+08:00",
+      "verifiedAt": "2026-11-28T09:53:03+08:00",
       "requirements": {
         "education": "近三年获博士，或答辩后即将获学位并能提供进站前获学位证明",
         "freshGraduate": "即将获博士者按公告证明要求报名",
         "ageLimit": 40,
         "ageText": "一般不超过40周岁，以报名截止日计算",
         "overseas": "境外学历认证、进站手续及相关专业背景需核对",
-        "research": "优先考虑国际经贸、量化分析、产业或相关交叉领域研究经验",
-        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制"
+        "research": "据实读转载：优先理工科或经济学、管理学、法学等，兼具技术与法律、经济交叉背景，须有标准必要专利、标准专利协同、标准治理或量化等相关经历；官方待核",
+        "employment": "全脱产博士后，驻站两年；不等同直接取得事业编制",
+        "application": "11月28日实读新增转载全文：仅通过公告所列线上平台接收，报名截至2026年12月1日，资格初审后另行通知纸质材料；未确认延期或招满。原单位网站及所指公众号未能读取，仍待官方复核"
       },
       "remainingVacancies": "未核实，请以招聘单位最新确认为准",
       "evidence": [
@@ -415,12 +434,20 @@
         {
           "note": "11月1日审核原有证据：依据为华南师大就业网转载；本轮转载正文只返回动态模板，原单位官网超时，未获得可复核的原单位正式公告。修正等级为lead，保留原verifiedAt，不将访问尝试当实质复核。",
           "url": "https://career.scnu.edu.cn/detail/online?id=3629754"
+        },
+        {
+          "note": "11月28日实读10月27日平台转载完整正文和本方向条件，确认12月1日截止、近3年博士或已答辩附进站前获学位证明、一般40岁、两年全脱产及各方向交叉经历。三个方向合计3名、原则各1可调剂仅为转载，仍不计核实名额。新定位其所指公众号但不可读，原单位网站超时，保持lead、headcount=null。",
+          "url": "https://www.gaoxiaojob.com/announcement/detail/440484.html"
         }
       ],
       "summary": "博士后方向线索，原记录依据高校转载，尚待原单位正式公告实质核验；原文条件、经济学专业范围及现存名额待确认，不计入已核验具体岗位。",
       "sourceId": "gd-gdis",
       "sourceAuthority": "university-repost",
-      "affiliation": "广东省市场监督管理局直属公益二类事业单位"
+      "affiliation": "广东省市场监督管理局直属公益二类事业单位",
+      "alternateUrls": [
+        "https://www.gaoxiaojob.com/announcement/detail/440484.html",
+        "https://mp.weixin.qq.com/s/5c9kO0WQ5ywZ8EiisPscUg"
+      ]
     },
     {
       "id": "sz-drc-old-postdoc",
@@ -3371,7 +3398,7 @@
       "rolling": false,
       "headcount": null,
       "verifiedLevel": "announcement",
-      "verifiedAt": "2026-11-14T09:40:10+08:00",
+      "verifiedAt": "2026-11-28T09:53:03+08:00",
       "firstSeenAt": "2026-11-13T09:12:27+08:00",
       "sourceAuthority": "official",
       "majors": [
@@ -3402,6 +3429,10 @@
         {
           "note": "11月14日实读粉笔转载岗位摘要：经济学教研部列政治经济学、世界经济、区域经济学；决策咨询部列区域经济学、社会学、区域国别学。官网正文今日不可访问，官方岗位附件尚未读到；仅补充专业线索，维持announcement、人数null，不采用转载人数作为已核实岗位名额。",
           "url": "https://www.fenbi.com/page/exam-information-detail/470428926897152"
+        },
+        {
+          "note": "11月28日实读恢复可读的官方完整公告及通知栏，确认11月30日17:00邮件接收截止、党员含预备党员、38岁以下及指定核心2篇、2027届含择业期等条件。岗位表及成果清单仍返回验证码，未读取具体行或期刊目录，保持announcement、人数null；通知栏及定向补查未确认本批延期或招满。",
+          "url": "https://www.gddx.gov.cn/info/1207/37645.htm"
         }
       ],
       "summary": "2027年度教研综合公告，11月19日至30日报名；须党员、38岁以下及指定核心2篇论文。转载提示经济学教研部与决策咨询部含经济学专业，官方岗位表、成果目录及港澳/择业期资格待核，未计具体名额。",
@@ -5405,6 +5436,96 @@
         }
       ],
       "summary": "2027年度准聘副教授具体经济学博士岗位，数字经济研究及一定工作经验要求，未满40岁（副高可放宽），3篇代表作及3封推荐信；滚动至2027年12月31日，各职级人数及当前空额未明。"
+    },
+    {
+      "id": "pku-nse-faculty-20260214",
+      "institution": "北京大学新结构经济学研究院",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "新结构经济学研究院 · 教研系列（助理教授/副教授/长聘副教授/教授）",
+      "positionCode": "教研系列（公告未列数字代码）",
+      "url": "https://hr.pku.edu.cn/rczp/jxky/e37463f31411403fbaee12c05734f58e.htm",
+      "publishedAt": "2026-02-14",
+      "deadline": "2026-12-01",
+      "headcount": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-28T09:53:03+08:00",
+      "firstSeenAt": "2026-11-28T09:53:03+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济学"
+      ],
+      "affiliation": "北京大学所属研究院，非政府直属科研院所",
+      "requirements": {
+        "education": "具体岗位表明确经济学博士；未获博士者可否先申请、获证时限待确认",
+        "freshGraduate": "公告2026年度不等于限定2026届，正文未列毕业年度和应届口径",
+        "ageText": "具体公告未单列年龄条款，学校通用政策及不同职级要求待核，不推定不限年龄",
+        "partyText": "具体公告未单列党员身份要求，学校通用条件待核",
+        "overseas": "学历学位证明属于申请材料；港澳/境外认证材料及最晚取得时限未列，待确认",
+        "research": "经济学博士，较强研究能力，可向本科、硕士及博士生授课，教学语言汉语或英语；未单列量化论文指标，具体职级标准待确认",
+        "employment": "高校正式教研/研究技术系列招聘，未单列编制、合同类型、待遇和各职级分配，待确认；不是博士后招收",
+        "application": "材料截止2026年12月1日，未列具体时刻、起始时刻或滚动条款。须简历、学历学位证明、研究成果、代表论著、未来计划等，另明确简历、代表文章、出版物及3封推荐信；投递具体流程待确认"
+      },
+      "remainingVacancies": "本行计划原文为0—1，非已核实的正整数名额；headcount=null，当前是否仍接收及空额待确认",
+      "evidence": [
+        {
+          "note": "11月28日实读北大人事部完整正式公告与岗位表，本行经济学博士及具体职责明确；材料截止12月1日。原文人数0—1，不能直接取1计数；未把研究院名称视作政府研究机构或借用其他劳务派遣岗位条件。",
+          "url": "https://hr.pku.edu.cn/rczp/jxky/e37463f31411403fbaee12c05734f58e.htm"
+        },
+        {
+          "note": "实读北大教学科研招聘列表，本公告标注2026年2月14日，按原发布日期录入，非11月新公告；定向补查未确认针对本公告的更正、延期或招满。不同年份、学院学术招聘及11月劳务派遣公告不直接合并。",
+          "url": "https://hr.pku.edu.cn/rczp/jxky/index.htm"
+        }
+      ],
+      "summary": "补录2月14日正式公告的具体经济学博士岗位，材料12月1日截止、须3封推荐信；本行0—1不计人数，年龄、应届及港澳认证口径和当前空额待确认。"
+    },
+    {
+      "id": "pku-nse-research-editor-20260214",
+      "institution": "北京大学新结构经济学研究院",
+      "region": "北京",
+      "city": "北京",
+      "type": "普通高校",
+      "kind": "faculty",
+      "title": "新结构经济学研究院 · 研究技术系列（助理研究员/副研究员/研究员，刊物主编）",
+      "positionCode": "研究技术系列（公告未列数字代码）",
+      "url": "https://hr.pku.edu.cn/rczp/jxky/e37463f31411403fbaee12c05734f58e.htm",
+      "publishedAt": "2026-02-14",
+      "deadline": "2026-12-01",
+      "headcount": null,
+      "rolling": false,
+      "verifiedLevel": "position",
+      "verifiedAt": "2026-11-28T09:53:03+08:00",
+      "firstSeenAt": "2026-11-28T09:53:03+08:00",
+      "sourceAuthority": "official",
+      "majors": [
+        "经济学"
+      ],
+      "affiliation": "北京大学所属研究院，非政府直属科研院所",
+      "requirements": {
+        "education": "具体岗位表明确经济学博士；未获博士者可否先申请、获证时限待确认",
+        "freshGraduate": "公告2026年度不等于限定2026届，正文未列毕业年度和应届口径",
+        "ageText": "具体公告未单列年龄条款，学校通用政策及不同职级要求待核，不推定不限年龄",
+        "partyText": "具体公告未单列党员身份要求，学校通用条件待核",
+        "overseas": "学历学位证明属于申请材料；港澳/境外认证材料及最晚取得时限未列，待确认",
+        "research": "经济学博士，研究领域为新结构经济学，须在经济结构转型升级与产业政策方面有深入实地调研经验及研究能力；承担《新结构经济学刊》组稿、审稿等刊物主编职责",
+        "employment": "高校正式教研/研究技术系列招聘，未单列编制、合同类型、待遇和各职级分配，待确认；不是博士后招收",
+        "application": "材料截止2026年12月1日，未列具体时刻、起始时刻或滚动条款。须简历、学历学位证明、研究成果、代表论著、未来计划等，另明确简历、代表文章、出版物及3封推荐信；投递具体流程待确认"
+      },
+      "remainingVacancies": "本行计划原文为0—1，非已核实的正整数名额；headcount=null，当前是否仍接收及空额待确认",
+      "evidence": [
+        {
+          "note": "11月28日实读北大人事部完整正式公告与岗位表，本行经济学博士及具体职责明确；材料截止12月1日。原文人数0—1，不能直接取1计数；未把研究院名称视作政府研究机构或借用其他劳务派遣岗位条件。",
+          "url": "https://hr.pku.edu.cn/rczp/jxky/e37463f31411403fbaee12c05734f58e.htm"
+        },
+        {
+          "note": "实读北大教学科研招聘列表，本公告标注2026年2月14日，按原发布日期录入，非11月新公告；定向补查未确认针对本公告的更正、延期或招满。不同年份、学院学术招聘及11月劳务派遣公告不直接合并。",
+          "url": "https://hr.pku.edu.cn/rczp/jxky/index.htm"
+        }
+      ],
+      "summary": "补录2月14日正式公告的具体经济学博士岗位，材料12月1日截止、须3封推荐信；本行0—1不计人数，年龄、应届及港澳认证口径和当前空额待确认。"
     }
   ]
 }
